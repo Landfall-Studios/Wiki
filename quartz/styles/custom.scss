@@ -1,3 +1,39 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root,
+:root[saved-theme="dark"],
+:root[saved-theme="light"] {
+  --highlight: rgb(89 60 138);
+  --textHighlight: rgba(89, 60, 138, 0.4);
+  --text-highlight-bg: rgba(89, 60, 138, 0.4);
+}
+
+body a.internal,
+body a.internal-link {
+  background-color: rgba(89, 60, 138, 0.3);
+  padding: 0 0.2rem;
+  border-radius: 5px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: rgba(89, 60, 138, 0.5);
+  }
+}
+
+body .text-highlight {
+  background-color: rgba(89, 60, 138, 0.4);
+}
+
+.page-title a {
+  display: inline-block;
+  width: 100%;
+  max-width: 260px;
+  aspect-ratio: 600 / 424;
+  background-image: url("/static/logo.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
