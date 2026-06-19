@@ -216,10 +216,22 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: Landfall-Studios/Wiki
+        repoId: R_kgDOS_qaZQ
+        category: Announcements
+        categoryId: DIC_kwDOS_qaZc4C_gPQ
+        mapping: title
+        strict: false
+        reactionsEnabled: true
+        inputPosition: top
+        themeUrl: https://giscus.app/themes
+        lightTheme: catppuccin_latte
+        darkTheme: catppuccin_mocha
+        lang: en
     layout:
       position: afterBody
       priority: 10
