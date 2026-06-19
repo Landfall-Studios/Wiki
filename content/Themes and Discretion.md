@@ -1,8 +1,8 @@
 ---
+title: Themes & Discretion
 dg-publish: true
 ---
-
-# Nuance
+# Themes & Discretion
 
 Some of the pages on this wiki handle real things. Mental health struggles people actually live through. Questions about power and accountability that real institutions still get wrong. Depictions of what systems do to the people inside them. They are written carefully, but they are not soft.
 
@@ -12,7 +12,7 @@ This page is a directory. It is here so you can find those pages on purpose if y
 > Some of what is in this directory is real. Systemic abuse, self-harm, suicide, the kinds of pressure that do not lift on their own. If anything you read here puts weight on you that you cannot put down, please reach out to a mental health professional, a crisis line in your country, or someone you trust. The articles linked below are written carefully, but they are not a substitute for that help. They are also not in a hurry; you can come back to them when you are ready.
 
 > [!note] A note on fiction
-> Every page in this wiki, and every page it links to, is fiction set within the lore of Landfall. The characters depicted are played by real people, but a player is not the character they play. Acts committed in the canon, including violence, coercion, abuse of power, self-harm, and suicide, should not be read as reflecting the values, views, or real-life behavior of the players behind the roles. The fiction takes these subjects seriously with precisely the hope that the reality the players live in does not have to.
+> Every page in this wiki, and every page it links to, is fiction set within the lore of Landfall. The characters depicted are played by real people, but a player is not the character they play. Acts committed in the canon, including violence, coercion, abuse of power, self-harm, and suicide, should not be read as reflecting the values, views, or real-life behavior of the players behind the roles. The fiction takes these subjects seriously with precisely the hope that the reality the players live in does not have to involve similar struggles.
 
 
 ---

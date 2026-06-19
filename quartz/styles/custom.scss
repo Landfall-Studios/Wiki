@@ -24,6 +24,12 @@ body .text-highlight {
   background-color: rgba(89, 60, 138, 0.4);
 }
 
+body .search > .search-container {
+  background-color: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
 .page-title a {
   display: inline-block;
   width: 100%;
