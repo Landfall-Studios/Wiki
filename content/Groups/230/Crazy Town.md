@@ -21,7 +21,7 @@ Crazy Town's governance and development were driven by its unique culture, which
 ## Major Events
 
 - **Crazy Cannon Testing**: An experimental weapon designed by Crazy Town’s engineers, its destructive potential made neighboring factions wary and solidified Crazy Town’s reputation for innovation.
-- **The Cold War with Lilarreich**: While no direct battles were fought, the rivalry saw both factions bolster their military and technological capabilities.
+- **The [[Lilarreich-Crazy Town Cold War|Cold War with Lilarreich]]**: No battles were fought directly between the two powers, but the rivalry played out through proxy conflicts among smaller factions of the era, while both sides bolstered their military and technological capabilities at home.
 
 ---
 

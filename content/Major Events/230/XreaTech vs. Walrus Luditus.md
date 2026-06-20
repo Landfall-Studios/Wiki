@@ -37,7 +37,7 @@ To avoid further escalation, the defense proposed a settlement:
 2. A mutual agreement to forgo future legal claims on the matter.
 ## Outcome
 
-The case of [[XreaTech]] vs. [[Walrus Luditus]] reached its dramatic conclusion when [[Crazy Eli]], the presiding judge, ruled in favor of the defense. As Eli delivered the verdict, Luditus leapt up in celebration and detonated an explosive device hidden in the back of the courthouse. The resulting chaos left the courtroom in shambles and sent the gathered crowd into a frenzy. In the aftermath, Crazy Eli proudly revealed that he had been conspiring with Luditus all along.
+The case of [[XreaTech]] vs. [[Walrus Luditus]] reached its dramatic conclusion when [[Crazy Eli]], the presiding judge, ruled in favor of the defense. Luditus had come to court wearing an explosive vest, prepared to take the verdict with him if it went against him. With acquittal in hand, he leapt up in celebration, sprinted to the back of the courtroom, stripped off the vest and hurled it at the wall, where it detonated. The resulting chaos left the courtroom in shambles and sent the gathered crowd into a frenzy. In the aftermath, Crazy Eli proudly revealed that he had been conspiring with Luditus all along.
 
 Luditus was swiftly apprehended and sentenced to imprisonment within The Drive, a spatial prison designed to isolate dangerous individuals. During his confinement, Luditus penned a manifesto outlining his radical philosophies and justifications for the bombing. [[Crazy Eli]] passed away while Luditus remained in The Drive. Upon his release, the manifesto was disseminated publicly, further fueling his descent into madness, and he went on to assume leadership of [[Crazy Town]] in Eli's absence.
 
