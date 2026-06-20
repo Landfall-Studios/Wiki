@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 These towering peaks are home to constant storms, believed to be remnants of divine conflicts long forgotten. The region’s jagged mountains are perilous, but its tempestuous nature has attracted those with something to prove. 

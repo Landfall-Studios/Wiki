@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 #### **Overview**
 
 Enzo du Roscarte is the hammer of House du Roscarte, the warrior who ensures that his family’s influence is not merely secured through words and wealth but through sheer, undeniable force. While [[Seraphine du Roscarte]] and [[Étienne du Roscarte]] maneuver through courts and ledgers, Enzo commands the unseen battlefield, ensuring that no threat to the Roscarte name is left standing.

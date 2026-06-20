@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Rotatus Island served as the headquarters of [[Rotatus Incorporated]]. It featured beautiful farms and a large house. The island became a sought after historical site later in [[Landfall-230 - The Great Dominion]].

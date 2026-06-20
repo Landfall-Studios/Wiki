@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2026-05-26
 ---
 This act establishes the **Lilaris Criminal Code (1-LCC)** as the official legal framework for defining and prosecuting criminal offenses within The Second Lilaris Empire. It categorizes offenses, prescribes penalties, and outlines enforcement mechanisms to uphold law and order.
 

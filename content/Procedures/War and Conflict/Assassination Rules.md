@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 > [!warning] Per the [[Death "Core" System Guide]], this article only applies to Corebreak. Dropping a character does not constitute an assassination in the way these rules apply.
 

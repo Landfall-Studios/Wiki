@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 The [[Lilarreich Legislature]], located in the heart of [[Terranova]], was an architectural masterpiece that housed the government’s key administrative and judicial functions. Its elegant facade concealed a bustling ground floor of offices where policies and strategies were crafted. Below, a vast basement complex featured the Lilarreich Supreme Court, an assembly hall for major governmental decisions, and several portals for efficient travel. Notably, the basement also included a small bar operated by [[Chateau Fleur de Bleu]], providing a discreet yet lively venue for informal political gatherings. The Legislature stood as a symbol of Lilarreich’s commitment to governance, innovation, and cultural refinement.

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The capital city of [[Lilarreich]], Terranova was the political, cultural, and technological epicenter of the Great Dominion. Known for its intricate architecture and meticulously designed urban layout, the city reflected Lilarreich’s commitment to progress and unity. As the seat of the Chancellor, Terranova housed key administrative buildings, including the Capitol and the Legislature. The city was also a hub for innovation, hosting international events and research institutions. Its cultural significance and strategic location made it the jewel of Lilarreich.

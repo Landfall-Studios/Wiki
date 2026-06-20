@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Deities
 
 - **Volkar, The Silent Smith**: Master of creation, forging life and matter from raw elements.

@@ -1,9 +1,9 @@
 ---
 title: The Underwater Nation of Athenia
 description: The submerged successor polity to Athena, founded under the eastern sea after most of Athena's population walked out on the leadership's fabricated god. Traded with Fuhai during a short independent period, lost its government to unexplained vanishings, and was annexed into Fuhai with the consent of its remaining citizens. Formally abbreviated TUNA.
-dg-publish: true
 tags:
   - L830
+created: 2026-06-20
 ---
 
 ## Overview

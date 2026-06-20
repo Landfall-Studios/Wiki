@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 Ashen Caldwell, the enigmatic founder of the [[Mirage Concord]], is a devout follower of Volkar and Kaelix ([[Conclave of the Silent Forge]]), whom he reverently calls "Forge" and "Hammer." Once a mercenary of little consequence, Caldwell’s life changed forever during a fateful battle involving an experimental cannon. Surviving a catastrophic explosion that should have ended his life, he emerged fused into his melted armor, claiming to have received a divine vision. Driven by this transformative event, Caldwell set out to forge a new society in the harsh deserts, dedicated to the worship of Forge and Hammer and the unearthing of ancient relics.

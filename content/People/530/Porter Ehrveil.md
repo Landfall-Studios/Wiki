@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Porter Ehrveil, known as _The Charming_, is the charismatic but volatile Secretary of Defense for the [[Ehrengard Empire]]. His daring military strategies and theatrical leadership style have made him both celebrated and feared. Porter’s methods are bold, often leaning into spectacular displays of force, earning him a reputation as a tactical genius teetering on the edge of recklessness.

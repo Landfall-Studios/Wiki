@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 New Terranova is the capital of [[The Second Lilaris Empire]] and the federal seat of the [[The Constitution of the United Provinces of Lilaris|United Provinces of Lilaris]]. It was originally established under the [[Ehrengard Empire]] as the successor city to the historic [[Terranova]] of [[Landfall-230 - The Great Dominion]], inheriting that capital's role as the political and administrative heart of the dominant Lilaris-aligned state. After the founding of the Empire it served as the seat of the [[Ehrveillian Dynasty]] and the working capital of the Imperial government.

@@ -1,9 +1,9 @@
 ---
 title: Camina Gravacs
 description: Trans woman, descendant of the Ehrveil and Skorne lines, X-Seven asset under the Second Lilaris Empire's standing doctrine of protection, private partner to President Marsh Horton, and the source of the framework and evidence that precipitated the killings recorded in What Marsh Did.
-dg-publish: true
 tags:
   - L830
+created: 2026-06-20
 ---
 
 ## Overview

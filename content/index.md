@@ -1,7 +1,6 @@
 ---
 title: Home
-dg-publish: true
-dg-home: true
+created: 2026-06-19
 ---
 Welcome to the **Landfall SMP Wiki**, your guide to the ever-expanding lore, history, and factions of the Landfall multiverse. Here you'll find detailed pages on the major epochs, key figures, legendary groups, and pivotal events that have shaped this world over millennia.
 

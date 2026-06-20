@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Lucius Ehrveil was the second leader of the [[Ehrveillian Dynasty]] and the dominant political figure of [[Landfall-230 - The Great Dominion]]. As Chancellor of [[Lilarreich]] he carried the mantle from the dynasty's founder, [[Thomas Ehrveil]], and presided over the era now remembered as the nation's golden age. He earned the title *The Architect* for the breadth of institutions he established, both public and clandestine.

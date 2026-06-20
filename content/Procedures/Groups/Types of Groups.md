@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 These are the official classifications of political, military, and economic groups. Each type has specific rules, powers, and limitations. Players must select a type when forming a faction, company, or settlement.
 

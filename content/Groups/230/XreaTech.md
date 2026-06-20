@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 Founded during [[Landfall-230 - The Great Dominion]] by [[Zee Bane]], XreaTech was an ambitious nation built on principles of self-reliance and technological innovation. Situated near [[Terranova]], it quickly distinguished itself with its self-sustaining infrastructure, including an advanced power plant, a bustling market, and a carefully designed housing district.

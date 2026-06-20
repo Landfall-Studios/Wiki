@@ -1,11 +1,10 @@
 ---
 title: The Roscarte Coup
 description: The brutal dismantling of the Ehrengard Empire by Seraphine du Roscarte; the killing of Porter Ehrveil, the forced abdication of Avery R. Ehrveil, and the birth of Sovarre as the regime that took the Empire's place.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
-
 ## Overview
 
 The Roscarte Coup, also recorded under the regime motto **Viva la Maison du Roscarte**, was the rapid and deliberately brutal dismantling of the [[Ehrengard Empire]] by [[House du Roscarte]] under [[Seraphine du Roscarte]]. Over the course of a single campaign it executed the Empire's Secretary of Defense, forced the abdication of Empress [[Avery R. Ehrveil]], dissolved the imperial administration, outlawed the name *Ehrengard*, and erased the Ehrveil dynasty from the official record. The state that took Ehrengard's place was [[Sovarre]], a dominion ruled through fear, calculated violence, and the spectacle of obedience.

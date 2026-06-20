@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 Establishing a group in Landfall SMP helps define your role in the world—whether you're founding a mighty empire, running a merchant company, leading a small village, or forming a covert rebel cell. This guide outlines how to create and formally declare each recognized group type, based on the [[Types of Groups]] system.
 

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 Desmond Versalhes, Political Affairs Leader of the [[Magda'roth Empire\|Magda'roth Empire]], is the eldest of the Versalhes twins and a notable figure in his nation’s diplomacy. Guided by his late father’s vision to rekindle the Magda'roth flame and elevate the Versalhes name, Desmond has tirelessly worked with his brother [[Derek Versalhes\|Derek Versalhes]] to position Magda'roth as a respected power in the world. His keen understanding of diplomacy and his unyielding dedication have earned him a reputation as both a capable negotiator and a man of the people.

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2026-05-26
 ---
 **OPERATION NIGHTSHRIKE**  
 **DECLASSIFIED**

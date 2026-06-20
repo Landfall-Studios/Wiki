@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Asylum, built by [[Walrus Luditus]], stands as a stark reminder of [[Caldora]]’s tumultuous past. Situated adjacent to both [[Terranova]] and [[Rotatus Island]], the facility serves as a refuge for those deemed unstable or dangerous, offering both isolation and the opportunity for rehabilitation.

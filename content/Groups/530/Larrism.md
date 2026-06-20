@@ -1,9 +1,9 @@
 ---
 title: Larrism
 description: The Larry Cult, a high-control religious movement built around the chrome-helmeted godhead Huge Larry, its capture of two empires, and its collapse in the Night of the Veil.
-dg-publish: true
 tags:
   - L530
+created: 2026-05-26
 ---
 
 > [!warning] Content warning

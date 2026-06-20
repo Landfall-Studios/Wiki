@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 The **Divine Commentary** ensures that wars in the Landfall SMP remain fair, tactical, and engaging, while preventing rapid, unfair conquests. This system governs territorial expansion, ensuring strategic depth and balanced gameplay.
 

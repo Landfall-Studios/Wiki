@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 To ensure fair play, consistency, and a cohesive narrative in the Landfall SMP canon, the following guidelines have been established for players who wish to engage in multi-character roleplay. These rules outline character creation, switching, death mechanics, and the maintenance of established histories.
 

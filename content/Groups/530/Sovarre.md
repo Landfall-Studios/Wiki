@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 ## **Overview**
 
 Sovarre is the nation originally forged from the ashes of the [[Ehrengard Empire]], established after the [[Roscarte Coup]] and ruled with absolute authority by [[Seraphine du Roscarte]]. Unlike its predecessor, Sovarre is not built on ideals, tradition, or noble governance—it is a regime of control, obedience, and calculated fear.

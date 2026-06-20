@@ -1,7 +1,7 @@
 ---
-dg-publish: true
 tags:
   - L830
+created: 2025-07-29
 ---
 ![[830-full.png]]
 ## Overview

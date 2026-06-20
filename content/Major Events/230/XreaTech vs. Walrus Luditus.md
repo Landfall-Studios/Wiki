@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The legal conflict between **XreaTech**, represented by its founder [[Zee Bane]], and [[Walrus Luditus]] is one of the most infamous cases in [[Landfall-230 - The Great Dominion]] history. The case centered on allegations of airspace violations, theft, and even manslaughter within XreaTech’s jurisdiction. Filed under XreaTech’s newly minted commercial code, the case sparked a heated legal battle that exposed tensions between emergent corporate nations and rogue individuals.

@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 Seraphine du Roscarte, the enigmatic Viscountess of [[Roscarte]] and sister of [[Étienne du Roscarte]] and [[Enzo du Roscarte]], is one of the most polarizing figures within the [[Ehrengard Empire]]. A woman of effortless charm and sharp wit, she blends the grace of aristocracy with the indulgence of high society. Officially the ruler of Roscarte, a secluded retreat for the empire’s elite, she paradoxically thrives in its extravagant social scene—whether for the wine, the endless gossip, or the loud music. Beneath her reputation as a carefree socialite, however, lies one of the Empire’s most valuable operatives, a woman whose influence extends far beyond the velvet curtains of Roscarte’s grand estates.

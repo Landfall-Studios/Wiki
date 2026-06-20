@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 Chateau Fleur de Bleu is a luxurious estate and cultural landmark known for its breathtaking architecture, vibrant gardens, and association with artistic and diplomatic gatherings. Situated in [[Cornflower]], the Chateau became a meeting place for dignitaries, artists, and influential figures throughout [[Caldora]].

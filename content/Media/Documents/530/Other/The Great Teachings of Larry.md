@@ -1,9 +1,9 @@
 ---
 title: The Great Teachings of Larry
 description: The only surviving devotional text from inside the Larry Cult. An anonymous adherent compilation of foundings, miracles, and laws of conduct, recovered from a chapel ruin after the Night of the Veil.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-20
 ---
 
 > [!note] On this text

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 Klein Moretti is an Ehrengardian war hero whose valor and decisive actions led to the defeat of the [[Zatrian National Republic]] (ZNR), earning him the prestigious title of Lord Commander. A man of mystery, Klein’s origins remain unknown, yet his loyalty to [[Ehrengard Empire]] and his remarkable leadership have cemented his place in the annals of the Empire’s history.
 

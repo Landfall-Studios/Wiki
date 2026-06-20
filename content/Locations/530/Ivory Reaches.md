@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The Ivory Reaches are a majestic expanse of towering white cliffs and frozen coastal plains. The region is known for its pristine beauty and its proximity to the northern seas, where the sun's light reflects off the icy waters in a brilliant display. 

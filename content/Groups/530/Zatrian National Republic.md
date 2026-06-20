@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The Zatrian National Republic, commonly referred to as the ZNR, was a sovereign nation known for its militaristic culture, disciplined governance, and emphasis on self-reliance. The Republic emerged as a regional power early during [[Landfall-530 - Noble Blood]], characterized by its strict adherence to order and resistance to outside influence.

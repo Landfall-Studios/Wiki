@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 The Red Diamond Casino is the flagship venue of the [[Red Corporation]], established by [[Edward Redcliffe]] as an exclusive destination that rapidly evolved into a premier site for impromptu get-togethers and high-stakes gambling. Beyond its reputation as a hub for entertainment, the casino served as Edward’s private residence for most of his time in [[New Terranova]], reflecting his penchant for merging luxury with personal sanctuary.
 

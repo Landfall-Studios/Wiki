@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Lilarreich-Crazy Town Cold War was a period of intense rivalry and political tension between the technologically advanced nation of [[Lilarreich]] and the eccentric but resourceful [[Crazy Town]] during [[Landfall-230 - The Great Dominion]]. No battles were fought directly between the two powers; the war stayed cold between them, with hostilities playing out through proxy conflicts among the smaller factions of the era. Alongside the proxy wars, the rivalry was marked by propaganda campaigns, strategic posturing, and a battle for influence over neighboring territories.

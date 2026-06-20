@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Willy Luditus, leader of a religious extremist faction, is infamous for assassinating Emperor [[Kieran Ehrveil]] during the [[Luminara Festival]]. His ideology positions him as a vehement opponent of the [[Ehrengard Empire]], which he viewed as heretical and corrupt.

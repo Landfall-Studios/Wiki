@@ -1,9 +1,9 @@
 ---
 title: Isaac Acentino
 description: Vintner-turned-duke, biological father of Empress Kara A. Ehrveil, founding monarch of the short-lived Idesian Empire, and Larrist co-defendant killed in the Night of the Veil.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 
 ## Overview

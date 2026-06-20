@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 House du Roscarte is one of the most powerful and feared noble houses in history, known for its ruthless ambition, mastery of manipulation, and eventual rise to absolute dominion. Originally a house of diminished prestige, the Roscarte family rebuilt itself through wealth, espionage, and sheer force of will, ultimately orchestrating the fall of the [[Ehrengard Empire]] and establishing [[Sovarre]] in its place.

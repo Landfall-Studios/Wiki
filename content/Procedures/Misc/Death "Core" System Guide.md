@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-11-01
 ---
 This guide explains the death and resurrection mechanics used on the Landfall server, including cores, shells, and the consequences of multiple deaths.
 

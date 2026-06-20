@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2026-06-19
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Kael Thorne was a dual-citizen; both an [[New Ides|Idesian]] and [[The Second Lilaris Empire|Lilarisi]] scientist active in the latter half of [[Landfall-530 - Noble Blood]] and a researcher in the personal service of [[Riven Skorne]]. His private research project was the pursuit of indefinite lifespan through the biology of the sea pickle, an organism whose unusual mode of co-consciousness he was attempting to characterize and reproduce. The methods and principles he developed in that work would become foundational to research conducted long after his time.

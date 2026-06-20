@@ -1,9 +1,9 @@
 ---
 title: Riven Skorne
 description: Duchess of New Ides, Imperial Consort to Empress Kara A. Ehrveil, and the figure who steered New Ides out of its Larrist period after the death of Isaac Acentino.
-dg-publish: true
 tags:
   - L530
+created: 2026-05-26
 ---
 
 ## Overview

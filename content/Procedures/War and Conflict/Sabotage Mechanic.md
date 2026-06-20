@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 Sabotage represents covert, asymmetric interference with an enemy faction’s infrastructure, economy, morale, or logistics. It enables guerilla factions, mercenaries, or cunning states to shape a war through indirect means—**without descending into griefing or excessive destruction**.
 

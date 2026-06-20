@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2026-05-26
 ---
 **By the Will of the Imperial Crown, and in the Light of Ancestral Union, this Accord restores the Duchy of New Ides to its rightful station within the dominion of The Second Lilaris Empire.**
 

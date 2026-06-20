@@ -1,9 +1,9 @@
 ---
 title: Huge Larry
 description: The chrome-helmeted godhead at the center of Larrism, killed alongside the rest of the cult's leadership in the Night of the Veil.
-dg-publish: true
 tags:
   - L530
+created: 2026-05-26
 ---
 
 ## Overview

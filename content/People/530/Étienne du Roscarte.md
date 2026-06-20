@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
-
 ## Overview
 
 Étienne du Roscarte is the silent force behind the wealth and influence of House du Roscarte. Where his sister thrives in spectacle, he operates in quiet precision, moving money, debts, and favors like pieces on a board. A financier, a strategist, and a man who sees power not in titles but in leverage, he ensures that while Seraphine spins chaos into opportunity, he turns opportunity into control.

@@ -1,9 +1,9 @@
 ---
 title: Nordvik Alvaldi
 description: Statesman of Saludo, co-sovereign of the Second Lilaris Empire under Kara A. Ehrveil, brother of Amlooi, and a man who carried more in private than the public record of his reign ever acknowledged.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 > [!warning] Content warning
 > This article documents a state-level figure's role in atrocity committed during a psychotic break, the Imperial cabinet's coverup of that role at the cost of his goddaughter's grief and mental health, his decades-long knowledge of her self-injury, and the slow private reckoning he carried for the rest of his life. References [[The Night of the Veil]] and [[What Kara Carried]], both of which carry their own content warnings.

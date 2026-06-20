@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - OldRealm
+  - L230
+  - L530
 ---
-#OldRealm #L230 #L530
 ## Overview
 
 The Ehrveillian Dynasty, rooted in centuries of history, stands as a testament to unyielding ambition, intellectual mastery, and a commitment to shaping the future. From the [[Old Realm]] to the modern [[Ehrengard Empire]], the Ehrveils have defined eras through their leadership, innovation, and resilience. Their influence has shaped governance, culture, and progress across every corner of Caldora.

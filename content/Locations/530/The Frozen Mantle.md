@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 A barren and unforgiving land of eternal winter, the Frozen Mantle is defined by its vast,

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2026-06-19
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The Red Corporation is the private commercial holding founded by [[Edward Redcliffe]] in [[New Terranova]] during the middle period of [[Landfall-530 - Noble Blood]]. Outwardly it is a hospitality and entertainment concern built around the prestige of the [[Red Diamond Casino]]; in practice it functions as a personal vehicle for its owner's interests across Caldora, with subsidiary operations that range from the openly luxurious to the deliberately unaccountable.

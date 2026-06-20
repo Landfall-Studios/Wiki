@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Deity
 
 - **Sylhara, The Eternal Loom**: The divine weaver of life’s interconnected tapestry.

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 A vast and harsh desert, the Sunchurn Expanse is a land where the sun beats down

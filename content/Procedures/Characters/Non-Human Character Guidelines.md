@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 To maintain consistency within the Landfall SMP canon, the following guidelines define the role of non-human characters, including anthropomorphic (furry) characters, within the server’s lore.
 

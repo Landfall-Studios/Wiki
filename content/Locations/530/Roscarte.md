@@ -1,8 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 Roscarte is the crown jewel of aristocratic indulgence within the [[Ehrengard Empire]], an exclusive retreat where the empire’s most powerful figures escape from the rigid formality of court life. Located in the outskirts of [[Varenholde]], Roscarte is a small city of opulence, grandeur, and carefully veiled intrigue. Known for its lavish galas, private estates, and its reputation as the ultimate playground for nobility, it is as much a battlefield of whispered alliances as it is a haven for excess.

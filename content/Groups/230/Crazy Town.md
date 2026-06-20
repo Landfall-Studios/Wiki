@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Crazy Town is a faction renowned for its chaotic energy, eccentric leadership, and a knack for surprising its neighbors with bold, unpredictable decisions. While it initially began as a fledgling nation, it grew into a force to be reckoned with, often challenging larger powers like [[Lilarreich]] through ingenuity and sheer audacity.

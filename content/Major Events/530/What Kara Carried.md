@@ -1,11 +1,10 @@
 ---
 title: What Kara Carried
 description: The private record of Kara A. Ehrveil's lifelong practice of self-injury and the ethical questions it raises about disclosure, governance, and what is owed to a sovereign's interior life.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-19
 ---
-
 > [!warning] Content warning
 > This article discusses chronic self-harm (cutting, burning), suicidal ideation, childhood trauma, and the violent death of a parent witnessed by a child. It is written carefully but it does not soften these subjects.
 >

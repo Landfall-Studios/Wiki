@@ -1,11 +1,10 @@
 ---
 title: What Camina Carried
 description: The record of a single event that happened to Camina Gravacs as a newly-eighteen-year-old in Echo Sprawl, set within the five years of online grooming and the months of work in front of a camera that preceded it.
-dg-publish: true
 tags:
   - L830
+created: 2026-06-19
 ---
-
 > [!warning] Content warning
 > This article discusses sexual coercion, the internal aftermath that follows, the structural conditions that push marginalized people into survival sex work, and the long-term effects of survival-sex conditioning on a victim. It is written carefully but it does not soften these subjects.
 >

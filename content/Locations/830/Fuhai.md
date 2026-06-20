@@ -1,9 +1,9 @@
 ---
 title: Fuhai
 description: The settlement founded west of the badlands by defectors from Echo Sprawl 492 years after The Blaze, built without a constitution and governed by the accumulation of its own laws. The largest experiment in non-corporate civic life on post-Blaze Earth.
-dg-publish: true
 tags:
   - L830
+created: 2026-06-20
 ---
 
 ## Overview

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-07-29
+tags:
+  - OldRealm
 ---
-#OldRealm 
 ### **Overview**
 
 Adamastor Magda Versalhes was a descendant of the ancient Magda royal family and founder of the modern [[Magda'roth Empire\|Magda'roth Empire]]. He inherited the legacy of the fallen Magda’roth Kingdom, rising from the ashes to establish House Versalhes. Adamastor’s leadership and vision set the foundation for the Empire’s enduring resilience and ambition.

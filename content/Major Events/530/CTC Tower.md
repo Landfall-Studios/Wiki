@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-07-29
+tags:
+  - L530
 ---
-#L530 
 ## Overview  
 The CTC Tower, or Crazy Town Capitol Tower, was a contentious structure erected shortly after the assassination of Emperor [[Kieran Ehrveil\|Kieran Ehrveil]] during the [[Luminara Festival\|Luminara Festival]]. Built provocatively on the border of [[New Terranova\|New Terranova]] and directly behind Dominion Hall, the tower became a symbol of defiance against Ehrengardian sovereignty. Its looming presence over the Imperial seat was widely regarded as a direct provocation from the CTC, led by [[Willy Luditus\|Willy Luditus]], the same man responsible for the Emperor's death.
 

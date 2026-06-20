@@ -1,9 +1,9 @@
 ---
 title: The Second Lilaris Empire
 description: The dominant power of mid-to-late Landfall-530, founded by the merger of the Ehrengard remnants with Saludo, governed by Kara A. Ehrveil and Nordvik Alvaldi under the Twin Crowns, and eventually converted into the United Provinces of Lilaris.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 
 ## Overview

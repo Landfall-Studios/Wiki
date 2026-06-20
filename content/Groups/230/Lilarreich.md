@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 Lilarreich, one of the founding nations of [[Caldora]], was a dominant political and cultural power, embodying a vision of unity, progress, and innovation. Known for its sophisticated governance, Lilarreich served as the cradle of technological advancements, cultural renaissance, and the ideals that laid the foundation for the [[Ehrengard Empire]]. Its structures, traditions, and diplomatic influence made it an unparalleled force in the early epochs of the canon.
 

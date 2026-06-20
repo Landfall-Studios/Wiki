@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Rotatus Incorporated is a logistics, agriculture, and transportation company renowned for its innovation in supply chain management and engineering. Playing a crucial role in the early epochs of [[Caldora]], Rotatus Incorporated focused on creating infrastructure and systems that allowed other factions to thrive. Like [[LobsterCo]], Rotatus gained a reputation for mischief due to the excursions of it's executive officer, [[Walrus Luditus]].

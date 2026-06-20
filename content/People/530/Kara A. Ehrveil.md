@@ -1,9 +1,9 @@
 ---
 title: Kara A. Ehrveil
 description: Co-sovereign of the Second Lilaris Empire, co-founder of the United Provinces of Lilaris, and the daughter of Avery R. Ehrveil.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 
 ## Overview

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 The Luminara Festival is a celebrated annual event in the [[Ehrengard Empire]], originally established during the early days of [[Landfall-530 - Noble Blood]] to look forward to the year ahead. Held in [[New Terranova]], the festival features a board to write gratitude and aspirations, cultural performances, and a spectacular display of fireworks symbolizing hope and renewal.

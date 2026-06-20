@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2026-05-26
 ---
 # **War Crimes Under the Jurisdiction of the International Criminal Court (ICC)**
 

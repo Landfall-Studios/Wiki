@@ -1,9 +1,9 @@
 ---
 title: Vetis Veltol
 description: Knight, merchant-prince, and sole proprietor of the Red Corporation. He trained under Amlooi Alvaldi, extracted Princess Salem Alvaldi from the Idesian Empire after the Princess Salem Incident, and withdrew from public life after the deaths of nearly everyone he had been close to.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-19
 ---
 
 ## Overview

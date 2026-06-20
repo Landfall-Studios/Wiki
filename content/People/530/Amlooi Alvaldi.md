@@ -1,9 +1,9 @@
 ---
 title: Amlooi Alvaldi
 description: Itinerant Alvaldi knight, master of Vetis Veltol, senior Larrist initiate, and author of the diary that became the most complete first-person record of the faith's interior life. Killed by Seraphine du Roscarte in the closing stretch of the epoch.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-19
 ---
 
 ## Overview

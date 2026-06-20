@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Avery R. Ehrveil, the former Empress of the [[Ehrengard Empire]], embodies the dynasty's commitment to leadership forged through resilience and earned respect. Known for her pragmatic approach to governance and her unyielding belief in strength through unity, Avery has emerged as a symbol of both renewal and continuity for the Empire. Her experiences beyond the Empire’s borders shaped her into a ruler who values both compassion and resolve, standing as a testament to the legacy of the [[Ehrveillian Dynasty]].

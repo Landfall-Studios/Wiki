@@ -1,9 +1,9 @@
 ---
 title: Echo Sprawl
 description: The corporate-controlled arcology that became the last functional refuge after The Blaze, run as a labor-extraction facility by Citadel, Oki, and Goldworks. A portrait of what happens to ordinary people when no institution above the corporations exists to check them.
-dg-publish: true
 tags:
   - L830
+created: 2025-07-29
 ---
 
 > [!warning] Content warning

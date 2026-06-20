@@ -1,11 +1,10 @@
 ---
 title: The Annexation of Whitefall
 description: The peaceful secession of the township of Merlot from the Idesian Empire under Mayor Ashling Goldwound, citing the Larrist collapse of the Idesian regime, and its integration into the Second Lilaris Empire as the renamed Whitefall.
-dg-publish: true
 tags:
   - L530
+created: 2026-05-26
 ---
-
 ## Overview
 
 The Annexation of Whitefall was the peaceful secession of the township formerly known as **Merlot** from the Idesian Empire (the late, Larrist-aligned regime of [[New Ides]] under [[Isaac Acentino]]) and its voluntary integration into [[The Second Lilaris Empire]]. The transition was led by Mayor **Ashling Goldwound**, who renounced her fealty to the Idesian state on the grounds that it had collapsed ideologically under Larrist extremism. Upon signature of the [[Annexation of Whitefall|Annexation Agreement]] she was elevated to Viscountess and the township was renamed Whitefall.

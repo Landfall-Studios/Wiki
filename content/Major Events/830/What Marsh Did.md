@@ -1,9 +1,9 @@
 ---
 title: What Marsh Did
 description: The record of the events by which President Marsh Horton, in the second decade of Fuhai's existence, ordered the killings of cofounders Nova, Luna, and Octavia and arranged for their deaths to be entered into the public record under causes that did not name the presidency.
-dg-publish: true
 tags:
   - L830
+created: 2026-06-20
 ---
 > [!warning] Content warning
 > This article documents political assassination, the corruption of a founding ideology by power, intimate partnership as the vehicle of a political conclusion, the use of state authority against the polity's own founders, and the sustained falsification of public records. It is written carefully but it does not soften these subjects.

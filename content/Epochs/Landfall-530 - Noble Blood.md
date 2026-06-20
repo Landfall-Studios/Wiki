@@ -1,9 +1,9 @@
 ---
 title: Landfall-530 - Noble Blood
 description: The Noble Blood epoch of the Landfall SMP, set fifteen centuries after Landfall-230, defined by old bloodlines, divine intervention, and the rediscovery of ancient technology.
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 
 ![[530-full.png]]

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Deity
 
 - **Nethrys, The Shadowed One**: Guardian of balance, dwelling in the liminal spaces between opposites.

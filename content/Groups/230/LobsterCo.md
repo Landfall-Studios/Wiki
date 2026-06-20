@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
+  - L241
+  - L530
 ---
-#L230 #L241 #L530
 ## Overview
 
 LobsterCo is a powerful industrial conglomerate known for its ruthless efficiency, technological innovation, and controversial practices. Initially focused on resource extraction and mass manufacturing, LobsterCo’s rapid growth and ambition have made it one of the most influential entities in the Landfall multiverse. While praised for its ability to deliver results on an unprecedented scale, the company has often been criticized for its environmental degradation and morally ambiguous strategies.

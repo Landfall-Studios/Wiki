@@ -1,9 +1,9 @@
 ---
 title: The People v. Huge Larry
 description: The high-profile criminal trial of the Larry Cult's leadership in the New Terranova Imperial Court, suspended by defense counsel's intoxication and ended by the assassination of every defendant in the Night of the Veil.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-20
 ---
 ## Overview
 

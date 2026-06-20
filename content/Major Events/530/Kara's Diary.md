@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+created: 2025-07-29
+tags:
+  - L530
 ---
 Throughout her life, [[Kara A. Ehrveil]] wrote about significant life events in her personal diary.
 

@@ -1,7 +1,9 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
+  - L530
 ---
-#L230 #L530
 ## Overview
 
 DaemonWare Labs is a cutting-edge research organization specializing in advanced technology, weaponry, and artificial intelligence. Known for its secrecy and groundbreaking innovations, DaemonWare Labs has been both a source of progress and a point of contention due to the implications of its creations.

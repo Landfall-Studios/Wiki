@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2026-05-26
 ---
 *To be enacted by popular referendum, upon the assent of the Twin Thrones*
 

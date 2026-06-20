@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 The LCR system allows players—especially Legends with a passion for the canon—to propose major lore events requiring technical assistance or elements beyond the game’s native support (e.g., creating a "Multiversal Extrapolator" to crash together timelines or introducing new mobs for a Sculk Horde invasion).
 

@@ -1,7 +1,7 @@
 ---
-dg-publish: true
 tags:
   - L530
+created: 2025-07-29
 ---
 *"The gods did not die. They were never gods to begin with."*  
 – Transmission intercepted by TSLE from New Ides, Day 3 of The Blaze

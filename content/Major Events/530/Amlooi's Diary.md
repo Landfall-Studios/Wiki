@@ -1,11 +1,10 @@
 ---
 title: Amlooi's Diary
 description: First-person account by Amlooi Alvaldi of his late life among the Larrists, recovered after his assassination at the hands of Seraphine du Roscarte and eventually delivered to his brother Nordvik.
-dg-publish: true
 tags:
   - L530
+created: 2025-07-29
 ---
-
 Throughout his troubled life, Amlooi Alvaldi maintained a diary of his travels and troubles. After his assassination at the hands of [[Seraphine du Roscarte]], Amlooi's Diary eventually reached his brother, [[Nordvik Alvaldi]].
 
 ---

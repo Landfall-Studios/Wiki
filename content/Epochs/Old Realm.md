@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - OldRealm
 ---
-#OldRealm 
 ## **Overview**
 
 The Old Realm refers to the ancient, semi-mythical history of [[Caldora]] before the establishment of recorded epochs. This era, shrouded in ambiguity and legend, serves as the foundation upon which all epochs were built. Events and figures from the Old Realm are often romanticized, with accounts varying widely between oral traditions, surviving texts, and archaeological remnants. Though not always officially played out, this era influences the cultural and ideological framework of modern factions, providing context for the rise of figures such as [[Thomas Ehrveil]].

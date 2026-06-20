@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Chancellor’s Banquet was a grand diplomatic event hosted in [[Terranova]] during the height of [[Landfall-230 - The Great Dominion]]. Organized by Chancellor [[Lucius Ehrveil]], the banquet brought together leaders, diplomats, and influential figures from across Caldora to foster unity and collaboration.

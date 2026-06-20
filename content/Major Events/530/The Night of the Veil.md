@@ -1,11 +1,10 @@
 ---
 title: The Night of the Veil
 description: Coordinated mass assassination of the Larrist leadership by Sovarre on a single night, and the systematic destruction of Larrist communities that followed in the week after.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-20
 ---
-
 > [!warning] Content warning
 > Detailed accounts of coordinated political assassination, the deliberate targeting and killing of non-combatant civilians (including children, the elderly, and infants) during religious services, the staging of bodies for psychological effect, the use of a captive spouse as a witness to her husband's killing, and the systematic destruction of an entire faith community by a state paramilitary. The article is written carefully. It is not softened. The sections covering the week after the strike, and the recovered Bureau inventory, go into specifics that may be difficult to read.
 >

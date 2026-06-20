@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+created: 2025-05-25
 ---
 This is an overview on the Rules of War, encouraging tactical warfare while preserving the beauty, creativity, and politics of the Landfall SMP.
 

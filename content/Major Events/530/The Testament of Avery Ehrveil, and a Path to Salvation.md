@@ -1,7 +1,7 @@
 ---
-dg-publish: true
 tags:
   - L530
+created: 2025-05-25
 ---
 Following her abdication of the crown in the [[Roscarte Coup]], [[Avery R. Ehrveil]] went into hiding and wrote the following. It is likely intended as a message to her children and it is aptly titled **The Testament of Avery Ehrveil, and a Path to Salvation**, often referred to simply as **The Last Edict**.
 

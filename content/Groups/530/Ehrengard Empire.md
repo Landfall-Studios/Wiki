@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-07-29
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The **Ehrengard Empire**, successor to the ideals of [[Lilarreich\|Lilarreich]], was a dominant superpower in [[Locations/Caldora\|Caldora]]. Rooted in the traditions of the [[Ehrveillian Dynasty\|Ehrveillian Dynasty]], the Empire was built on principles of unity, order, and progress, with a centralized governance structure under the Emperor.

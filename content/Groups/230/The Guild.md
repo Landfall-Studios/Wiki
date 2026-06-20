@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Guild was a vast network of merchants, financiers, and industrialists established during the height of [[Lilarreich]]’s prosperity. Founded and overseen by [[Lucius Ehrveil]], The Guild played a pivotal role in shaping economic policies, fostering trade, and cementing Ehrveillian influence across [[Caldora]].

@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2026-06-19
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Veltic Veltol is the younger brother of [[Vetis Veltol]] and an apprentice merchant under [[Edward Redcliffe]]. He arrived in [[New Terranova]] alongside his brother during the mid-period of [[Landfall-530 - Noble Blood]], following a long journey from their distant homeland, and has since spent the bulk of his career in Edward's mentorship rather than in his brother's circle.

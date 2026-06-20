@@ -1,11 +1,10 @@
 ---
 title: The Death of Edward Redcliffe
 description: The full account of Edward Redcliffe's last week. His transfer of the Red Corporation to Vetis, his final public address, his last conversation with Avery on the Vesperine Temple patio, and the planning that preceded his suicide.
-dg-publish: true
 tags:
   - L530
+created: 2026-06-19
 ---
-
 > [!warning] Content warning
 > This article discusses depression and suicide in detail, including the planning that preceded the death and the late-stage signs that surrounded it. It is written carefully but it does not soften these subjects.
 >

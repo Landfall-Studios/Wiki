@@ -1,7 +1,9 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
+  - L530
 ---
-#L230 #L530
 ## Overview
 
 The Citadel Corporation is a clandestine and highly centralized organization, quietly orchestrating its operations from the shadows of [[Caldora]]’s bustling power structures. While its name remains largely unknown to the general populace, Citadel’s influence pervades through its numerous Departments, often referred to internally as "Fronts." These departments act as independent entities with specific purposes, shielding Citadel’s true scope and intentions from public scrutiny.

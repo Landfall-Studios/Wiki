@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Crazy Cannon was an infamous creation of [[Crazy Eli]], a founding member of [[Crazy Town]], during [[Landfall-230 - The Great Dominion]]. Built as both a defensive measure and a statement of technological audacity, the Crazy Cannon was capable of firing massive payloads with devastating accuracy. It became a symbol of Crazy Town’s ingenuity and eccentricity, cementing their reputation as both innovative and unpredictable.
