@@ -1,4 +1,6 @@
 ---
+title: Assassination Rules
+description: The rules governing assassination attempts where the target does not consent to a character death. Covers narrative justification, IC execution, and aftermath.
 created: 2025-05-25
 ---
 > [!warning] Per the [[Death "Core" System Guide]], this article only applies to Corebreak. Dropping a character does not constitute an assassination in the way these rules apply.

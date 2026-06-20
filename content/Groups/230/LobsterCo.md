@@ -1,4 +1,6 @@
 ---
+title: LobsterCo
+description: The ruthless industrial conglomerate of Landfall-230 founded by Lobbar Homarus, whose Sculk experiments triggered the outbreak that defines the Landfall-241 branch timeline. Rebuilt in Landfall-530 by Lobster Homarus as a small investigative unit handling religious and supernatural crimes.
 created: 2025-05-25
 tags:
   - L230

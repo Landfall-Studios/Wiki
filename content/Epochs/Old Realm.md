@@ -1,4 +1,6 @@
 ---
+title: Old Realm
+description: The semi-mythical prehistory of Caldora, before the recorded epochs. Source of the Ehrveillian Dynasty, Thomas Ehrveil, and the cultural archetypes that the modern factions still draw from.
 created: 2025-05-25
 tags:
   - OldRealm

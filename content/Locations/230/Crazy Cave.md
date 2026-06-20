@@ -1,4 +1,6 @@
 ---
+title: Crazy Cave
+description: The mountainside hideout of Crazy Eli during the Great Dominion, carved into Terranova's border by the Crazy Cannon and used as a base for experimental weaponry. After Eli's death the interior was stripped for parts by Crazy Town.
 created: 2025-05-25
 tags:
   - L230

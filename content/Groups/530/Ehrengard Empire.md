@@ -1,4 +1,6 @@
 ---
+title: Ehrengard Empire
+description: The dominant superpower of early Landfall-530, founded by Emperor Kieran Ehrveil and his brother Elijah from the ashes of Lilarreich and ruled from New Terranova. Fell to the Roscarte Coup, after which its remnants merged with Saludo to form The Second Lilaris Empire.
 created: 2025-07-29
 tags:
   - L530

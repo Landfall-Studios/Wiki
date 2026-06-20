@@ -1,4 +1,6 @@
 ---
+title: Landfall Chat System Guide
+description: The custom chat mechanics on the Landfall server. Local range suffixes, focus prefixes, and the OOC channel.
 created: 2025-05-25
 ---
 This guide explains the custom chat mechanics used on the Landfall server, including local suffixes, DM prefixes, and focus switching.

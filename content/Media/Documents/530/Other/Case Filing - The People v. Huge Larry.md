@@ -1,4 +1,6 @@
 ---
+title: Case Filing - The People v. Huge Larry
+description: The formal criminal indictment filed by Empress Kara A. Ehrveil against Huge Larry and five associates in the New Terranova Imperial Court, consolidating charges related to the Larry Cult baptismal assault on Princess Salem Alvaldi and prior acts of sedition and trespass. Filed under the Criminal Code Act (1-LCC) as Case No. 593-LIR-NT.
 created: 2026-05-26
 ---
 **The People v. “Huge Larry”, Exoticus Exo, Isaac Acentino, Kevinus Exo, Louis Lime, and Zack Arn**  

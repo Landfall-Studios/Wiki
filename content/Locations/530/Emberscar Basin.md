@@ -1,4 +1,6 @@
 ---
+title: Emberscar Basin
+description: A volatile, volcanic landscape in Landfall-530 dotted with the ruined forges of the Conclave of the Silent Forge. It was the seat of the Zatrian National Republic, now reorganized as the duchy of Varenholde.
 created: 2025-05-25
 tags:
   - L530

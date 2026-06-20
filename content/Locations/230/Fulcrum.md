@@ -1,4 +1,6 @@
 ---
+title: Fulcrum
+description: A remote outpost at the edge of the known map that grew rapidly into Lilarreich's industrial and technological arm during Landfall-230, founded by Robert Alvaldi and X Eclipsis. After conflict with Crazy Town it was formally assimilated into Lilarreich as a state.
 created: 2025-05-25
 tags:
   - L230

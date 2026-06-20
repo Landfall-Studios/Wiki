@@ -1,4 +1,6 @@
 ---
+title: Chateau Fleur de Bleu
+description: A luxury estate and vineyard in Cornflower run by Lucius Ehrveil, used during Landfall-230 as neutral ground for diplomatic gatherings between Lilarreich, LobsterCo, and other Dominion powers. Best known for hosting the Dominion Summit and supplying wine to the Lilarreich Legislature.
 created: 2025-05-25
 tags:
   - L230

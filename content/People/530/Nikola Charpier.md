@@ -1,4 +1,6 @@
 ---
+title: Nikola Charpier
+description: Viscount of a small region within New Terranova, last of the Charpier line, and head of his family's Blacklung division within Citadel Corporation. Bound to deliver one final act in service of the Charpier legacy of reform.
 created: 2025-05-25
 tags:
   - L530

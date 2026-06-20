@@ -1,4 +1,6 @@
 ---
+title: Desmond Versalhes
+description: Political Affairs Leader of the Magda'roth Empire and elder of the Versalhes twins, the diplomatic face of the dynasty and the architect of its treaties with neighboring powers such as the Ehrengard Empire.
 created: 2025-05-25
 tags:
   - L530

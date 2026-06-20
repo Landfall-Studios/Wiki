@@ -1,4 +1,6 @@
 ---
+title: DaemonWare Labs
+description: Lucius Ehrveil's secretive research arm, supplying Lilarreich's military edge in Landfall-230 and later operating as a department of Citadel Corporation in Landfall-530. Its Voidport spatial-recall technology is what unleashed the Wither Storm of Landfall-432.
 created: 2025-05-25
 tags:
   - L230

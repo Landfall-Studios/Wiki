@@ -1,4 +1,6 @@
 ---
+title: Lilarreich-Crazy Town Cold War
+description: The rivalry between Lilarreich and Crazy Town that defined the middle stretch of Landfall-230. Played out through proxy conflicts among smaller factions, propaganda, and an arms race that never broke into direct battle. Ended when Crazy Eli died and Walrus Luditus took over Crazy Town and made amends.
 created: 2025-05-25
 tags:
   - L230

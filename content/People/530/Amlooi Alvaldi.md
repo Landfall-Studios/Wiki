@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2026-06-19
 ---
-
 ## Overview
 
 Amlooi Alvaldi was the brother of [[Nordvik Alvaldi]]. He spent the bulk of his life as an itinerant knight, having been disowned by his bloodline in his earliest years and serving instead under a succession of chosen lords. He is best remembered as the master who trained [[Vetis Veltol]] in the sword, as a longstanding figure in the inner circle of [[Huge Larry]]'s kingdom in its final years, and as the author of [[Amlooi's Diary]], the document through which most of his interior life is known. He was killed by [[Seraphine du Roscarte]] in the closing stretch of the epoch.

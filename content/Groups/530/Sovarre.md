@@ -1,4 +1,6 @@
 ---
+title: Sovarre
+description: The successor regime to the Ehrengard Empire, installed by House du Roscarte after the Roscarte Coup and ruled with absolute authority by Seraphine du Roscarte. Built on fear and erasure rather than tradition; later driven out of New Terranova, though rumors persist that it still festers in the shadows.
 created: 2025-05-25
 tags:
   - L530

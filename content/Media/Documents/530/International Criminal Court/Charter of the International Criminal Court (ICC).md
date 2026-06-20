@@ -1,4 +1,6 @@
 ---
+title: Charter of the International Criminal Court (ICC)
+description: The founding charter of the International Criminal Court, establishing the tribunal as an independent judicial authority seated in the city-state of Cadence, ceded to ICC jurisdiction by the Second Lilaris Empire. It defines the court's jurisdiction, judicial panel structure, and trial procedures for prosecuting severe violations of international law across member states.
 created: 2026-05-26
 ---
 ## **Preamble**

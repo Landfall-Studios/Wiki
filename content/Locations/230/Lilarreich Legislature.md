@@ -1,4 +1,6 @@
 ---
+title: Lilarreich Legislature
+description: The seat of Lilarreich's administrative and judicial functions in Terranova during Landfall-230, housing the Supreme Court, an assembly hall, and a portal network in its basement complex. It also hosted The Chancellor's Banquet and Chateau Fleur de Bleu's in-house bar.
 created: 2025-05-25
 tags:
   - L230

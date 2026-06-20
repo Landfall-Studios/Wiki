@@ -1,4 +1,6 @@
 ---
+title: Lobbar Homarus
+description: Known as Mr. Lobster, a key business figure of Landfall-230 - The Great Dominion and the head of LobsterCo, recognizable by his purple mask and tan trench coat.
 created: 2025-05-25
 tags:
   - L230

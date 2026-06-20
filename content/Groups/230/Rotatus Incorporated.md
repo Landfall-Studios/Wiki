@@ -1,4 +1,6 @@
 ---
+title: Rotatus Incorporated
+description: Walrus Luditus's logistics, agriculture, and transport company in Landfall-230, founding member of the Great Dominion and architect of the trade networks that linked Lilarreich and Crazy Town. Ended when Rotatus Island was controversially sold to LobsterCo.
 created: 2025-05-25
 tags:
   - L230

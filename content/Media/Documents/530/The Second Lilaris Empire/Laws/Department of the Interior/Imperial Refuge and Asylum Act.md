@@ -1,4 +1,6 @@
 ---
+title: Imperial Refuge and Asylum Act
+description: The Department of the Interior statute establishing the process by which foreign individuals fleeing persecution, exile, or extremist targeting may claim asylum within the Second Lilaris Empire. It defines grounds for sanctuary, the application process, refugee rights, and grounds for revocation.
 created: 2026-05-26
 ---
 ### **Section I — Purpose**

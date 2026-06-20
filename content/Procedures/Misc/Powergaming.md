@@ -1,4 +1,6 @@
 ---
+title: Powergaming
+description: What counts as forcing outcomes onto other players without giving them a chance to respond, and how to avoid it.
 created: 2025-05-25
 ---
 Powergaming is when a player forces actions, outcomes, or consequences onto others without giving them a fair opportunity to respond. It breaks the collaborative spirit of roleplay and undermines character agency.

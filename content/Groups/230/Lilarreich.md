@@ -1,4 +1,6 @@
 ---
+title: Lilarreich
+description: The dominant nation of Landfall-230, founded by Thomas Ehrveil and led as Chancellor by Lucius Ehrveil, governing from Terranova and absorbing Robert Alvaldi's Fulcrum to consolidate the Dominion. Builder of the Monorail and rival to Crazy Town in a prolonged cold war; its collapse at the end of the Dominion seeded the later Ehrengard Empire.
 created: 2025-05-25
 tags:
   - L230

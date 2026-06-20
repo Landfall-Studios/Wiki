@@ -1,4 +1,6 @@
 ---
+title: Lilaris Department of Commerce Act
+description: The enabling act that establishes the Department of Commerce as the Second Lilaris Empire's principal authority over corporate registration, trade regulation, and government contract eligibility. It defines the role of the Secretary of Commerce and the legal distinction between Unregistered Small Producers and Registered Producers.
 created: 2026-05-26
 ---
 ### **Lilaris Department of Commerce Act**

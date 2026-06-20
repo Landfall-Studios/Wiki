@@ -1,4 +1,6 @@
 ---
+title: The Survivors
+description: The cryostasis-preserved descendants of the Great Dominion in Landfall-241, awakened ahead of schedule to fight the Sculk Horde that overran Caldora. With resources thinning and the Horde still growing, they wage a losing war to reclaim their world.
 created: 2025-05-25
 tags:
   - L241

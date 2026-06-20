@@ -1,4 +1,6 @@
 ---
+title: Nouveaux Ides
+description: The flagship winery of New Ides, founded by Duke Isaac Acentino as the duchy's first business and aged in the cold climate of The Frozen Mantle. Its manor doubles as the political and social heart of New Ides, hosting elite tastings and diplomatic functions.
 created: 2025-07-29
 tags:
   - L530

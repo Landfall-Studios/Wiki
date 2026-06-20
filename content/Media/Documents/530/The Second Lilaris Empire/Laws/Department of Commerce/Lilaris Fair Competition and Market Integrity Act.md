@@ -1,4 +1,6 @@
 ---
+title: Lilaris Fair Competition and Market Integrity Act
+description: The Department of Commerce statute prohibiting anti-competitive market practices within Lilaris, including manipulative bulk purchasing, price fixing, predatory undercutting, and territorial gatekeeping. It establishes the enforcement framework for maintaining open and competitive markets under Imperial law.
 created: 2026-05-26
 ---
 ### **Section 1 — Title**

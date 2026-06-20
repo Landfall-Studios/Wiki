@@ -1,4 +1,6 @@
 ---
+title: New Ides
+description: A duchy in the Frozen Mantle, founded by Isaac Acentino and known for the wine house Nouveaux Ides and the Seed OS developer Grape Inc. Once part of Saludo, it declared independence before later being restored as a Duchy of The Second Lilaris Empire under the Idesian Accord.
 created: 2025-07-29
 tags:
   - L530

@@ -1,4 +1,6 @@
 ---
+title: Landfall-830 - Digital Deicide
+description: The post-divine epoch of the Landfall multiverse, set centuries after the AI godhood of the Divinets was unmasked and destroyed. The rotting Earth and the clinical posthuman Moon, with no gods left to organize around.
 tags:
   - L830
 created: 2025-07-29

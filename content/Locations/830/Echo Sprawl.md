@@ -5,7 +5,6 @@ tags:
   - L830
 created: 2025-07-29
 ---
-
 > [!warning] Content warning
 > Depictions of systemic abuse, forced labor, environmental collapse, the elimination of currency in favor of subsistence-by-compliance, suicide (including the corporations' protocols for managing the rate and the bodies), the gendered structural pipeline that places marginalized people into survival sex work (treated in detail in [[What Camina Carried]]), and the corporations' treatment of workers who can no longer be extracted from. It is written carefully but it does not soften these subjects.
 >

@@ -1,4 +1,6 @@
 ---
+title: The Constitution of the United Provinces of Lilaris
+description: The proposed republican constitution intended to replace the Imperial Charter, establishing Lilaris as a democratic federation of Provinces, Districts, and Cities with the Twin Thrones reduced to a symbolic role. It defines popular sovereignty, the National Assembly, the High Court, and the federal capital at New Terranova, pending referendum and the assent of the Twin Thrones.
 created: 2026-05-26
 ---
 *To be enacted by popular referendum, upon the assent of the Twin Thrones*

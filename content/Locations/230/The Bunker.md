@@ -1,4 +1,6 @@
 ---
+title: The Bunker
+description: A reinforced underground facility built by LobsterCo during Landfall-230 to host diplomatic summits and high-level meetings. It served as neutral ground for resolving disputes between rival factions of the Great Dominion.
 created: 2025-05-25
 tags:
   - L230

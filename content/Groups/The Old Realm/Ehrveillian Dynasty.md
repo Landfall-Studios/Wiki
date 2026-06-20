@@ -1,4 +1,6 @@
 ---
+title: Ehrveillian Dynasty
+description: The ruling bloodline behind Lilarreich, the Ehrengard Empire, and the modern Citadel Corporation, founded by Thomas Ehrveil in the Old Realm and carried forward by Lucius, Kieran, Porter, Elijah, and Avery. Their successive regimes have defined every prime epoch from the Great Dominion through Noble Blood.
 created: 2025-05-25
 tags:
   - OldRealm

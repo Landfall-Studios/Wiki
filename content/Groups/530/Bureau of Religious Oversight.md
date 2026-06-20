@@ -1,5 +1,9 @@
 ---
+title: Bureau of Religious Oversight
+description: An independent extra-governmental body in Landfall-530, led by Director Lobster Homarus, that monitors religious affairs across Caldora outside the authority of any government or faith. Operates on a Prevention, Protection, Preservation doctrine and reserves the right to eliminate hostile sects when mediation fails.
 created: 2025-07-29
+tags:
+  - L530
 ---
 ## Overview
 

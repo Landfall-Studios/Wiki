@@ -1,4 +1,6 @@
 ---
+title: New Terranova
+description: The capital of The Second Lilaris Empire and federal seat of the United Provinces of Lilaris, established as the successor city to the original Terranova. It houses Dominion Hall, the Imperial Court, and the working offices of the Imperial departments, and is administered directly by the National Assembly.
 created: 2025-05-25
 tags:
   - L530

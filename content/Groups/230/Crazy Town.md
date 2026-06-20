@@ -1,4 +1,6 @@
 ---
+title: Crazy Town
+description: An eccentric, anarchic faction of Landfall-230 led first by Crazy Eli and later Walrus Luditus, best known for the Crazy Cannon and its long cold war with Lilarreich. Never fought Lilarreich directly, but the rivalry drove an arms race that shaped the Dominion era.
 created: 2025-05-25
 tags:
   - L230

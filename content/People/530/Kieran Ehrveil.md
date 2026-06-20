@@ -1,4 +1,6 @@
 ---
+title: Kieran Ehrveil
+description: First Emperor of the Ehrengard Empire, known as The Resolute, the figure who consolidated the Zatrian National Republic into Varenholde and stabilized the dynasty's rule. Assassinated by Willy Luditus at the Luminara Festival.
 created: 2025-05-25
 tags:
   - L530

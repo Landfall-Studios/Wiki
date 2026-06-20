@@ -1,4 +1,6 @@
 ---
+title: Metagaming
+description: What counts as using out-of-character knowledge in-character on Landfall SMP, what does not, and how the rule is enforced.
 created: 2025-05-25
 ---
 Metagaming is when a player uses out-of-character (OOC) knowledge in character (IC), violating the boundaries of immersive roleplay. In Landfall SMP, we encourage creative, immersive storytelling where discovery, diplomacy, and deception are earned through in-character action—not Discord chat logs or third-party gossip.

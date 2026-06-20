@@ -1,4 +1,6 @@
 ---
+title: Kael Thorne
+description: Dual-citizen Idesian and Lilarisi scientist, personal researcher to Riven Skorne, and the pioneer of sea pickle consciousness research as a route to indefinite lifespan. One of the two scientists, alongside Vetis Veltol, who built the chassis that Sofia Oki used in Project MIA, the body later awakened as Mia Oki-Belova.
 created: 2026-06-19
 tags:
   - L530

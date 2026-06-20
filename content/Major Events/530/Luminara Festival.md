@@ -1,4 +1,6 @@
 ---
+title: Luminara Festival
+description: The annual Ehrengardian festival held in New Terranova at the turn of each year. Remembered both for the ceremonial Luminara Board and as the site of Emperor Kieran Ehrveil's assassination by Willy Luditus.
 created: 2025-05-25
 tags:
   - L530

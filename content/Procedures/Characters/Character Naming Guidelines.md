@@ -1,4 +1,6 @@
 ---
+title: Character Naming Guidelines
+description: Naming requirements for player characters. Lore-appropriate, original, and structured as "First Last" with rare cultural variants.
 created: 2025-05-25
 ---
 ## **Name Requirements**

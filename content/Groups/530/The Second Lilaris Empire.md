@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2025-05-25
 ---
-
 ## Overview
 
 The Second Lilaris Empire (commonly **Lilaris**, or **TSLE**) was the dominant power of mid-to-late [[Landfall-530 - Noble Blood]]. It was founded by the merger of the surviving remnants of the [[Ehrengard Empire]] with the failing state of [[Saludo]], in the immediate aftermath of the [[Roscarte Coup]] and the assassination of Empress [[Avery R. Ehrveil]]. The Empire was jointly ruled by Empress [[Kara A. Ehrveil]] of House Ehrveil and Nordvik Alvaldi of House Alvaldi under the Twin Crowns, and governed by the [[Imperial Charter of The Second Lilaris Empire|Imperial Charter]] across an imperial-era that lasted from its founding until the ratification of [[The Constitution of the United Provinces of Lilaris|the Provincial Constitution]].

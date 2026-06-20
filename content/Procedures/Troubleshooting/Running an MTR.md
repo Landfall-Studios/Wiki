@@ -1,4 +1,6 @@
 ---
+title: Running an MTR
+description: How to run a network traceroute to diagnose connection problems between your computer and the Landfall server. Linux, macOS, and Windows guides.
 created: 2026-06-19
 ---
 ## Overview

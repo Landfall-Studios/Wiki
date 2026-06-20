@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2025-05-25
 ---
-
 ![[530-full.png]]
 ## Overview
 

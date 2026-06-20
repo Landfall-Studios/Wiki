@@ -1,4 +1,6 @@
 ---
+title: La Poo Poo
+description: A luxury restaurant on a hill in Crockyland during the Great Dominion, run by the eccentric Chef Poo Poo on the premise that diners could order anything he had the ingredients to make. Its clientele of world leaders led to catering work for major events across Caldora.
 created: 2025-05-25
 tags:
   - L230

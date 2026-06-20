@@ -1,4 +1,6 @@
 ---
+title: Cornflower
+description: A Lilarreich city of galleries, farms, and cafes that drew the nation's elite away from the political intensity of Terranova during Landfall-230. Its commerce, artisanal trades, and ties to organizations like The Guild made it a lesser-known cultural and economic hub.
 created: 2025-05-25
 tags:
   - L230

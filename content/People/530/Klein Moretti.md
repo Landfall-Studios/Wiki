@@ -1,4 +1,6 @@
 ---
+title: Klein Moretti
+description: Lord Commander of the Ehrengard Empire and Duke of Varenholde, a former Zatrian intelligence agent whose defection and battlefield leadership ended the ZNR-Ehrengard Conflict.
 created: 2025-05-25
 tags:
   - L530

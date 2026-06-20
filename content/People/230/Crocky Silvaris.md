@@ -1,4 +1,6 @@
 ---
+title: Crocky Silvaris
+description: Founder of Crockyland, a scenic town near Terranova during Landfall-230 - The Great Dominion.
 created: 2025-05-25
 tags:
   - L230

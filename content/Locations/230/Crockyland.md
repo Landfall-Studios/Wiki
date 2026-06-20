@@ -1,4 +1,6 @@
 ---
+title: Crockyland
+description: A small town founded by Crocky Silvaris near Terranova during Landfall-230, built around community and aesthetics and tied to Lilarreich by a dedicated trade bridge. It was also home to the restaurant La Poo Poo.
 created: 2025-05-25
 tags:
   - L230

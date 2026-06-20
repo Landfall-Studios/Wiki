@@ -1,4 +1,6 @@
 ---
+title: Rotatus Island
+description: The island headquarters of Rotatus Incorporated during Landfall-230, known for its farms and large house. It later became a historical site and was eventually built over by a LobsterCo skyscraper after acquisition.
 created: 2025-05-25
 tags:
   - L230

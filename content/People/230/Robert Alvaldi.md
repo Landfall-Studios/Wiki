@@ -1,4 +1,6 @@
 ---
+title: Robert Alvaldi
+description: Vice-Chancellor of Lilarreich and leader of Fulcrum, the strategist who oversaw Fulcrum's integration into Lilarreich and turned it into the era's center of military research and production.
 created: 2025-05-25
 tags:
   - L230

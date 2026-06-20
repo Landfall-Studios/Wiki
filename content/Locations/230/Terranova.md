@@ -1,4 +1,6 @@
 ---
+title: Terranova
+description: The capital of Lilarreich and political, cultural, and technological center of the Great Dominion during Landfall-230. Seat of the Chancellor and home to the Capitol and the Lilarreich Legislature.
 created: 2025-05-25
 tags:
   - L230

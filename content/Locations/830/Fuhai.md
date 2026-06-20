@@ -5,7 +5,6 @@ tags:
   - L830
 created: 2026-06-20
 ---
-
 ## Overview
 
 Fuhai is the settlement founded west of the badlands by a small group of defectors from [[Echo Sprawl]], 492 years after [[The Blaze]]. By the end of its first generation it was the only polity on the continent whose resource base approached that of Echo Sprawl itself, and it is the largest sustained experiment in non-corporate civic life the post-Blaze record contains.

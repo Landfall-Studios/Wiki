@@ -5,7 +5,6 @@ tags:
   - L830
 created: 2026-06-20
 ---
-
 ## Overview
 
 **Camina Gravacs** is a trans woman living in [[Fuhai]] under a constructed identity she has held for the entirety of her adult life. She is, by descent, **Andre Ehrveil-Skorne**, a direct descendant of [[Kara A. Ehrveil]] and [[Riven Skorne]] of the late period of [[The Second Lilaris Empire]]. She is the source of the documentary evidence and political framework that produced the killings recorded in [[What Marsh Did]] and the figure at the center of [[What Camina Carried]]. The two major articles cover the events of her life at the level of detail those events require. This bio is the public-facing summary, with the additional context that the public-facing summary did not, for years, include.

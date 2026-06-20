@@ -1,4 +1,6 @@
 ---
+title: Zee Bane
+description: Entrepreneur who departed Lilarreich to found the independent nation of XreaTech, prosecuting party in XreaTech vs. Walrus Luditus and a quiet critic of the Dominion's traditional structures.
 created: 2025-05-25
 tags:
   - L230

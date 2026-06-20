@@ -1,4 +1,6 @@
 ---
+title: Stronghold
+description: The last fortified city of Landfall-241, built atop ancient Dominion infrastructure and held by descendants of the Great Dominion against the Sculk Horde. Its fall marked the end of life in that branch timeline.
 created: 2025-05-25
 tags:
   - L241

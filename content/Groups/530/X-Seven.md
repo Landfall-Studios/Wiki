@@ -1,4 +1,6 @@
 ---
+title: X-Seven
+description: A covert paramilitary unit of the United Provinces of Lilaris, founded by Kara A. Ehrveil and hidden inside an interpretive clause of the Provincial Constitution that the public ratified without knowing. Its only sanctioned purpose is to protect Lilarisi citizens from any threat to their lives or the Republic's continuity, including threats from inside the elected government itself.
 created: 2026-05-26
 tags:
   - L530

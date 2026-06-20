@@ -1,4 +1,6 @@
 ---
+title: Willy Luditus
+description: Leader of a religious extremist faction and the assassin of Emperor Kieran Ehrveil at the Luminara Festival, the act that put Avery R. Ehrveil on the throne of the Ehrengard Empire.
 created: 2025-05-25
 tags:
   - L530

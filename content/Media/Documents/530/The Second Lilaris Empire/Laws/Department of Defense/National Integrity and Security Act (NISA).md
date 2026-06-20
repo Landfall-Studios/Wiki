@@ -1,4 +1,6 @@
 ---
+title: National Integrity and Security Act (NISA)
+description: The Department of Defense statute affirming that all territorial reorganization within the Second Lilaris Empire is reserved to the Twin Crowns and classifying unauthorized secession or governance claims as treason. It empowers the DoD to detain, seize assets, and deploy military force to neutralize unlawful disruptions to Imperial unity.
 created: 2026-05-26
 ---
 ### **National Integrity and Security Act (NISA)**

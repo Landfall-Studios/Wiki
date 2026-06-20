@@ -1,4 +1,6 @@
 ---
+title: Ashen Caldwell
+description: Founder of the Mirage Concord and devout follower of the Conclave of the Silent Forge. A former mercenary who survived an experimental cannon blast that fused him into his own armor, an event he took as a divine vision and the founding moment of his desert society.
 created: 2025-05-25
 tags:
   - L530

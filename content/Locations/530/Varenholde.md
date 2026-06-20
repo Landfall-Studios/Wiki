@@ -1,4 +1,6 @@
 ---
+title: Varenholde
+description: A duchy of The Second Lilaris Empire in the Emberscar Basin, governed by Duke Klein Moretti and won by the old Ehrengard Empire in the ZNR-Ehrengard Conflict. Formerly the Zatrian National Republic, now a center for military strategy and resource development within Lilaris.
 created: 2025-05-25
 tags:
   - L530

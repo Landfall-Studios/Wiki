@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2025-05-25
 ---
-
 ## Overview
 
 Kara A. Ehrveil was the only child of Empress [[Avery R. Ehrveil]] and Lord [[Isaac Acentino]], conceived during Avery's exile after the [[Roscarte Coup]] and raised in hiding. She inherited the throne as a child following her mother's assassination, co-founded [[The Second Lilaris Empire]] with [[Nordvik Alvaldi]], and in her later reign converted the Empire into a democratic republic through [[The Constitution of the United Provinces of Lilaris]]. She was married to Riven Skorne, Duchess of [[New Ides]], in the wake of [[The Night of the Veil]]. She is also the founder of [[X-Seven]].

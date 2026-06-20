@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2025-05-25
 ---
-
 ## Overview
 
 Isaac Acentino was the founder and original Duke of [[New Ides]], a wine-producing duchy he established under [[Saludo]]. He was the biological father of Empress [[Kara A. Ehrveil]] by [[Avery R. Ehrveil]], a relationship kept secret throughout Avery's exile and Kara's childhood. Late in his life Isaac declared New Ides independent from Saludo, converted to [[Larrism]] as a true believer, restyled the duchy as the sovereign **Idesian Empire** under his own crown as King, and was killed as a co-defendant in [[The Night of the Veil]].

@@ -1,4 +1,6 @@
 ---
+title: Walrus Luditus
+description: Known as Mr. Walrus, leader of Rotatus Incorporated, defendant in XreaTech vs. Walrus Luditus, and the man who took over Crazy Town after the death of Crazy Eli and made amends with Lilarreich.
 created: 2025-05-25
 tags:
   - L230

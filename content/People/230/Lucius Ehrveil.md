@@ -1,4 +1,6 @@
 ---
+title: Lucius Ehrveil
+description: Second leader of the Ehrveillian Dynasty, Chancellor of Lilarreich, and the man called The Architect for founding The Guild, DaemonWare Labs, and Chateau Fleur de Bleu. Also the secret founder of Citadel Corporation and the Divinets programme that triggered the War of the Divinets and ended the Great Dominion.
 created: 2025-05-25
 tags:
   - L230

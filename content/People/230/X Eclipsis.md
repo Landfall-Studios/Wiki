@@ -1,4 +1,6 @@
 ---
+title: X Eclipsis
+description: Enigmatic co-leader of Fulcrum alongside Robert Alvaldi, credited with the technical advances that pushed the limits of military hardware in Landfall-230 and supplied Alexandria with combat aircraft.
 created: 2025-05-25
 tags:
   - L230

@@ -1,4 +1,6 @@
 ---
+title: Sculk Horde
+description: The central threat of Landfall-241. An uncontrolled spread of LobsterCo's sculk biomass that consumed Caldora's cities and forced the Survivors to fight from the ruins. The world eventually fell to the Horde, ending the epoch.
 created: 2025-05-25
 tags:
   - L241

@@ -1,4 +1,6 @@
 ---
+title: Operation Nightshrike
+description: A formerly top-secret Ehrengard Empire operational order, declassified after the ZNR-Ehrengard Conflict, authorizing the integration of ZNR official Klein Moretti as a covert asset operating under cover of a New Terranova food business. Authorized by Emperor Kieran Ehrveil and later declassified by Empress Avery R Ehrveil.
 created: 2026-05-26
 ---
 **OPERATION NIGHTSHRIKE**  

@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2026-06-19
 ---
-
 ## Overview
 
 Vetis Veltol was a knight and merchant-prince of [[Landfall-530 - Noble Blood]], the elder of the Veltol brothers, husband to Princess Salem Alvaldi, and the eventual sole proprietor of the [[Red Corporation]]. He arrived in [[New Terranova]] at age nineteen as an outsider with no patrons and no standing, trained for nearly a decade under the Alvaldi knight [[Amlooi Alvaldi]], and by the end of the epoch had inherited the personal estates of Amlooi, of [[Edward Redcliffe]], and the standing claim against [[Nordvik Alvaldi]]'s will. He is recorded as the figure who personally extracted Princess Salem Alvaldi from the Idesian Empire in the aftermath of the [[The People v. Huge Larry|Princess Salem Incident]].

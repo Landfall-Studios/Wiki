@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2026-05-26
 ---
-
 ## Overview
 
 Huge Larry was the self-styled godhead of [[Larrism]], the religious and political movement that briefly captured the leadership of [[New Ides]] and the ExoVinian Empire in the late middle period of [[Landfall-530 - Noble Blood]]. He wore a chrome helmet at all times and was never publicly seen without it. His real name, origin, motivation, and the substance of his theology, if he held one, are all unknown. He was killed alongside the rest of the cult's leadership in [[The Night of the Veil]].

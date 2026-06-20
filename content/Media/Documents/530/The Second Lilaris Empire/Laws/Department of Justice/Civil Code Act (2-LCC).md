@@ -1,4 +1,6 @@
 ---
+title: Civil Code Act (2-LCC)
+description: The Lilaris Civil Code, defining civil rights, contractual obligations, tort liability, property rights, and remedies including compensatory and punitive damages within the Second Lilaris Empire. It is the governing legal framework for private disputes adjudicated by the Imperial and Regional Courts.
 created: 2026-05-26
 ---
 ## **Section 1: Title**

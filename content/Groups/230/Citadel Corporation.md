@@ -1,4 +1,6 @@
 ---
+title: Citadel Corporation
+description: A clandestine conglomerate founded by Lucius Ehrveil in Landfall-230, operating through compartmentalized "Front" departments and contracted by Lilarreich to build the military technology that triggered the War of the Divinets. Reconstituted in Landfall-530 under the Ehrveils, with DaemonWare Labs, Porter Industrial, and Blacklung as its core departments.
 created: 2025-05-25
 tags:
   - L230

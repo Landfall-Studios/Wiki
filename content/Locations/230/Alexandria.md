@@ -1,4 +1,6 @@
 ---
+title: Alexandria
+description: The Lilarreich military outpost situated furthest from Terranova, tasked with guarding the nation's frontiers during the Great Dominion. Heavily garrisoned at the height of Landfall-230, it served as a staging ground for campaigns and a logistical hub for troop and supply movement.
 created: 2025-05-25
 tags:
   - L230

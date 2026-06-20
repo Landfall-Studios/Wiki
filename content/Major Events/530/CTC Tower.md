@@ -1,4 +1,6 @@
 ---
+title: CTC Tower
+description: The Crazy Town Capitol Tower, erected on the New Terranova border by Willy Luditus after Emperor Kieran Ehrveil's assassination at the Luminara Festival. Demolished by Porter Ehrveil with the festival's ceremonial defense cannon as a public statement of Ehrengardian resolve.
 created: 2025-07-29
 tags:
   - L530

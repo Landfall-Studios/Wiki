@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2026-05-26
 ---
-
 ## Overview
 
 Riven Skorne was Duchess of [[New Ides]] by right of blood, Imperial Consort of [[The Second Lilaris Empire]] by right of marriage to Empress [[Kara A. Ehrveil]], and the figure who steered [[New Ides]] out of its Larrist period after the death of [[Isaac Acentino]]. She and Kara were both still serving in their ceremonial offices under [[The Constitution of the United Provinces of Lilaris|the Provincial Constitution]] at the time of [[The Blaze]].

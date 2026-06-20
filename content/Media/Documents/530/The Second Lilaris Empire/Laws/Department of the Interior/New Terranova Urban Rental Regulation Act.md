@@ -1,4 +1,6 @@
 ---
+title: New Terranova Urban Rental Regulation Act
+description: The Department of the Interior statute governing the rental of buildings, market stalls, and undeveloped land within New Terranova and its countryside. It sets aesthetic and structural standards for tenants, transfer restrictions, and DoI approval requirements.
 created: 2026-05-26
 ---
 ### **Section 1: Title**

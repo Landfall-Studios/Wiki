@@ -1,4 +1,6 @@
 ---
+title: Mirage Concord
+description: A theocratic desert cooperative of Landfall-530, founded by Ashen Caldwell to worship the twin gods of the Conclave of the Silent Forge under their local names Forge and Hammer. Governed by a Triumvirate and built on shared wealth, automation, and reverence for ancient relics, with the right to declare Crusade against nations that obstruct its faith.
 created: 2025-05-25
 tags:
   - L530

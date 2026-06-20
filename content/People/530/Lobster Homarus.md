@@ -1,4 +1,6 @@
 ---
+title: Lobster Homarus
+description: Descendant of Lobbar Homarus, the Landfall-530 head of LobsterCo who rebuilt the company in his epoch, recognizable by the purple mask and gray trench coat that mark the line.
 created: 2025-05-25
 tags:
   - L530

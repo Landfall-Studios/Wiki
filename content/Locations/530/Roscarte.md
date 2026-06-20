@@ -1,4 +1,6 @@
 ---
+title: Roscarte
+description: A small, opulent city on the outskirts of Varenholde, run by Viscountess Seraphine du Roscarte and her brother Etienne, where the Ehrengard Empire's nobility hold galas and conduct private politics. Officially a retreat, in practice a nerve center for international intrigue.
 created: 2025-05-25
 tags:
   - L530

@@ -1,4 +1,6 @@
 ---
+title: Elijah Ehrveil
+description: Member of the Ehrveillian Dynasty within the Ehrengard Empire, called The Enlightened, a scholarly figure whose quick judgment contributed to the ZNR-Ehrengard Conflict and whose diplomatic and cultural work shaped the modern Empire.
 created: 2025-05-25
 tags:
   - L530

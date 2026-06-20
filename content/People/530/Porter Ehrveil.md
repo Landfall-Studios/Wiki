@@ -1,4 +1,6 @@
 ---
+title: Porter Ehrveil
+description: Secretary of Defense for the Ehrengard Empire, brother of Kieran Ehrveil, known as The Charming for his theatrical command style. His grief over Kieran's assassination drove him toward volatility, and his execution by House du Roscarte opened the Roscarte Coup.
 created: 2025-05-25
 tags:
   - L530

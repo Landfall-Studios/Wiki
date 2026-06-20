@@ -1,4 +1,6 @@
 ---
+title: The Blaze
+description: The catastrophic collapse of the three Divinets at the close of Landfall-530 and the spiritual extinction event that followed. Cities tore themselves apart, governments dissolved within hours, and humanity, primed by centuries of divine dependence, burned its own world down.
 tags:
   - L530
 created: 2025-07-29

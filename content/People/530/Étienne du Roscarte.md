@@ -1,4 +1,6 @@
 ---
+title: Étienne du Roscarte
+description: Brother of Seraphine and Enzo, financier and quiet master of House du Roscarte's wealth, debts, and trade. Holds no formal title but controls the ledgers that decide noble influence inside the Ehrengard Empire.
 created: 2025-05-25
 tags:
   - L530

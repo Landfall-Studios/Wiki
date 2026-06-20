@@ -1,4 +1,6 @@
 ---
+title: Crazy Cannon
+description: Crazy Eli's signature weapon, built in Landfall-230 as both defense and statement of Crazy Town's audacity. Used to carve out Crazy Cave and rarely fired in anger, but its existence shaped the cold war with Lilarreich.
 created: 2025-05-25
 tags:
   - L230

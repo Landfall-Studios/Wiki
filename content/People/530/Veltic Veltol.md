@@ -1,4 +1,6 @@
 ---
+title: Veltic Veltol
+description: Younger brother of Vetis Veltol and apprentice merchant under Edward Redcliffe. Arrived in New Terranova alongside Vetis from a distant homeland and followed Edward south to Old Yotem rather than stay with his brother, where he has remained since.
 created: 2026-06-19
 tags:
   - L530

@@ -1,4 +1,6 @@
 ---
+title: Magda'roth Empire
+description: The Landfall-530 revival of the long-fallen Magda'roth Kingdom, rebuilt by House Versalhes under twin rulers Desmond and Derek after their adoption by Adamastor, the line's sole surviving heir from the Old Realm. Allied with Ehrengard and built on reclaiming ancestral grandeur after generations of Versalhes poverty.
 created: 2025-05-25
 tags:
   - L530

@@ -1,4 +1,6 @@
 ---
+title: Death "Core" System Guide
+description: How death works in Landfall-830. Cores preserve consciousness, shells are bodies, Drops are temporary, and Corebreak is canon death.
 created: 2025-11-01
 ---
 This guide explains the death and resurrection mechanics used on the Landfall server, including cores, shells, and the consequences of multiple deaths.

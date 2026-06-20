@@ -5,7 +5,6 @@ tags:
   - L830
 created: 2026-06-20
 ---
-
 ## Overview
 
 **The Underwater Nation of Athenia**, formally abbreviated **TUNA** in trade documents and shortened to **Athenia** in most subsequent records, was the polity founded under the eastern sea by the former citizens of Athena. It existed as an independent polity for a short period in the early decades of [[Fuhai]]'s existence, traded with Fuhai across a relationship that included reciprocal embassies, suffered the unexplained loss of its government over a period of months, and was annexed into Fuhai with the full consent of the citizens who remained. The annexation placed Fuhai's resource base on a level approaching that of [[Echo Sprawl]] itself, and is the development that distinguishes Fuhai's late history from that of every other post-[[The Blaze]] polity on the continent.

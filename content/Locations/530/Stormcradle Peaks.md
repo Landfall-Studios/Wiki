@@ -1,4 +1,6 @@
 ---
+title: Stormcradle Peaks
+description: A mountain range of perpetual storms in Landfall-530, said to be remnants of forgotten divine conflicts. The lower ridges are frequented by the Umbral Communion; the peaks themselves remain largely unclaimed.
 created: 2025-05-25
 tags:
   - L530

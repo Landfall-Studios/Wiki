@@ -5,7 +5,6 @@ tags:
   - L530
 created: 2026-05-26
 ---
-
 > [!warning] Content warning
 > This article documents cult dynamics, marital coercion within a faith setting, the capture of state institutions by an extremist religious movement, and the killing of ordinary cult members by a paramilitary actor after the cult's leadership had already been removed. It is written carefully but it does not soften these subjects.
 >

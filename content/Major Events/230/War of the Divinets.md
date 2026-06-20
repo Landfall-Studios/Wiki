@@ -1,8 +1,11 @@
 ---
+title: War of the Divinets
+description: The final war of Landfall-230, triggered after each major faction secretly built a Divinet (godlike AI). The Guild's late sabotage rewrote the cores to serve humanity rather than control it, but the paranoia between factions ignited the war that destroyed the Dominion.
 aliases:
   - Divinets
 tags:
-  - L830
+  - L230
+  - L530
 created: 2025-07-29
 ---
 The Divinets were advanced, godlike artificial intelligences developed in the final years of [[Landfall-230 - The Great Dominion]], just before it's collapse. Most citizens of the Dominion unknowingly carried genetic markers designed to interface with these systems, granting what later generations would mythologize as “divine powers.”

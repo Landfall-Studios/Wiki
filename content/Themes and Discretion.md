@@ -1,5 +1,6 @@
 ---
 title: Themes & Discretion
+description: A directory of pages that handle real and difficult subjects, including institutional abuse, self-harm, suicide, and coercion. A signpost so readers can choose what to read on purpose and what to come back to later.
 created: 2026-06-19
 ---
 # Themes & Discretion

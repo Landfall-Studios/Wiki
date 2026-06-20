@@ -1,4 +1,6 @@
 ---
+title: Seraphine du Roscarte
+description: Viscountess of Roscarte, sister of Étienne and Enzo, the socialite face of the Ehrengard Empire's intelligence work who gathers and disposes of threats through the salon circuit. The figure who killed Amlooi Alvaldi in the closing stretch of the epoch.
 created: 2025-05-25
 tags:
   - L530

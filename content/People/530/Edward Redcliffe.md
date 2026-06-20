@@ -1,4 +1,6 @@
 ---
+title: Edward Redcliffe
+description: Count of Everstead in New Terranova, Duke of Old Yotem, devout of the Umbral Communion, and proprietor of the Red Diamond Casino. Mentor and co-founder with Vetis Veltol of Rat Co. and the network of private laboratories underneath the Red Corporation, he took his own life at the Casino after handing the company over to Vetis in stages.
 created: 2025-05-25
 tags:
   - L530

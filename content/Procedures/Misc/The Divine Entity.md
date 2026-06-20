@@ -1,4 +1,6 @@
 ---
+title: The Divine Entity
+description: The admin team's role as impartial arbiter of the canon, kept separate from any individual admin's in-game characters.
 created: 2025-05-25
 ---
 The **Divine Entity** represents the impartial, omnipotent force that oversees the Landfall SMP, embodying the admin team’s actions and decisions. When performing administrative tasks, the team steps into the role of the Divine Entity to ensure fairness, resolve conflicts, and maintain the integrity of the server’s canon.

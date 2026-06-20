@@ -1,4 +1,6 @@
 ---
+title: Umbral Communion
+description: A Landfall-530 faith devoted to Nethrys, the Shadowed One, who dwells in the liminal spaces between light and dark and life and death. Its Shadowmancers seek hidden truths and act as mediators, intervening whenever one force grows powerful enough to upset the balance.
 created: 2025-05-25
 tags:
   - L530

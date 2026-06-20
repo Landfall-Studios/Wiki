@@ -1,4 +1,6 @@
 ---
+title: Rules of War
+description: The default rules of engagement for war on Landfall SMP. Strategic targeting, limits on destruction, neutral zones, and formal declarations.
 created: 2025-05-25
 ---
 This is an overview on the Rules of War, encouraging tactical warfare while preserving the beauty, creativity, and politics of the Landfall SMP.

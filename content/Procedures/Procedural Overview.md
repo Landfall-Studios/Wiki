@@ -1,4 +1,6 @@
 ---
+title: Procedural Overview
+description: Index of the rules and systems that govern play on Landfall SMP, organized by topic.
 created: 2025-05-25
 ---
 Welcome to the **Procedures** section of the Landfall SMP Wiki—your centralized guide for all administrative, roleplay, and gameplay systems. This collection of documents ensures that every player, from humble villagers to ambitious warlords, engages with the world of Landfall fairly and immersively.

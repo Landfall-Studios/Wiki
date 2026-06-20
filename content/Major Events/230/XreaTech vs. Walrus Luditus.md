@@ -1,4 +1,6 @@
 ---
+title: XreaTech vs. Walrus Luditus
+description: The infamous Landfall-230 trial in which Zee Bane sued Walrus Luditus for airspace violation, theft, and manslaughter under XreaTech's newly minted commercial code. The first significant test of corporate-nation jurisdiction in the Dominion.
 created: 2025-05-25
 tags:
   - L230

@@ -1,4 +1,6 @@
 ---
+title: Avery R. Ehrveil
+description: Former Empress of the Ehrengard Empire, daughter of Kieran Ehrveil, raised in secret as Avery Rosendahl in the Zatrian National Republic and elevated through Klein Moretti's defection. Took the throne after her father's assassination and was forced to abdicate following the Roscarte Coup, going into exile where she wrote The Testament of Avery Ehrveil, and a Path to Salvation.
 created: 2025-05-25
 tags:
   - L530

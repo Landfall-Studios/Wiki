@@ -1,4 +1,6 @@
 ---
+title: Ivory Reaches
+description: A region of towering white cliffs and frozen coastal plains in northern Landfall-530, long associated with mystics and isolation. Home to the Ehrengard Empire and the Magda'roth Empire.
 created: 2025-05-25
 tags:
   - L530

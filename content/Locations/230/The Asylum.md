@@ -1,4 +1,6 @@
 ---
+title: The Asylum
+description: A rehabilitation and containment facility built by Walrus Luditus near Terranova and Rotatus Island as penance for his role in the courthouse bombing following XreaTech v. Walrus Luditus. It combined reinforced chambers with meditation gardens and group therapy spaces.
 created: 2025-05-25
 tags:
   - L230

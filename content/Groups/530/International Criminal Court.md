@@ -1,4 +1,6 @@
 ---
+title: International Criminal Court
+description: An independent judicial body of middle Landfall-530, headquartered in the ceded city-state of Cadence and founded by treaty between The Second Lilaris Empire, New Ides, and Mirage Concord. Operates a complementary jurisdiction, convening fresh five-justice panels per case and focusing on the prosecution of war crimes.
 created: 2026-05-26
 tags:
   - L530

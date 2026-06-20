@@ -1,4 +1,6 @@
 ---
+title: Landfall-230 - The Great Dominion
+description: The first prime epoch of the Landfall SMP, a precarious balance of power between Lilarreich, Crazy Town, The Guild, and the corporate technologists. The age of innovation and the arms race that destroyed it.
 created: 2025-05-25
 tags:
   - L230

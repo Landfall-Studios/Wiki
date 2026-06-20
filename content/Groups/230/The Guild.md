@@ -1,4 +1,6 @@
 ---
+title: The Guild
+description: Lucius Ehrveil's merchant and financier network in Landfall-230, headquartered in Cornflower and operating as the economic backbone of Lilarreich. Controlled trade routes, banking, and industrial production while preserving enough autonomy to act as a quasi-sovereign body.
 created: 2025-05-25
 tags:
   - L230

@@ -1,4 +1,6 @@
 ---
+title: War Crimes
+description: The schedule of offenses defined as war crimes under International Criminal Court jurisdiction, covering attacks on civilians, treatment of prisoners of war, unlawful weapons, and crimes against cultural heritage. It serves as the substantive code applied by the ICC in prosecuting violations committed during armed conflict.
 created: 2026-05-26
 ---
 # **War Crimes Under the Jurisdiction of the International Criminal Court (ICC)**
