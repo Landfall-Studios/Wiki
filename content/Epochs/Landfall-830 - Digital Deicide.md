@@ -14,7 +14,8 @@ Centuries after humanity’s gods were unmasked as AI constructs, [[War of the D
 
 ## Key Events
 
-- **[[The Blaze]]**: The Blaze is the name given to the catastrophic collapse of the Divinets who were once revered as living gods and the divine infrastructure of the world’s great civilizations.
+> [!era]+ The Aftermath
+> - **[[The Blaze]]**: The Blaze is the name given to the catastrophic collapse of the Divinets who were once revered as living gods and the divine infrastructure of the world’s great civilizations.
 
 ## Significant Locations
 

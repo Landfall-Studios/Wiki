@@ -19,7 +19,7 @@ This page is a directory. It is here so you can find those pages on purpose if y
 
 ## Power, Consent, and Accountability
 
-The second cluster is about what institutions do, what they should not do, and what the people inside them owe to the people outside them. The questions here are not abstract; the wiki engages with each of them through specific arrangements that someone in the canon actually built.
+This cluster is about what institutions do, what they should not do, and what the people inside them owe to the people outside them. The questions here are not abstract; the wiki engages with each of them through specific arrangements that someone in the canon actually built.
 
 ### [[X-Seven]]
 *Contains: questions about democratic legitimacy, deception in the founding of states, the architecture of unaccountable power, the doctrine of necessary moral injury.*
@@ -40,7 +40,7 @@ Avery's seven short teachings, addressed in their original framing to her child.
 
 ## Belief and Coercion
 
-The third cluster sits where personal belonging meets institutional coercion: the dynamics of high-control religious movements, the mechanics by which membership becomes a trap, and what is owed to the people inside such movements when their leadership collapses and they are left holding what is left.
+This cluster sits where personal belonging meets institutional coercion: the dynamics of high-control religious movements, the mechanics by which membership becomes a trap, and what is owed to the people inside such movements when their leadership collapses and they are left holding what is left.
 
 ### [[Larrism]]
 *Contains: cult coercion, marital coercion within a faith, religious totalitarianism captured at the level of the state, the killing of ordinary cult members by paramilitary actors after the collapse of the cult's leadership.*
@@ -51,7 +51,7 @@ The doctrinal and structural record of the Larry Cult, paired with a substantial
 
 ## Systems and Survival
 
-The fourth cluster is about what happens to ordinary people when the institutions above them stop working, or were never working, or were working all along but for someone else.
+This cluster is about what happens to ordinary people when the institutions above them stop working, or were never working, or were working all along but for someone else.
 
 ### [[Echo Sprawl]]
 *Contains: depictions of systemic abuse, forced labor, environmental collapse, the elimination of currency in favor of subsistence-by-compliance, suicide, despair.*
@@ -64,7 +64,7 @@ The post-[[The Blaze|Blaze]] arcology where the three surviving megacorps (Citad
 
 This cluster is about interior life. What people lose, what people survive, what people do in private when the public version of themselves does not have room for any of it. Some of the articles here look at a single final week; others trace patterns that ran across whole adult lives. They are companion pieces to each other in the sense that all of them are about what does not get said out loud.
 
-The subjects covered in this category are not treated lightly. The heavier articles below were developed in direct collaboration with people who have lived and overcome the kind of struggle the article describes, as part of how those collaborators have done their own work of healing, and as a deliberate effort to give visible language to experiences that are too often brushed off or treated as taboo. Note that some creative liberties have been taken at different points both to integrate the story into the canon or to preserve privacy by avoiding a verbatim recap.
+The subjects covered in this category are especially difficult and are not treated lightly. The heavier articles below were developed in direct collaboration with people who have lived and overcome the kind of struggle the article describes, as part of how those collaborators have done their own work of healing, and as a deliberate effort to give visible language to experiences that are too often brushed off or treated as taboo. Note that some creative liberties have been taken at different points both to integrate the story into the canon or to preserve privacy by avoiding a verbatim recap.
 
 The choice to attach these experiences to specific characters is part of the point. The figures who carry them on this wiki are, in many cases, the most prominent and celebrated of their period and the histories are attached with mutual consent of the author of the article and user playing the character. That is not an accident. These struggles are not confined to anyone's image of who they belong to. They sit alongside whatever else a person is, and they are present in lives that look, from the outside, like they have nothing to do with this kind of subject. Nobody is completely free of struggle. The articles below are written from that premise.
 

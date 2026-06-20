@@ -14,7 +14,8 @@ Two and a half centuries after the creation of the sculk biome, the descendants 
 
 ## Key Events
 
-- **Cryosleep Awakening**: Dominion descendants awaken to a grim reality, thrust into a battle for survival in an unrecognizable, hostile world.
+> [!era]+ Survival in the Ruins
+> - **Cryosleep Awakening**: Dominion descendants awaken to a grim reality, thrust into a battle for survival in an unrecognizable, hostile world.
 
 ## Significant Locations
 

@@ -43,3 +43,171 @@ body .search > .search-container {
   overflow: hidden;
   white-space: nowrap;
 }
+
+.callout[data-callout="era"] {
+  --era-rail: var(--tertiary);
+  --era-accent: var(--secondary);
+
+  position: relative;
+  margin: 0 0 0 1.25rem;
+  padding: 0.25rem 0 0.25rem 2rem;
+  border: none;
+  border-left: 2px solid var(--era-rail);
+  background: transparent;
+  border-radius: 0;
+  overflow: visible;
+
+  & + .callout[data-callout="era"] {
+    margin-top: 0;
+  }
+
+  & > .callout-title {
+    position: relative;
+    padding: 0.75rem 0;
+    gap: 0.5rem;
+    color: var(--dark);
+    font-weight: $boldWeight;
+
+    & > .callout-icon {
+      display: none;
+    }
+
+    & > .callout-title-inner {
+      font-size: 1.15rem;
+      letter-spacing: 0.01em;
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: calc(-2rem - 1px - 0.6rem);
+      top: 1.05rem;
+      width: 1.2rem;
+      height: 1.2rem;
+      border-radius: 50%;
+      background: var(--era-rail);
+      box-shadow: 0 0 0 4px var(--light);
+      z-index: 1;
+    }
+
+    & > .fold-callout-icon {
+      opacity: 0.6;
+    }
+  }
+
+  & > .callout-content {
+    padding: 0 0 1rem 0;
+
+    & > ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+
+      & > li {
+        position: relative;
+        padding: 0.4rem 0 0.4rem 1.25rem;
+        margin: 0;
+
+        &::before {
+          content: "";
+          position: absolute;
+          left: 0;
+          top: 0.95rem;
+          width: 0.55rem;
+          height: 0.55rem;
+          border-radius: 50%;
+          background: var(--era-accent);
+          box-shadow: 0 0 0 3px var(--light);
+        }
+
+        & > ul {
+          margin-top: 0.35rem;
+          padding-left: 1.25rem;
+
+          & > li {
+            list-style: disc;
+            color: var(--darkgray);
+            font-size: 0.95em;
+            padding: 0.15rem 0;
+
+            &::marker {
+              color: var(--gray);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &.is-collapsed > .callout-content {
+    padding-bottom: 0;
+  }
+}
+
+body[data-slug="epochs/landfall-230---the-great-dominion"] .callout[data-callout="era"] {
+  --era-rail: #c9a227;
+  --era-accent: #8a6d10;
+}
+
+body[data-slug="epochs/landfall-241---the-sculk-horde"] .callout[data-callout="era"] {
+  --era-rail: #0d9488;
+  --era-accent: #134e4a;
+}
+
+body[data-slug="epochs/landfall-432---wrath-of-the-void"] .callout[data-callout="era"] {
+  --era-rail: #27272a;
+  --era-accent: #09090b;
+}
+
+:root[saved-theme="dark"] body[data-slug="epochs/landfall-432---wrath-of-the-void"] .callout[data-callout="era"] {
+  --era-rail: #71717a;
+  --era-accent: #a1a1aa;
+}
+
+body[data-slug="epochs/landfall-530---noble-blood"] .callout[data-callout="era"] {
+  --era-rail: #b91c1c;
+  --era-accent: #7f1d1d;
+}
+
+body[data-slug="epochs/landfall-830---digital-deicide"] .callout[data-callout="era"] {
+  --era-rail: #7c3aed;
+  --era-accent: #5b21b6;
+}
+
+body[data-slug="epochs/landfall-timelines"] article {
+  > h3 {
+    position: relative;
+    margin: 0 0 0 0.5rem;
+    padding: 1.75rem 0 0.25rem 2rem;
+    border-left: 2px solid var(--tertiary);
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: -0.6rem;
+      top: 2.1rem;
+      width: 1.1rem;
+      height: 1.1rem;
+      border-radius: 50%;
+      background: var(--tertiary);
+      box-shadow: 0 0 0 4px var(--light);
+    }
+  }
+
+  > h3 + p {
+    margin: 0 0 0 0.5rem;
+    padding: 0 0 1.75rem 2rem;
+    border-left: 2px solid var(--tertiary);
+
+    > strong:last-child {
+      display: inline-block;
+      margin-top: 0.6rem;
+      padding: 0.15rem 0.55rem;
+      border-radius: 4px;
+      background: var(--highlight);
+      font-size: 0.85em;
+      font-weight: $semiBoldWeight;
+      color: var(--darkgray);
+    }
+  }
+}

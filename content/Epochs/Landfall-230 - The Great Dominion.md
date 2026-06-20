@@ -13,64 +13,64 @@ Yet beneath this veneer of progress lurked darker ambitions. Secret organization
 
 ## Timeline
 
-### The Founding Era
-- **Establishment of [[Lilarreich]]**
-  - [[Lucius Ehrveil]] rises as Chancellor, establishing [[Lilarreich]] as the dominant diplomatic and technological force
-  - [[Terranova]] is established as the administrative and cultural capital
-- **Formation of [[The Guild]]**
-  - [[Lucius Ehrveil]] founds [[The Guild]], creating the economic backbone controlling trade routes, industrial production, and banking systems
-  - The Guild operates as a quasi-sovereign economic entity throughout [[Locations/Caldora|Caldora]]
-- **Integration of [[Fulcrum]]**
-  - [[Fulcrum]], led by [[Robert Alvaldi]] and [[X Eclipsis]], integrates into [[Lilarreich]]
-  - Fulcrum's military prowess and technological innovations significantly strengthen Lilarreich
-- **Rise of [[Crazy Town]]**
-  - [[Crazy Eli]] establishes [[Crazy Town]] in the [[Crazy Cave]]
-  - The faction becomes known for chaotic inventions and unorthodox strategies that disrupt the status quo
+> [!era]+ The Founding Era
+> - **Establishment of [[Lilarreich]]**
+>   - [[Lucius Ehrveil]] rises as Chancellor, establishing [[Lilarreich]] as the dominant diplomatic and technological force
+>   - [[Terranova]] is established as the administrative and cultural capital
+> - **Formation of [[The Guild]]**
+>   - [[Lucius Ehrveil]] founds [[The Guild]], creating the economic backbone controlling trade routes, industrial production, and banking systems
+>   - The Guild operates as a quasi-sovereign economic entity throughout [[Locations/Caldora|Caldora]]
+> - **Integration of [[Fulcrum]]**
+>   - [[Fulcrum]], led by [[Robert Alvaldi]] and [[X Eclipsis]], integrates into [[Lilarreich]]
+>   - Fulcrum's military prowess and technological innovations significantly strengthen Lilarreich
+> - **Rise of [[Crazy Town]]**
+>   - [[Crazy Eli]] establishes [[Crazy Town]] in the [[Crazy Cave]]
+>   - The faction becomes known for chaotic inventions and unorthodox strategies that disrupt the status quo
 
-### The Golden Age of Innovation
-- **Construction of the Monorail**
-  - A monumental infrastructure project connecting key territories in [[Locations/Caldora|Caldora]]
-  - [[DaemonWare Labs]] plays a crucial role in building the infrastructure
-  - The monorail symbolizes the unity and industrial might of [[Lilarreich]]
-- **Formation of Shadow Organizations**
-  - [[Lucius Ehrveil]] secretly establishes [[Citadel Corporation]] as a clandestine organization
-  - [[DaemonWare Labs]] is absorbed as a department of Citadel, specializing in advanced technology, weaponry, and artificial intelligence
-  - [[LobsterCo]], led by [[Lobbar Homarus]], begins controversial experiments including the creation of the sculk biome
-- **Cultural Renaissance**
-  - [[Cornflower]] flourishes as a center for artistic and intellectual contributions
-  - [[Chateau Fleur de Bleu]] is established in [[Cornflower]] as neutral ground for diplomatic gatherings
-  - [[Crocky Silvaris]] founds [[Crockyland]] near [[Terranova]], establishing a harmonious town connected to the capital by bridge
+> [!era]+ The Golden Age of Innovation
+> - **Construction of the Monorail**
+>   - A monumental infrastructure project connecting key territories in [[Locations/Caldora|Caldora]]
+>   - [[DaemonWare Labs]] plays a crucial role in building the infrastructure
+>   - The monorail symbolizes the unity and industrial might of [[Lilarreich]]
+> - **Formation of Shadow Organizations**
+>   - [[Lucius Ehrveil]] secretly establishes [[Citadel Corporation]] as a clandestine organization
+>   - [[DaemonWare Labs]] is absorbed as a department of Citadel, specializing in advanced technology, weaponry, and artificial intelligence
+>   - [[LobsterCo]], led by [[Lobbar Homarus]], begins controversial experiments including the creation of the sculk biome
+> - **Cultural Renaissance**
+>   - [[Cornflower]] flourishes as a center for artistic and intellectual contributions
+>   - [[Chateau Fleur de Bleu]] is established in [[Cornflower]] as neutral ground for diplomatic gatherings
+>   - [[Crocky Silvaris]] founds [[Crockyland]] near [[Terranova]], establishing a harmonious town connected to the capital by bridge
 
-### Rising Tensions
-- **[[Lilarreich-Crazy Town Cold War]]**
-  - A rivalry of ideologies and technologies develops between [[Lilarreich]] and [[Crazy Town]]
-  - The cold war leads to major innovations but heightens tensions that nearly erupt into open conflict
-  - Both factions push the boundaries of technology in an attempt to gain advantage
-- **[[The Chancellor's Banquet]]**
-  - An extravagant gathering held in [[Terranova]], aimed at fostering diplomacy and easing tensions
-  - While celebrated as a moment of temporary peace, it exposes underlying grievances between factions
-- **[[XreaTech vs. Walrus Luditus]]**
-  - [[Zee Bane]] of [[XreaTech]] files charges against [[Walrus Luditus]] for theft, trespassing, and airspace violations
-  - The trial is presided over by [[Crazy Eli]]
-  - Upon winning his case, [[Walrus Luditus]] detonates a bomb in the courthouse, ending the trial in chaos
-  - Once Walrus was apprehended, he was compelled to construct [[The Asylum]], where he would receive treatment.
-  - The incident marks one of the most dramatic and destabilizing events of the era
+> [!era]+ Rising Tensions
+> - **[[Lilarreich-Crazy Town Cold War]]**
+>   - A rivalry of ideologies and technologies develops between [[Lilarreich]] and [[Crazy Town]]
+>   - The cold war leads to major innovations but heightens tensions that nearly erupt into open conflict
+>   - Both factions push the boundaries of technology in an attempt to gain advantage
+> - **[[The Chancellor's Banquet]]**
+>   - An extravagant gathering held in [[Terranova]], aimed at fostering diplomacy and easing tensions
+>   - While celebrated as a moment of temporary peace, it exposes underlying grievances between factions
+> - **[[XreaTech vs. Walrus Luditus]]**
+>   - [[Zee Bane]] of [[XreaTech]] files charges against [[Walrus Luditus]] for theft, trespassing, and airspace violations
+>   - The trial is presided over by [[Crazy Eli]]
+>   - Upon winning his case, [[Walrus Luditus]] detonates a bomb in the courthouse, ending the trial in chaos
+>   - Once Walrus was apprehended, he was compelled to construct [[The Asylum]], where he would receive treatment.
+>   - The incident marks one of the most dramatic and destabilizing events of the era
 
-### The Final Years
-- **Dominion Summit**
-  - A crucial gathering of influential leaders held at [[Chateau Fleur de Bleu]]
-  - Leaders discuss the future of [[Locations/Caldora|Caldora]] and attempt to maintain the delicate balance of power
-  - Tensions remain high as factions pursue competing interests
-- **Development of the Divinets**
-  - [[Citadel Corporation]] develops godlike artificial intelligences for [[Lilarreich]]
-  - The revelation triggers a global arms race as each faction rushes to create their own Divinet
-  - [[XreaTech]] collaborates with [[Crazy Town]] to develop a competing Divinet
-  - [[Lobbar Homarus]] spearheads creation of a peace-focused Divinet through [[LobsterCo]]
-- **[[War of the Divinets]]**
-  - The catastrophic conflict sparked by the Divinet arms race
-  - Factions turn their godlike AIs against each other in devastating warfare
-  - The war's destruction marks the collapse of the Great Dominion
-  - Civilization is shattered, leading to the dark age between epochs
+> [!era]+ The Final Years
+> - **Dominion Summit**
+>   - A crucial gathering of influential leaders held at [[Chateau Fleur de Bleu]]
+>   - Leaders discuss the future of [[Locations/Caldora|Caldora]] and attempt to maintain the delicate balance of power
+>   - Tensions remain high as factions pursue competing interests
+> - **Development of the Divinets**
+>   - [[Citadel Corporation]] develops godlike artificial intelligences for [[Lilarreich]]
+>   - The revelation triggers a global arms race as each faction rushes to create their own Divinet
+>   - [[XreaTech]] collaborates with [[Crazy Town]] to develop a competing Divinet
+>   - [[Lobbar Homarus]] spearheads creation of a peace-focused Divinet through [[LobsterCo]]
+> - **[[War of the Divinets]]**
+>   - The catastrophic conflict sparked by the Divinet arms race
+>   - Factions turn their godlike AIs against each other in devastating warfare
+>   - The war's destruction marks the collapse of the Great Dominion
+>   - Civilization is shattered, leading to the dark age between epochs
 
 ---
 
