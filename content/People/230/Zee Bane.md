@@ -1,8 +1,10 @@
 ---
-dg-publish: true
+title: Zee Bane
+description: Entrepreneur who departed Lilarreich to found the independent nation of XreaTech, prosecuting party in XreaTech vs. Walrus Luditus and a quiet critic of the Dominion's traditional structures.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
-
 Zee Bane, an entrepreneurial figure, began their journey in [[Lilarreich]], residing in [[Terranova]] for a brief period during [[Landfall-230 - The Great Dominion]]. Zee quickly grew restless within the constraints of the city and departed Lilarreich to establish [[XreaTech]], an independent nation.
 
 Zee prioritized creating self-sustaining infrastructure. While Zee maintained cordial relations with Lilarreich, their departure was seen by some as a quiet critique of the Dominion’s more traditional structures. Zee himself was often found in a suit accented in blue to match his skintight face mask.

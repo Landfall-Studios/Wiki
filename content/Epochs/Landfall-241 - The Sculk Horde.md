@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Landfall-241 - The Sculk Horde
+description: The Halloween 2024 offshoot of Landfall-230. Two and a half centuries after the sculk biome was created, the descendants of the Dominion wake from cryosleep into a hostile wasteland and fight for survival.
+created: 2025-05-25
+tags:
+  - L241
 ---
-#L241 
 ![[241-full.png]]
 ### Overview
 

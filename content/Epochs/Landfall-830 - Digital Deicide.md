@@ -1,7 +1,9 @@
 ---
-dg-publish: true
+title: Landfall-830 - Digital Deicide
+description: The post-divine epoch of the Landfall multiverse, set centuries after the AI godhood of the Divinets was unmasked and destroyed. The rotting Earth and the clinical posthuman Moon, with no gods left to organize around.
 tags:
   - L830
+created: 2025-07-29
 ---
 ![[830-full.png]]
 ## Overview
@@ -16,11 +18,15 @@ Centuries after humanity’s gods were unmasked as AI constructs, [[War of the D
 
 > [!era]+ The Aftermath
 > - **[[The Blaze]]**: The Blaze is the name given to the catastrophic collapse of the Divinets who were once revered as living gods and the divine infrastructure of the world’s great civilizations.
+> - **[[Fuhai]] is Founded**
+> - **[[What Marsh Did]]**: The killings of three of [[Fuhai]]'s cofounders on the order of President Marsh Horton in the settlement's second decade, the framing that produced the order, and the falsified public record that has not been re-attributed.
 
 ## Significant Locations
 
 - **[[Echo Sprawl]]**: A bleak, post-capitalist dystopia where people slave away for survival.
+- **[[Fuhai]]**: The settlement founded west of the badlands by defectors from Echo Sprawl 492 years after The Blaze, governed by the Accumulation Doctrine and the largest sustained experiment in non-corporate civic life on post-Blaze Earth.
+- **[[The Underwater Nation of Athenia]]**: The submerged successor polity to Athena, founded under the eastern sea after most of Athena's population walked out on the leadership's fabricated god. Formally abbreviated TUNA. Annexed by Fuhai after its government vanished into the largest unsolved disappearance event in post-Blaze history.
 
 ## Key Figures
 
-- N/A
+- **[[Camina Gravacs]]**: Trans woman who departed Echo Sprawl for Fuhai, partner to President Marsh Horton, and the source of the framework that precipitated the killings documented in [[What Marsh Did]].

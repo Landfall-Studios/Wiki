@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Imperial Charter of The Second Lilaris Empire
+description: The founding constitutional document of the Second Lilaris Empire, establishing the Twin Thrones of House Ehrveil and House Alvaldi as joint sovereigns and defining the noble hierarchy, provincial structure, and citizen rights of the realm. It is the supreme governing instrument of the post-merger Lilaris state.
+created: 2026-05-26
 ---
 ### **Imperial Charter of The Second Lilaris Empire**
 

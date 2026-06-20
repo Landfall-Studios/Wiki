@@ -1,8 +1,8 @@
 ---
 title: Contributing
 description: How to add to the Landfall SMP Wiki
+created: 2026-06-19
 ---
-
 Thanks for helping document the world! The wiki is open to anyone. Adding a missing person, fixing a date, and expanding a location all start the same way: a pull request on the wiki's GitHub repo.
 
 This guide assumes you've never used GitHub before. If you have, skim the [[#TL;DR (for the impatient)|TL;DR]] and skip to the conventions at the bottom.
@@ -126,7 +126,7 @@ title: Red Diamond Casino
 description: A neon-soaked gambling hall on the eastern wharf.
 tags:
   - location
-  - 530
+  - L530
 ---
 ```
 

@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: The Chancellor's Banquet
+description: The grand diplomatic event hosted by Chancellor Lucius Ehrveil in Terranova during Landfall-230. Officially a celebration of unity, in practice the stage where Fulcrum pledged its territory to Lilarreich and several of the alliances that defined the Dominion were brokered.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Chancellor’s Banquet was a grand diplomatic event hosted in [[Terranova]] during the height of [[Landfall-230 - The Great Dominion]]. Organized by Chancellor [[Lucius Ehrveil]], the banquet brought together leaders, diplomats, and influential figures from across Caldora to foster unity and collaboration.

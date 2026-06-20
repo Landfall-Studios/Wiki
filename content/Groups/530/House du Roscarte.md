@@ -1,8 +1,10 @@
 ---
-dg-publish: true
+title: House du Roscarte
+description: A diminished Ehrengard noble house rebuilt by Seraphine, Étienne, and Enzo du Roscarte through espionage, debt, and military force, ending in the overthrow of the Ehrengard Empire and installing Sovarre in its place. Driven out of New Terranova after the regime's fall, the house is rumored to still operate from the shadows.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 House du Roscarte is one of the most powerful and feared noble houses in history, known for its ruthless ambition, mastery of manipulation, and eventual rise to absolute dominion. Originally a house of diminished prestige, the Roscarte family rebuilt itself through wealth, espionage, and sheer force of will, ultimately orchestrating the fall of the [[Ehrengard Empire]] and establishing [[Sovarre]] in its place.

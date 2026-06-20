@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Zatrian National Republic
+description: A militaristic single-party socialist state of early Landfall-530, governed by Dominikana and locked in a prolonged conflict with the Ehrengard Empire. Peacefully absorbed into Ehrengard after Avery R. Ehrveil, operating as Avery Rosendahl, defected with Varenholde and key military assets.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The Zatrian National Republic, commonly referred to as the ZNR, was a sovereign nation known for its militaristic culture, disciplined governance, and emphasis on self-reliance. The Republic emerged as a regional power early during [[Landfall-530 - Noble Blood]], characterized by its strict adherence to order and resistance to outside influence.

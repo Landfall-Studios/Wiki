@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Magda'roth Empire
+description: The Landfall-530 revival of the long-fallen Magda'roth Kingdom, rebuilt by House Versalhes under twin rulers Desmond and Derek after their adoption by Adamastor, the line's sole surviving heir from the Old Realm. Allied with Ehrengard and built on reclaiming ancestral grandeur after generations of Versalhes poverty.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## **Overview**
 
 The Magda’roth Empire, led by (and what is effectively) House Versalhes, carries the ancient legacy of the long-fallen Magda’roth Kingdom. Once a flourishing power in the [[Epochs/Old Realm\|Old Realm]], the Kingdom met its tragic end in a catastrophic event too cruel to speak. [[Adamastor Magda Versalhes\|Adamastor Magda Versalhes]], the sole surviving descendant, became the bridge between the ancient and modern world. Adopting the orphaned twins [[Desmond Versalhes\|Desmond Versalhes]] and [[Derek Versalhes\|Derek Versalhes]], he solidified House Versalhes’ claim to the Magda’roth legacy. In [[Epochs/Landfall-530 - Noble Blood\|Landfall-530 - Noble Blood]], House Versalhes has emerged as a force determined to rebuild what was lost, forging the Empire’s future amidst [[Locations/Caldora\|Caldora]]’s evolving landscape.

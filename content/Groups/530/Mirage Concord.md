@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Mirage Concord
+description: A theocratic desert cooperative of Landfall-530, founded by Ashen Caldwell to worship the twin gods of the Conclave of the Silent Forge under their local names Forge and Hammer. Governed by a Triumvirate and built on shared wealth, automation, and reverence for ancient relics, with the right to declare Crusade against nations that obstruct its faith.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 The Mirage Concord is a theocratic cooperative dedicated to the worship of Volkar, The Silent Smith, and Kaelix, The Warden of Ash—known locally as Forge and Hammer ([[Conclave of the Silent Forge]]). The Concord operates under the guidance of a Triumvirate and emphasizes collective growth, industrial progression, and the reverence of ancient relics. Its core mission is to thrive in the harsh desert environment through unity, automation, and the integration of divine inspiration into everyday life. Mirage Concord was founded by [[Ashen Caldwell]].

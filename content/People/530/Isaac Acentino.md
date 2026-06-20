@@ -1,10 +1,13 @@
 ---
-dg-publish: true
+title: Isaac Acentino
+description: Vintner-turned-duke, biological father of Empress Kara A. Ehrveil, founding monarch of the short-lived Idesian Empire, and Larrist co-defendant killed in the Night of the Veil.
+tags:
+  - L530
+created: 2025-05-25
 ---
-#L530 
 ## Overview
 
-Isaac Acentino was the founder and original Duke of [[New Ides]], a wine-producing duchy he established under [[Saludo]]. He was the biological father of Empress [[Kara A. Ehrveil]] by [[Avery R. Ehrveil]], a relationship kept secret throughout Avery's exile and Kara's childhood. Late in his life Isaac declared New Ides independent from Saludo, converted to [[Larrism]] as a true believer, restyled the duchy as the sovereign **Idesian Empire** under his own crown as King, and was killed as a co-defendant in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]].
+Isaac Acentino was the founder and original Duke of [[New Ides]], a wine-producing duchy he established under [[Saludo]]. He was the biological father of Empress [[Kara A. Ehrveil]] by [[Avery R. Ehrveil]], a relationship kept secret throughout Avery's exile and Kara's childhood. Late in his life Isaac declared New Ides independent from Saludo, converted to [[Larrism]] as a true believer, restyled the duchy as the sovereign **Idesian Empire** under his own crown as King, and was killed as a co-defendant in [[The Night of the Veil]].
 
 ---
 
@@ -36,7 +39,7 @@ Isaac was named a co-defendant in [[Case Filing - The People v. Huge Larry|Case 
 
 ### Death
 
-Before the case could resume, all six defendants were assassinated in a single coordinated strike known as the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]]. Isaac was among them. His body, like the others, was marked with a crudely carved "S," the signature of [[Seraphine du Roscarte]] and her terror faction [[Sovarre]].
+Before the case could resume, all six defendants were assassinated in a single coordinated strike known as [[The Night of the Veil]]. Isaac was among them. His body, like the others, was marked with a carved "S," the signature of [[Seraphine du Roscarte]] and her terror faction [[Sovarre]].
 
 Kara withdrew from public life for months after her father's death. Governance temporarily passed to [[Nordvik Alvaldi]] during the mourning period. Riven Skorne assumed leadership of [[New Ides]] shortly afterward and began work to distance the duchy from Larrist ideology, eventually restoring the original name of New Ides.
 
@@ -46,7 +49,8 @@ Kara withdrew from public life for months after her father's death. Governance t
 
 - [[Larrism]] (full account of the movement and Isaac's role in it)
 - [[Case Filing - The People v. Huge Larry]] (the formal charges)
-- [[The People v. Huge Larry and the Night of the Veil]] (the trial and assassination)
+- [[The People v. Huge Larry]] (the trial)
+- [[The Night of the Veil]] (the strike that killed him)
 - [[The Annexation of Whitefall]] (Larrist extremism cited as cause of secession)
 - [[Kara's Diary]] (Kara's first-person account)
 

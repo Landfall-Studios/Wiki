@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Crazy Eli
+description: Engineer, former leader of Crazy Town, and designer of the Crazy Cannon. Presided as judge over XreaTech vs. Walrus Luditus while secretly conspiring with the defendant, and his erratic later rule hardened the Lilarreich-Crazy Town Cold War until his death.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Crazy Eli, the former leader of [[Crazy Town]], was a brilliant yet eccentric engineer. He is best remembered for designing the infamous [[Crazy Cannon]], a symbol of his ingenuity and unpredictability. He is also known for his involvement in [[XreaTech vs. Walrus Luditus]].

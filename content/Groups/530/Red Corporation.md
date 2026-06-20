@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Red Corporation
+description: Edward Redcliffe's private holding company in Landfall-530, publicly anchored by the Red Diamond Casino in New Terranova and privately running the Rat Co. lab network beneath unsuspecting residences across Caldora. Ownership passed in stages to Vetis Veltol, who converted the labs into the operational shell for his research after Edward's death in Old Yotem.
+created: 2026-06-19
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 The Red Corporation is the private commercial holding founded by [[Edward Redcliffe]] in [[New Terranova]] during the middle period of [[Landfall-530 - Noble Blood]]. Outwardly it is a hospitality and entertainment concern built around the prestige of the [[Red Diamond Casino]]; in practice it functions as a personal vehicle for its owner's interests across Caldora, with subsidiary operations that range from the openly luxurious to the deliberately unaccountable.

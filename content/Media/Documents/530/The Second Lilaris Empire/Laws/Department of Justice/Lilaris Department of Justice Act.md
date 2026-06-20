@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Lilaris Department of Justice Act
+description: The enabling act that establishes the Department of Justice as the Second Lilaris Empire's primary judicial authority, defining the Imperial Court, Regional Courts, and the procedures by which magistrates are appointed and trials are conducted. It governs the structure of legal proceedings across criminal and civil matters.
+created: 2026-05-26
 ---
 ### **Section 1: Title**
 

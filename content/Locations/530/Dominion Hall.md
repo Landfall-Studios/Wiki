@@ -1,8 +1,10 @@
 ---
-dg-publish: true
+title: Dominion Hall
+description: The royal palace at the center of New Terranova and historic seat of the Twin Thrones of The Second Lilaris Empire, home to the Ehrveillian Dynasty and the Vault of the Flame. Site of the Imperial Wedding, the drafting of the Provincial Constitution, and the retirement of the Imperial Charter; preserved as a cultural landmark under the Republic.
+created: 2026-05-26
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 Dominion Hall is the royal palace at the center of [[New Terranova]] and the historic seat of the Twin Thrones of [[The Second Lilaris Empire]]. It served as both the official residence of the [[Ehrveillian Dynasty]] and the working seat of the Imperial government for the duration of the Empire's existence. Under [[The Constitution of the United Provinces of Lilaris|the Provincial Constitution]] it was preserved as the official residence of the Twin Thrones in their ceremonial form and as part of the Republic's cultural heritage.

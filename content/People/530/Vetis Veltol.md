@@ -1,10 +1,13 @@
 ---
-dg-publish: true
+title: Vetis Veltol
+description: Knight, merchant-prince, and sole proprietor of the Red Corporation. He trained under Amlooi Alvaldi, extracted Princess Salem Alvaldi from the Idesian Empire after the Princess Salem Incident, and withdrew from public life after the deaths of nearly everyone he had been close to.
+tags:
+  - L530
+created: 2026-06-19
 ---
-#L530
 ## Overview
 
-Vetis Veltol was a knight and merchant-prince of [[Landfall-530 - Noble Blood]], the elder of the Veltol brothers, husband to Princess Salem Alvaldi, and the eventual sole proprietor of the [[Red Corporation]]. He arrived in [[New Terranova]] at age nineteen as an outsider with no patrons and no standing, trained for nearly a decade under the Alvaldi knight [[Amlooi Alvaldi]], and by the end of the epoch had inherited the personal estates of Amlooi, of [[Edward Redcliffe]], and the standing claim against [[Nordvik Alvaldi]]'s will. He is recorded as the figure who personally extracted Princess Salem Alvaldi from the Idesian Empire in the aftermath of the [[The People v. Huge Larry and the Night of the Veil|Princess Salem Incident]].
+Vetis Veltol was a knight and merchant-prince of [[Landfall-530 - Noble Blood]], the elder of the Veltol brothers, husband to Princess Salem Alvaldi, and the eventual sole proprietor of the [[Red Corporation]]. He arrived in [[New Terranova]] at age nineteen as an outsider with no patrons and no standing, trained for nearly a decade under the Alvaldi knight [[Amlooi Alvaldi]], and by the end of the epoch had inherited the personal estates of Amlooi, of [[Edward Redcliffe]], and the standing claim against [[Nordvik Alvaldi]]'s will. He is recorded as the figure who personally extracted Princess Salem Alvaldi from the Idesian Empire in the aftermath of the [[The People v. Huge Larry|Princess Salem Incident]].
 
 He withdrew from public life in his late twenties, after the deaths and unravellings of nearly every figure he had been close to, and the bulk of what he did in the years that followed sits outside the public record of the period.
 
@@ -44,7 +47,7 @@ Edward repeatedly suggested, throughout the build-out, that the Rat Co. labs wou
 
 Late in the Larrist period Vetis received word that **Princess Salem Alvaldi**, daughter of [[Nordvik Alvaldi]] and half-sister of Duchess [[Riven Skorne]], was being harassed in the south by a governing official and was effectively trapped in the [[New Ides|Idesian Empire]]. Vetis traveled south personally, identified [[Isaac Acentino]] as the official in question, and brought Salem back to Lilaris.
 
-The figure who returned Princess Salem to Lilaris is named for the first time in the present account of Vetis's life. Earlier official records of the [[The People v. Huge Larry and the Night of the Veil|Princess Salem Incident]] treat her return as an unattributed outcome.
+The figure who returned Princess Salem to Lilaris is named for the first time in the present account of Vetis's life. Earlier official records of the [[The People v. Huge Larry|Princess Salem Incident]] treat her return as an unattributed outcome.
 
 ### Marriage to Salem
 
@@ -58,7 +61,7 @@ A year after the wedding, Nordvik revised his will to leave the whole of his per
 
 ### The Night of the Veil and the Deaths of Friends
 
-[[The People v. Huge Larry and the Night of the Veil|The Night of the Veil]] killed Kevinus Exo alongside his fellow diarch Exoticus Exo, [[Isaac Acentino]], [[Huge Larry]], and the rest of the Larrist defendants. The disruption Vetis's marriage had caused in the planned Skorne-Exo alliance had, in this longer view, become moot.
+[[The Night of the Veil]] killed Kevinus Exo alongside his fellow diarch Exoticus Exo, [[Isaac Acentino]], [[Huge Larry]], and the rest of the Larrist defendants. The disruption Vetis's marriage had caused in the planned Skorne-Exo alliance had, in this longer view, become moot.
 
 In the period that followed Vetis lost the figures around whom his adult life had been organized in rapid succession. [[Amlooi Alvaldi|Amlooi]] was killed by [[Seraphine du Roscarte]] and his estate transferred, by prior arrangement, to Vetis. The [[Ehrengard Empire]] pushed [[Edward Redcliffe|Edward]] south to commit fully to the development of his duchy of [[Old Yotem]], and [[Veltic Veltol|Veltic]] chose to follow Edward south rather than remain with his brother. Edward then handed the [[Red Corporation]] over to Vetis in stages from [[Old Yotem]]. By the time Edward took his own life shortly after the transfer completed, the whole of the Corporation belonged to Vetis outright.
 

@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Landfall Timelines
+description: Index of every Landfall timeline, showing how the Old Realm, the main timelines (230, 530, 830), and the offshoots (241, 432) connect across the multiverse.
+created: 2025-05-25
 ---
 Timelines ending in **30** are considered "main" timelines and contain the majority of the Landfall canon. For viewing convenience, these are listed below:
 

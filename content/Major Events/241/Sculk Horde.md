@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Sculk Horde
+description: The central threat of Landfall-241. An uncontrolled spread of LobsterCo's sculk biomass that consumed Caldora's cities and forced the Survivors to fight from the ruins. The world eventually fell to the Horde, ending the epoch.
+created: 2025-05-25
+tags:
+  - L241
 ---
-#L241 
 ## Overview
 
 The Sculk Horde emerged as the central threat during [[Landfall-241 - The Sculk Horde]], centuries after the fall of the Great Dominion. Originating from the uncontrolled spread of sculk biomass, which had been created by [[LobsterCo]], the Horde quickly transformed the world into a nightmarish wasteland. Entire cities fell, their inhabitants consumed or converted into monstrous entities bound to the sculk's will. [[The Survivors]] referred to the sculk as both a plague and a predator, driven by an inscrutable, ancient hunger.

@@ -1,8 +1,10 @@
 ---
-dg-publish: true
+title: International Criminal Court
+description: An independent judicial body of middle Landfall-530, headquartered in the ceded city-state of Cadence and founded by treaty between The Second Lilaris Empire, New Ides, and Mirage Concord. Operates a complementary jurisdiction, convening fresh five-justice panels per case and focusing on the prosecution of war crimes.
+created: 2026-05-26
+tags:
+  - L530
 ---
-#L530
-
 ## Overview
 
 The International Criminal Court (ICC) is an independent judicial body established by treaty during the middle period of [[Landfall-530 - Noble Blood]] to prosecute individuals responsible for severe violations of international law. It operates from the neutral city-state of Cadence and is not subject to the authority of any member nation. Its founding signatories were [[The Second Lilaris Empire]], [[New Ides]], and [[Mirage Concord]].

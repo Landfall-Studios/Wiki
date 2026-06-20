@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Sunchurn Expanse
+description: A vast desert in Landfall-530 whose ancient civilizations now lie buried beneath the dunes. Home to the Mirage Concord and treated by some as a divine test of endurance.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 A vast and harsh desert, the Sunchurn Expanse is a land where the sun beats down

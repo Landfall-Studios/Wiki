@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Elijah Ehrveil
+description: Member of the Ehrveillian Dynasty within the Ehrengard Empire, called The Enlightened, a scholarly figure whose quick judgment contributed to the ZNR-Ehrengard Conflict and whose diplomatic and cultural work shaped the modern Empire.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Elijah Ehrveil, often called _The Enlightened_, serves as a guiding intellectual force within the [[Ehrengard Empire]]. His dedication to rational governance, innovation, and preserving the legacy of the [[Ehrveillian Dynasty]] makes him an essential figure in the Empire’s modern history. Elijah's balanced approach to leadership ensures that the Empire remains adaptable without losing sight of its traditions.

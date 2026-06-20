@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Lilaris Department of Defense Act
+description: The enabling act that establishes the Department of Defense as the Second Lilaris Empire's highest military and security authority, with jurisdiction over the Imperial Military, internal security, border defense, and intelligence coordination. It defines the role of the Secretary of Defense, the Imperial Defense Council, and restrictions on weapons of mass destruction.
+created: 2026-05-26
 ---
 ### **Section 1: Title**
 

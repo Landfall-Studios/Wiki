@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Troubleshooting Overview
+description: Index of common technical problems on Landfall and the guides for resolving them.
+created: 2026-06-19
 ---
 Welcome to the Landfall support knowledge base. If you're experiencing technical issues while playing, start here. Below you'll find detailed guides for resolving common problems, from memory allocation to diagnosing network lag.
 

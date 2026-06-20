@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Thomas Ehrveil
+description: Progenitor of the Ehrveillian Dynasty, called The Father, the Old Realm leader credited with unifying the warring tribes of Caldora and authoring The Principles of Dominion. The model on which Lilarreich and the Ehrengard Empire were later built.
+created: 2025-05-25
+tags:
+  - OldRealm
 ---
-#OldRealm
 ## Overview
 
 Thomas Ehrveil, revered as _The Father_, is the progenitor of the [[Ehrveillian Dynasty]] and a towering figure of the [[Old Realm]]. His legacy marks the transition from the chaotic tribes of the ancient world to the unified structures of governance that later defined nations such as [[Lilarreich]] and the [[Ehrengard Empire]]. Thomas is remembered as a visionary leader who forged a path toward progress by dismantling old systems and establishing order.

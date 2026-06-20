@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true}
+title: Landfall-432 - Wrath of the Void
+description: The throwback offshoot of Landfall-230, set after DaemonWare's Voidport project ruptured and released the Wither Storm into Caldora. Played as a single-session boss fight, won by the Caldorans.
+created: 2025-05-25
+tags:
+  - L432
 ---
 ![[432-full.png]]
 ## Overview

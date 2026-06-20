@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Rotatus Incorporated
+description: Walrus Luditus's logistics, agriculture, and transport company in Landfall-230, founding member of the Great Dominion and architect of the trade networks that linked Lilarreich and Crazy Town. Ended when Rotatus Island was controversially sold to LobsterCo.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 Rotatus Incorporated is a logistics, agriculture, and transportation company renowned for its innovation in supply chain management and engineering. Playing a crucial role in the early epochs of [[Caldora]], Rotatus Incorporated focused on creating infrastructure and systems that allowed other factions to thrive. Like [[LobsterCo]], Rotatus gained a reputation for mischief due to the excursions of it's executive officer, [[Walrus Luditus]].

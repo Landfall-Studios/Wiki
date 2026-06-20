@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Fulcrum
+description: A remote outpost at the edge of the known map that grew rapidly into Lilarreich's industrial and technological arm during Landfall-230, founded by Robert Alvaldi and X Eclipsis. After conflict with Crazy Town it was formally assimilated into Lilarreich as a state.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230
 ## Overview
 
 The Great Nation of Fulcrum, often referred to simply as "Fulcrum," was a remote outpost situated at the edge of the known world map. Despite its humble beginnings, Fulcrum rapidly developed into an industrial and technological powerhouse. Its founding leadership consisted of [[Robert Alvaldi]] and [[X Eclipsis]], with later contributions from individuals known as Logis and Munch. Driven by a fear of vulnerability due to their late establishment, Fulcrum’s founders worked tirelessly to build a robust and self-sufficient nation capable of defending its burgeoning resources and ambitions.

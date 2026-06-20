@@ -1,11 +1,13 @@
 ---
-dg-publish: true
+title: Kara A. Ehrveil
+description: Co-sovereign of the Second Lilaris Empire, co-founder of the United Provinces of Lilaris, and the daughter of Avery R. Ehrveil.
+tags:
+  - L530
+created: 2025-05-25
 ---
-#L530
-
 ## Overview
 
-Kara A. Ehrveil was the only child of Empress [[Avery R. Ehrveil]] and Lord [[Isaac Acentino]], conceived during Avery's exile after the [[Roscarte Coup]] and raised in hiding. She inherited the throne as a child following her mother's assassination, co-founded [[The Second Lilaris Empire]] with [[Nordvik Alvaldi]], and in her later reign converted the Empire into a democratic republic through [[The Constitution of the United Provinces of Lilaris]]. She was married to Riven Skorne, Duchess of [[New Ides]], in the wake of [[The People v. Huge Larry and the Night of the Veil|the Night of the Veil]]. She is also the founder of [[X-Seven]].
+Kara A. Ehrveil was the only child of Empress [[Avery R. Ehrveil]] and Lord [[Isaac Acentino]], conceived during Avery's exile after the [[Roscarte Coup]] and raised in hiding. She inherited the throne as a child following her mother's assassination, co-founded [[The Second Lilaris Empire]] with [[Nordvik Alvaldi]], and in her later reign converted the Empire into a democratic republic through [[The Constitution of the United Provinces of Lilaris]]. She was married to Riven Skorne, Duchess of [[New Ides]], in the wake of [[The Night of the Veil]]. She is also the founder of [[X-Seven]].
 
 ## Appearance
 
@@ -52,7 +54,7 @@ The early years of [[The Second Lilaris Empire|TSLE]] were jointly held with [[N
 
 The most damaging events of her early reign came during [[Larrism|the Huge Larry Crisis]]. Her father had by that point converted [[New Ides]] into the self-styled Idesian Empire and aligned himself with the Larry Cult as a true believer. Kara filed [[Case Filing - The People v. Huge Larry|Case No. 593-LIR-NT]] in her own name against him, his godhead, and four other defendants, charging assault, battery, unlawful assembly, and treason among other offenses arising from the Princess Salem Incident.
 
-The trial collapsed before judgment. Isaac was killed days later in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]] alongside every other defendant. Kara withdrew from public life for months. Nordvik held governance through the mourning period.
+The trial collapsed before judgment. Isaac was killed days later in [[The Night of the Veil]] alongside every other defendant. Kara withdrew from public life for months. Nordvik held governance through the mourning period.
 
 ### Riven Skorne and the Imperial Wedding
 
@@ -61,6 +63,10 @@ After Isaac's death, Riven Skorne assumed leadership of [[New Ides]] and moved t
 The two were married in Dominion Hall. The accompanying [[The Idesian Accord|Idesian Accord]] formally restored New Ides as a Duchy of the Empire under Riven, recognized her as Imperial Consort and Duchess by right of blood, and named Kara *First Patron of New Ides*, a ceremonial title within her wife's domain. The anniversary of the Accord was declared the **Day of Reunion**, a minor imperial holiday.
 
 The marriage is described in [[Kara's Diary]] in language that is not present anywhere else in her writing.
+
+
+![[kara-riven.png]]
+*Riven Skorne (left) and Kara A. Ehrveil (right). Art by [TheRedCookie](https://www.tumblr.com/theredcookie1).*
 
 ### The United Provinces Constitution
 
@@ -97,8 +103,3 @@ She and Riven were still serving as Scions of Unity, the ceremonial successor of
 ## Trivia
 
 - The principle administrator of Landfall (confect1on) took the legal first name Kara in-real-life following the life of this character. The name "Kara" was chosen by confect1on while she was settling on a new name for herself during her transition. She knew it sounded right when said aloud with her surname since it was the middle name of a family member. In this way, the character of Kara A. Ehrveil was a fitting room for a name. While she played Kara, the name stuck to her out-of-character as well, and when she asked her friends why, they said it just fit her. This carry-over had not happened with Avery or any of the characters she played before.
-
----
-
-![[kara-riven.png]]
-*Riven Skorne (left) and Kara A. Ehrveil (right). Art by [TheRedCookie](https://www.tumblr.com/theredcookie1).*

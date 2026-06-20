@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: The Frozen Mantle
+description: A wilderness of eternal winter in Landfall-530, treated by the Weavers of the Verdant Thread as a symbol of patience and quiet endurance. Few make a home in its icebound expanse.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 A barren and unforgiving land of eternal winter, the Frozen Mantle is defined by its vast,

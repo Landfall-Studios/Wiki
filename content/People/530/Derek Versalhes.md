@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Derek Versalhes
+description: Imperial Forces Marshal and High Inquisitor of the Magda'roth Empire, younger of the Versalhes twins, and commander of the Guarda Vulpis. Mute, scarred over his left eye, and known for the silent and unyielding authority he holds over the Empire's military and judicial machinery.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 Derek Versalhes, Quality of Progression Affairs Leader of the [[Magda'roth Empire\|Magda'roth Empire]], is the youngest of the Versalhes twins and a pillar of strength and authority within the Empire. Driven by his father’s vision, Derek devotes himself to the protection of his brother, [[Desmond Versalhes\|Desmond Versalhes]], and the people of Magda'roth. His mastery of military strategy and technical expertise has positioned Magda'roth as a rising power, fortified against any external threat.

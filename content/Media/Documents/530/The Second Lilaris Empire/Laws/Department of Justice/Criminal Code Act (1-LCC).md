@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Criminal Code Act (1-LCC)
+description: The Lilaris Criminal Code, defining all criminal offenses, classifications, and penalties applicable within the Second Lilaris Empire, including offenses against the person, property crimes, public order violations, and national security crimes such as treason. It is the substantive code under which Imperial prosecutions are brought.
+created: 2026-05-26
 ---
 This act establishes the **Lilaris Criminal Code (1-LCC)** as the official legal framework for defining and prosecuting criminal offenses within The Second Lilaris Empire. It categorizes offenses, prescribes penalties, and outlines enforcement mechanisms to uphold law and order.
 

@@ -1,7 +1,9 @@
 ---
-dg-publish: true
+title: The Testament of Avery Ehrveil, and a Path to Salvation
+description: The text written by Avery R. Ehrveil after her abdication in the Roscarte Coup. Seven meditations on power, fear, loyalty, justice, sacrifice, hope, and salvation, addressed to her children. Often called The Last Edict.
 tags:
   - L530
+created: 2025-05-25
 ---
 Following her abdication of the crown in the [[Roscarte Coup]], [[Avery R. Ehrveil]] went into hiding and wrote the following. It is likely intended as a message to her children and it is aptly titled **The Testament of Avery Ehrveil, and a Path to Salvation**, often referred to simply as **The Last Edict**.
 

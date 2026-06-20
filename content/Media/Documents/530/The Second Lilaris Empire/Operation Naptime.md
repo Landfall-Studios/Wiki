@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Operation Naptime
+description: A classified Ehrengard Empire operational order authorizing the covert insertion of Despedidas asset Ing Eclipsis, codenamed Feather, into the Zatrian National Republic to manipulate and neutralize adversarial capabilities. Authorized by Emperor Kieran Ehrveil and SECDEF Porter Ehrveil during the ZNR-Ehrengard Conflict.
+created: 2026-05-26
 ---
 **OPERATION NAPTIME**  
 **CLASSIFIED//TOP SECRET//EYES ONLY//REL TO KD**

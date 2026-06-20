@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Changing Allocated RAM in Modrinth Launcher
+description: How to increase the RAM allocated to your modpack, globally or per instance, in the Modrinth launcher.
+created: 2026-06-19
 ---
 ## Overview
 

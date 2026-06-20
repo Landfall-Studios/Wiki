@@ -1,9 +1,11 @@
 ---
-dg-publish: true
+title: Enzo du Roscarte
+description: Warrior and enforcer of House du Roscarte, brother of Seraphine and Étienne, a battlefield commander and tactician who handles the violent work that keeps the family's position in the Ehrengard Empire secure.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
-
-#### **Overview**
+## **Overview**
 
 Enzo du Roscarte is the hammer of House du Roscarte, the warrior who ensures that his family’s influence is not merely secured through words and wealth but through sheer, undeniable force. While [[Seraphine du Roscarte]] and [[Étienne du Roscarte]] maneuver through courts and ledgers, Enzo commands the unseen battlefield, ensuring that no threat to the Roscarte name is left standing.
 
@@ -11,7 +13,7 @@ A seasoned soldier, strategist, and enforcer, Enzo has no patience for noble gam
 
 ---
 
-### **Appearance**
+## **Appearance**
 
 - **Hair:** Silver, short and practical, often dusted with dirt or blood from battle
 - **Eyes:** Hazel, cold and unflinching, revealing no emotion beyond ruthless efficiency
@@ -20,7 +22,7 @@ A seasoned soldier, strategist, and enforcer, Enzo has no patience for noble gam
 
 ---
 
-### **The Warrior of Roscarte**
+## **The Warrior of Roscarte**
 
 Unlike his siblings, Enzo cares little for noble titles, estates, or high society. He does not waste time with pleasantries or manipulation. He understands that true power is not merely spoken or bought—it is taken, crushed into submission, and enforced with steel.
 
@@ -32,7 +34,7 @@ Where [[Étienne du Roscarte]] secures the Roscarte fortune and [[Seraphine du R
 
 ---
 
-### **The Shadow of the Battlefield**
+## **The Shadow of the Battlefield**
 
 Though born into nobility, Enzo is not a man of lavish estates or decadent feasts. He has spent more time on the battlefield than in the halls of [[Roscarte]], carving his reputation through war rather than diplomacy. His name is known in the underworld, among mercenaries and warlords, whispered in the dark by those who know what happens when the Roscarte family is crossed.
 
@@ -42,7 +44,7 @@ Though born into nobility, Enzo is not a man of lavish estates or decadent feast
 
 ---
 
-### **Philosophy**
+## **Philosophy**
 
 _"The strong rule. The weak serve. That is the only law that matters."_
 
@@ -52,7 +54,7 @@ Where [[Seraphine du Roscarte]] plays the long game and [[Étienne du Roscarte]]
 
 ---
 
-### **Key Contributions**
+## **Key Contributions**
 
 - **The Enforcer of Roscarte Power:** Ensuring that no rival dares to move against his siblings, either through intimidation or execution.
 - **The Hidden Hand Behind Conflicts:** Wars and rebellions rarely begin without his knowledge—and most end before they ever begin.
@@ -60,6 +62,6 @@ Where [[Seraphine du Roscarte]] plays the long game and [[Étienne du Roscarte]]
 
 ---
 
-### **Significance**
+## **Significance**
 
 Enzo du Roscarte is the steel behind the Roscarte name, the warrior whose mere presence ensures their dominance remains unchallenged. While others seek power through wealth and influence, Enzo reminds the world that true power is carved in blood.

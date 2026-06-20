@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Conclave of the Silent Forge
+description: A Landfall-530 faith devoted to Volkar the Silent Smith and Kaelix the Warden of Ash, twin gods of creation and destruction whose cycle of forging and renewal shapes the world. Followers honor Volkar through crafting and innovation, and Kaelix through ritual destruction of spent material at the Forge of Eternity.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Deities
 
 - **Volkar, The Silent Smith**: Master of creation, forging life and matter from raw elements.

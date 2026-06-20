@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Imprisonment Rules
+description: The rules for imprisoning another player's character. IC capture, detention sites, escape, and the path to resolution.
+created: 2025-05-25
 ---
 Imprisonment in Landfall SMP is a powerful narrative mechanic—used to detain traitors, extract leverage, or disappear enemies. It should feel **high-stakes and immersive**, but also **fair and recoverable**, even if a nation roleplays an authoritarian state.
 

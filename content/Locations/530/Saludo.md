@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Saludo
+description: Once an independent kingdom rooted in animist belief, now one of the two founding cities of The Second Lilaris Empire alongside New Terranova. Governed by the Alvaldi lineage, with Nordvik Alvaldi as its ruler.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Saludo, once an independent kingdom, is now one of the two founding cities of [[The Second Lilaris Empire]]. Rooted in animism, its people believe that every element of the world possesses a spirit, shaping their way of life and governance. Rather than worshiping deities, they honor the spirits of the land, water, and creatures, ensuring that balance, duty, and communal well-being guide their society.

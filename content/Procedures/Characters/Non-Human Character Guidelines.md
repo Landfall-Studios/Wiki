@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Non-Human Character Guidelines
+description: Rules for non-human characters on Landfall SMP. Demi-humans only, science-based origins only, admin approval required.
+created: 2025-05-25
 ---
 To maintain consistency within the Landfall SMP canon, the following guidelines define the role of non-human characters, including anthropomorphic (furry) characters, within the server’s lore.
 

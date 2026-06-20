@@ -1,11 +1,13 @@
 ---
-dg-publish: true
+title: Huge Larry
+description: The chrome-helmeted godhead at the center of Larrism, killed alongside the rest of the cult's leadership in the Night of the Veil.
+tags:
+  - L530
+created: 2026-05-26
 ---
-#L530
-
 ## Overview
 
-Huge Larry was the self-styled godhead of [[Larrism]], the religious and political movement that briefly captured the leadership of [[New Ides]] and the ExoVinian Empire in the late middle period of [[Landfall-530 - Noble Blood]]. He wore a chrome helmet at all times and was never publicly seen without it. His real name, origin, motivation, and the substance of his theology, if he held one, are all unknown. He was killed alongside the rest of the cult's leadership in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]].
+Huge Larry was the self-styled godhead of [[Larrism]], the religious and political movement that briefly captured the leadership of [[New Ides]] and the ExoVinian Empire in the late middle period of [[Landfall-530 - Noble Blood]]. He wore a chrome helmet at all times and was never publicly seen without it. His real name, origin, motivation, and the substance of his theology, if he held one, are all unknown. He was killed alongside the rest of the cult's leadership in [[The Night of the Veil]].
 
 ## Background
 
@@ -65,5 +67,7 @@ Larry's name, origin, prior history, and theology are unrecorded. He is not know
 
 - [[Larrism]] (the movement and its doctrine)
 - [[Case Filing - The People v. Huge Larry]] (the formal charges)
-- [[The People v. Huge Larry and the Night of the Veil]] (the trial and his death)
+- [[The People v. Huge Larry]] (the trial)
+- [[The Night of the Veil]] (the strike that killed him and the destruction of the lay membership that followed)
 - [[Amlooi's Diary]] (the only first-person initiate's account)
+- [[The Great Teachings of Larry]] (anonymous adherent tract; the only surviving devotional text from inside the movement)

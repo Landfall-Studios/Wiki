@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: XreaTech
+description: A small self-reliant nation founded near Terranova in Landfall-230 by Zee Bane, built around a fortified bunker, an experimental power plant, and a planned housing district. Praised as a vision of independent innovation, but dependent enough on Lilarreich aid to draw accusations of overreach.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 Founded during [[Landfall-230 - The Great Dominion]] by [[Zee Bane]], XreaTech was an ambitious nation built on principles of self-reliance and technological innovation. Situated near [[Terranova]], it quickly distinguished itself with its self-sustaining infrastructure, including an advanced power plant, a bustling market, and a carefully designed housing district.

@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Nouveaux Ides
+description: The flagship winery of New Ides, founded by Duke Isaac Acentino as the duchy's first business and aged in the cold climate of The Frozen Mantle. Its manor doubles as the political and social heart of New Ides, hosting elite tastings and diplomatic functions.
+created: 2025-07-29
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Nouveaux Ides is the premier winery and vineyard of [[New Ides\|New Ides]], renowned across [[Locations/Caldora\|Caldora]] for its exquisite vintages, masterful aging process, and deep-rooted winemaking tradition. Founded by [[Isaac Acentino\|Isaac Acentino]], Duke of New Ides, Nouveaux Ides was the first business established in the duchy and quickly became the gold standard for luxury wines and collectible vintages.

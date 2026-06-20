@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Avery R. Ehrveil
+description: Former Empress of the Ehrengard Empire, daughter of Kieran Ehrveil, raised in secret as Avery Rosendahl in the Zatrian National Republic and elevated through Klein Moretti's defection. Took the throne after her father's assassination and was forced to abdicate following the Roscarte Coup, going into exile where she wrote The Testament of Avery Ehrveil, and a Path to Salvation.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Avery R. Ehrveil, the former Empress of the [[Ehrengard Empire]], embodies the dynasty's commitment to leadership forged through resilience and earned respect. Known for her pragmatic approach to governance and her unyielding belief in strength through unity, Avery has emerged as a symbol of both renewal and continuity for the Empire. Her experiences beyond the Empire’s borders shaped her into a ruler who values both compassion and resolve, standing as a testament to the legacy of the [[Ehrveillian Dynasty]].

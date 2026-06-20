@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Lore Catalyst Request
+description: The process for proposing major lore events that need admin support or custom mechanics beyond the game's native systems.
+created: 2025-05-25
 ---
 The LCR system allows players—especially Legends with a passion for the canon—to propose major lore events requiring technical assistance or elements beyond the game’s native support (e.g., creating a "Multiversal Extrapolator" to crash together timelines or introducing new mobs for a Sculk Horde invasion).
 

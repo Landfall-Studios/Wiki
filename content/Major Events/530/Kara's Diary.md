@@ -1,5 +1,9 @@
 ---
-dg-publish: true
+title: Kara's Diary
+description: The personal diary of Empress Kara A. Ehrveil, kept throughout her life. The most direct first-person record of the events around her coronation, the merger of Saludo and Ehrengard, and the formation of the Second Lilaris Empire.
+created: 2025-07-29
+tags:
+  - L530
 ---
 Throughout her life, [[Kara A. Ehrveil]] wrote about significant life events in her personal diary.
 

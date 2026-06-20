@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Caldora
+description: The world in which the events of the Landfall SMP take place, spanning every epoch from the Old Realm through Landfall-830. Its geography ranges from the Sunchurn Expanse and Frozen Mantle to the Ivory Reaches and Emberscar Basin, with each region carrying its own factions and history.
+created: 2025-05-25
 ---
 ## Overview
 

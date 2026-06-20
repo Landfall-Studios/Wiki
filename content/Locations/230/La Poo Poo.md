@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: La Poo Poo
+description: A luxury restaurant on a hill in Crockyland during the Great Dominion, run by the eccentric Chef Poo Poo on the premise that diners could order anything he had the ingredients to make. Its clientele of world leaders led to catering work for major events across Caldora.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 Despite its humorous name, La Poo Poo was a renowned luxury restaurant situated on a picturesque hill in [[Crockyland]] during [[Landfall-230 - The Great Dominion]]. Operated by the eccentric yet brilliant Chef Poo Poo, the restaurant was famed for its unique approach: diners could order "whatever you want," provided the chef had the ingredients to prepare it. This personalized dining experience made La Poo Poo a sought-after destination for world leaders, and the familiarity led to La Poo Poo receiving offers to cater large events.

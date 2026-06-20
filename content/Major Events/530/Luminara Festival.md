@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Luminara Festival
+description: The annual Ehrengardian festival held in New Terranova at the turn of each year. Remembered both for the ceremonial Luminara Board and as the site of Emperor Kieran Ehrveil's assassination by Willy Luditus.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Overview
 
 The Luminara Festival is a celebrated annual event in the [[Ehrengard Empire]], originally established during the early days of [[Landfall-530 - Noble Blood]] to look forward to the year ahead. Held in [[New Terranova]], the festival features a board to write gratitude and aspirations, cultural performances, and a spectacular display of fireworks symbolizing hope and renewal.

@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Annexation of Whitefall
+description: The formal instrument of annexation between the township of Whitefall (formerly Merlot) under Viscountess Ashling Goldwound and the Second Lilaris Empire, recording the peaceful secession from the Larrist-radicalized Idesian Empire and integration into Lilaris. It sets the terms of governance, noble appointment, military protection, and judicial integration.
+created: 2026-05-26
 ---
 ### **I. PARTIES TO THE AGREEMENT**
 

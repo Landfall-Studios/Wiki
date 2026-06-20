@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Lilaris Department of the Interior Act
+description: The enabling act that establishes the Department of the Interior as the Second Lilaris Empire's governing authority over infrastructure, urban development, cultural preservation, and environmental conservation. It defines the role of the Secretary of the Interior and the Empire's zoning and architectural standards.
+created: 2026-05-26
 ---
 ### **Section 1: Title**
 

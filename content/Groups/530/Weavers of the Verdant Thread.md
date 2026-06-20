@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Weavers of the Verdant Thread
+description: A Landfall-530 faith devoted to Sylhara, the Eternal Loom, whose followers believe all life is woven into a single interconnected design that runs through a hidden network of living energy. The Weavers tend that network as caretakers of growth, mediating between civilizations and the wilds.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530 
 ## Deity
 
 - **Sylhara, The Eternal Loom**: The divine weaver of life’s interconnected tapestry.

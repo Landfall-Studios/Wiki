@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: The Asylum
+description: A rehabilitation and containment facility built by Walrus Luditus near Terranova and Rotatus Island as penance for his role in the courthouse bombing following XreaTech v. Walrus Luditus. It combined reinforced chambers with meditation gardens and group therapy spaces.
+created: 2025-05-25
+tags:
+  - L230
 ---
-#L230 
 ## Overview
 
 The Asylum, built by [[Walrus Luditus]], stands as a stark reminder of [[Caldora]]’s tumultuous past. Situated adjacent to both [[Terranova]] and [[Rotatus Island]], the facility serves as a refuge for those deemed unstable or dangerous, offering both isolation and the opportunity for rehabilitation.

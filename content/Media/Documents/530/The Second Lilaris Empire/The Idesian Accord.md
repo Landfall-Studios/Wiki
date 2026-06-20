@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: The Idesian Accord
+description: The treaty restoring the Duchy of New Ides to the Second Lilaris Empire through the marriage of Empress Kara A. Ehrveil and Duchess Riven Skorne. It reaffirms New Ides as a Duchy under the Imperial Charter, recognizes Riven as Imperial Consort, and reinstates the Idesian Guard as a civil defense force.
+created: 2026-05-26
 ---
 **By the Will of the Imperial Crown, and in the Light of Ancestral Union, this Accord restores the Duchy of New Ides to its rightful station within the dominion of The Second Lilaris Empire.**
 

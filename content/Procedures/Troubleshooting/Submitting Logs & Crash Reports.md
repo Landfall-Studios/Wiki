@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Submitting Logs & Crash Reports
+description: Where to find latest.log and crash reports in your Modrinth instance, and how to send them to the support team.
+created: 2026-06-19
 ---
 ## Overview
 

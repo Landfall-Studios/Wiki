@@ -1,7 +1,9 @@
 ---
-dg-publish: true
+title: ZNR-Ehrengard Conflict
+description: The early Landfall-530 war between the Zatrian National Republic and the Ehrengard Empire. The public record names territorial disputes; the post-war declassification revealed that Operations Naptime and Nightshrike had bent the war into a shape Ehrengard could win before the first open engagement.
 tags:
   - L530
+created: 2025-05-25
 ---
 ## Overview
 

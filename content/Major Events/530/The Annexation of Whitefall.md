@@ -1,13 +1,15 @@
 ---
-dg-publish: true
+title: The Annexation of Whitefall
+description: The peaceful secession of the township of Merlot from the Idesian Empire under Mayor Ashling Goldwound, citing the Larrist collapse of the Idesian regime, and its integration into the Second Lilaris Empire as the renamed Whitefall.
 tags:
   - L530
+created: 2026-05-26
 ---
 ## Overview
 
 The Annexation of Whitefall was the peaceful secession of the township formerly known as **Merlot** from the Idesian Empire (the late, Larrist-aligned regime of [[New Ides]] under [[Isaac Acentino]]) and its voluntary integration into [[The Second Lilaris Empire]]. The transition was led by Mayor **Ashling Goldwound**, who renounced her fealty to the Idesian state on the grounds that it had collapsed ideologically under Larrist extremism. Upon signature of the [[Annexation of Whitefall|Annexation Agreement]] she was elevated to Viscountess and the township was renamed Whitefall.
 
-The annexation took place during [[The People v. Huge Larry and the Night of the Veil|The Huge Larry Crisis]], before the assassination of [[Isaac Acentino]] in the Night of the Veil. It was framed by both parties not as a rebellion but as a lawful and moral act of civic defense by a town whose former liege had been corrupted by religious extremism.
+The annexation took place during [[Larrism|the Huge Larry Crisis]], before the assassination of [[Isaac Acentino]] in [[The Night of the Veil]]. It was framed by both parties not as a rebellion but as a lawful and moral act of civic defense by a town whose former liege had been corrupted by religious extremism.
 
 ## Background
 
@@ -38,7 +40,7 @@ The Empire put Idesian leadership on notice that any interference with Whitefall
 
 ## Aftermath
 
-Whitefall remained an Imperial holding under Viscountess Goldwound for the remainder of the epoch. Open Idesian retaliation never came. [[Isaac Acentino]] was assassinated shortly afterward in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]], and the New Ides regime passed to Riven Skorne, who moved promptly to distance the nation from Larrist ideology and bring it into [[The Second Lilaris Empire]]. By the time New Ides itself was reaffirmed as a Duchy of the Empire through the [[The Idesian Accord|Idesian Accord]], the question of Whitefall's status had been settled by events.
+Whitefall remained an Imperial holding under Viscountess Goldwound for the remainder of the epoch. Open Idesian retaliation never came. [[Isaac Acentino]] was assassinated shortly afterward in [[The Night of the Veil]], and the New Ides regime passed to Riven Skorne, who moved promptly to distance the nation from Larrist ideology and bring it into [[The Second Lilaris Empire]]. By the time New Ides itself was reaffirmed as a Duchy of the Empire through the [[The Idesian Accord|Idesian Accord]], the question of Whitefall's status had been settled by events.
 
 ## Sources
 

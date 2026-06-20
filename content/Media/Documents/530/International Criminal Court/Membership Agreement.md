@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Membership Agreement
+description: The standard accession instrument signed by sovereign nations joining the International Criminal Court. It binds signatories to recognize ICC jurisdiction, extradite indicted individuals, and cooperate with investigations and enforcement actions.
+created: 2026-05-26
 ---
 ## **Preamble**
 

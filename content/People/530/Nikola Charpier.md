@@ -1,7 +1,10 @@
 ---
-dg-publish: true
+title: Nikola Charpier
+description: Viscount of a small region within New Terranova, last of the Charpier line, and head of his family's Blacklung division within Citadel Corporation. Bound to deliver one final act in service of the Charpier legacy of reform.
+created: 2025-05-25
+tags:
+  - L530
 ---
-#L530
 ## Overview
 
 Nikola Charpier is the last surviving member of the once-influential Charpier lineage, a family renowned for their dedication to the improvement of regimes and the growth of prosperity worldwide. The Charpiers were deeply interwoven with businesses and movements aimed at uplifting societies, often putting themselves at risk for the greater good. Their noble mission, however, came at a heavy price, with many of Nikola’s ancestors succumbing to natural causes or falling victim to assassinations tied to their relentless pursuit of change.
