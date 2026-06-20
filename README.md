@@ -1,17 +1,25 @@
-# Quartz v5
+# Landfall SMP Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+The source for the **Landfall SMP Wiki**, a record of the lore, history, factions, and people of the Landfall multiverse.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🌐 Live site: https://wiki.landfall.world
+💬 Discord: https://discord.com/invite/u6NE9rGXJ6
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Contributing
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+All pages live as markdown under `content/`. To add or fix something, open a PR against `v5`. The site rebuilds and redeploys automatically on merge.
 
-## Sponsors
+See the [Contributing guide](content/Contributing.md) for the full walkthrough (no GitHub experience required).
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Running locally
+
+```bash
+npm install
+npx quartz build --serve
+```
+
+Then open <http://localhost:8080>.
+
+## Built on
+
+[Quartz v5](https://quartz.jzhao.xyz/) by Jacky Zhao.
