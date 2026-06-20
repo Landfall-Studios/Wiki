@@ -1,7 +1,10 @@
 ---
+title: Huge Larry
+description: The chrome-helmeted godhead at the center of Larrism, killed alongside the rest of the cult's leadership in the Night of the Veil.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
 
 ## Overview
 
@@ -67,3 +70,4 @@ Larry's name, origin, prior history, and theology are unrecorded. He is not know
 - [[Case Filing - The People v. Huge Larry]] (the formal charges)
 - [[The People v. Huge Larry and the Night of the Veil]] (the trial and his death)
 - [[Amlooi's Diary]] (the only first-person initiate's account)
+- [[The Great Teachings of Larry]] (anonymous adherent tract; the only surviving devotional text from inside the movement)

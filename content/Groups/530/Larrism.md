@@ -1,20 +1,24 @@
 ---
+title: Larrism
+description: The Larry Cult, a high-control religious movement built around the chrome-helmeted godhead Huge Larry, its capture of two empires, and its collapse in the Night of the Veil.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
 
 > [!warning] Content warning
 > This article documents cult dynamics, marital coercion within a faith setting, the capture of state institutions by an extremist religious movement, and the killing of ordinary cult members by a paramilitary actor after the cult's leadership had already been removed. It is written carefully but it does not soften these subjects.
 >
-> If any of this material is close to your own experience, please consider returning to the article at a time when it is safer for you to engage with it, and reach out to a mental health professional, an organization that supports cult survivors in your country, or someone you trust if you need support now. Cult exit is real work, and nothing in this article is intended as a substitute for the people and resources that do it.
->
-> Like every page on this wiki, the article is fiction set within the lore of Landfall. The characters described here are played by real people; players are not the characters. Acts attributed to Huge Larry, Isaac Acentino, the Exos, and the wider Larrist movement are not statements about the views, values, or real-life behavior of the players behind the roles.
+> > [!info]- Support and a note on fiction
+> > If any of this material is close to your own experience, please consider returning at a time when it is safer for you to engage with it, and reach out to a mental health professional, an organization that supports cult survivors in your country, or someone you trust if you need support now. Cult exit is real work, and nothing in this article is intended as a substitute for the people and resources that do it.
+> >
+> > Like every page on this wiki, the article is fiction set within the lore of Landfall. The characters described here are played by real people; players are not the characters. Acts attributed to Huge Larry, Isaac Acentino, the Exos, and the wider Larrist movement are not statements about the views, values, or real-life behavior of the players behind the roles.
 
 ## Overview
 
 Larrism, known colloquially as the **Larry Cult** and to its adherents simply as the *HUGE religion*, was a religious and political movement that took hold in the late middle period of [[Landfall-530 - Noble Blood]] around a single figure called only "Huge Larry." Treated by some as a dangerous lunatic and by others as a living god, Larry attracted a small but influential network of true believers, including the sitting leadership of [[New Ides]] and the ExoVinian Empire. The movement reshaped policy in two nations, triggered the secession of [[The Annexation of Whitefall|Whitefall from the Idesian Empire]], and ended in a coordinated mass assassination of its leadership in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]].
 
-Larrism is the most consequential religious movement of the late epoch outside the established faiths. Unlike the [[Conclave of the Silent Forge]] or the [[Umbral Communion]], it emerged from no recognized theological tradition, produced no scripture, and centered entirely on the person and pronouncements of its living godhead.
+Larrism is the most consequential religious movement of the late epoch outside the established faiths. Unlike the [[Conclave of the Silent Forge]] or the [[Umbral Communion]], it emerged from no recognized theological tradition and centered entirely on the person and pronouncements of its living godhead. Larry himself produced no scripture. The only devotional text known to have circulated within the faith, [[The Great Teachings of Larry]], is an anonymous adherent compilation recovered from a chapel ruin after the cult's collapse.
 
 ## Origins
 
@@ -30,7 +34,7 @@ What the Empire failed to anticipate was that Larry's antics were being interpre
 
 ## Doctrine and Practice
 
-Larrism never produced a formal scripture, and what is known of its doctrine is drawn from court records, the testimony of survivors, and the personal diary of [[Amlooi's Diary|Amlooi Alvaldi]], who was an initiate of the faith at the time of his death.
+Larry himself produced no scripture. What is known of the faith's doctrine is drawn from court records, the testimony of survivors, the personal diary of [[Amlooi's Diary|Amlooi Alvaldi]] (an initiate of the faith at the time of his death), and a single anonymous adherent tract recovered from a chapel ruin after the cult's collapse: [[The Great Teachings of Larry]]. The Teachings catalog the movement's internal cosmology, three of its claimed miracles, and an eight-point set of laws of conduct that any close reader of the case record will already recognize in fragments.
 
 The faith centers on the divinity of Huge Larry himself. He is understood by adherents to be a present, embodied god, identified by his chrome helmet and a personal style that survivors describe in language otherwise reserved for revelation. Outsiders are generally regarded with suspicion. Followers of the [[Conclave of the Silent Forge]] are treated with particular hostility; Amlooi records that "our Huge God actually hated those who honored the people of the Forge," and survived in the movement only by concealing his prior service to a descendant of the Forge.
 
@@ -42,6 +46,25 @@ Documented rites and practices include:
 - **Symbolic Exile.** Adherents in positions of state authority claimed the right to declare outsiders "exiled" from the faith and, by extension, from any territory the faith touched. Isaac Acentino exercised this purported power against Princess Salem, despite her not being an Idesian citizen and the incident taking place outside Idesian territory.
 
 The cult's iconography centered on the letters **HUGE** (almost always written in capitals), the chrome helmet of the godhead, and the numbered sacred bread.
+
+### From the Great Teachings
+
+[[The Great Teachings of Larry]] is the only surviving devotional text from inside the movement, and it makes parts of the public record legible that had previously been guesswork.
+
+The opening chapter is a cosmology. Huge Larry, the text says, created the world and then placed the gods of the established faiths (Volkar and Kaelix of the [[Conclave of the Silent Forge|Silent Forge]], Nethrys of the [[Umbral Communion|Communion]], and Sylhara of the [[Weavers of the Verdant Thread|Weavers]]) as overseers of separate parts of it. The people of [[Caldora]] then went astray, "evildoers" misled them into worshipping the lesser gods alone, they were "lost to their evil," and Larry "brought justice to those people." This is the cleanest available articulation of why the cult treated adherents of the older faiths with such hostility. Amlooi's line about how "our Huge God actually hated those who honored the people of the Forge" reads, on this evidence, as doctrine rather than personality. Inside the cult, honoring a Forge god and refusing to honor Larry were the same act.
+
+Chapter II catalogs three miracles. Larry's spirit appeared at a congregation of his church in Exovia. Adherents who received the baptismal waters and prayed for it grew in bodily stature. Gamblers who prayed to Larry's image before betting on "all black" won. The first claim is a standard embodied-divinity assertion. The second is the doctrinal scaffolding around the godhead's epithet, *Huge*: physical enlargement is treated as a literal gift of the faith, not a metaphor. The third is more useful than it looks: the cult's mandate to gamble had previously been read as a tonal eccentricity, and the miracle catalog reframes it as a sacrament with a track record. Chapter II breaks off partway through. The adherent who put the copy together was already working from damaged or incomplete material.
+
+Chapter III is the eight-point Laws of Conduct, reproduced in full on the article page. The relevant ones for the case record are:
+
+- L. I and L. II make gambling and drinking obligatory. What had been read as the private vice of individual adherents (Amlooi's wine cellar habits, [[Isaac Acentino|Isaac]]'s on-the-record intoxication during *The People v. Huge Larry*) was in fact a religious requirement they were observing.
+- L. III names hostility to the established faiths.
+- L. IV restates baptism as the threshold of membership, consistent with the case record.
+- L. VII closes the exit by treating apostasy as a violation in itself.
+- L. V and L. VI demand a particular bearing rather than a particular act ("an original gangsta mf"; "not boring"). Inside the community they functioned as soft pressure to perform belonging.
+- L. VIII obliges adherents to accept any party invitation from any other adherent. The effect is to pull new members deeper into the community's social calendar without anyone needing to compel them openly.
+
+Set against the case record, the Teachings turn what looked like violations into observances. The Princess Salem ritual, Isaac's defense-counsel performance, Amlooi's drinking, the constant party invitations, the swords drawn at the baptismal water: none of it was incidental. The members were doing what the book told them to do.
 
 ## Key Figures
 
@@ -95,6 +118,18 @@ Larrism's most consequential doctrinal innovation was the binding of baptism and
 
 This is the textbook mechanism by which high-control religious movements close off the option to leave. It works because the sacred and the contractual reinforce each other. Defying the marriage is also defying the faith, and exit costs a person their relationship, their community, and their standing with the divine in a single decision. Princess Salem's refusal of both was treated by Larrist adherents as so unthinkable that violence was treated as the appropriate response. That violence was not a deviation from the doctrine; it was the doctrine being defended.
 
+> [!danger] In hindsight: signs of a high-control religious movement
+> The dynamics described here are not unique to Larrism. The recurring signs are:
+>
+> - A single living figure as the only authority, with no scripture or clergy that can correct them.
+> - Intimate decisions (marriage, family, employment, geography) bundled with membership, so none can be exited without exiting all.
+> - Hostility toward members' prior faiths, traditions, or families.
+> - Active discouragement of outside relationships and outside information.
+> - Treatment of departure as moral failure rather than as a choice the member has the standing to make.
+> - Treatment of critics, including former members, as enemies.
+>
+> If you recognize these in a community you are part of, or one someone you love is part of, please consider talking to someone outside the group. Cult exit is overwhelmingly the work of people who were kept connected to lives outside, and the most useful thing anyone outside can do is to remain reachable. Survivor-support organizations exist in most countries.
+
 ### 3. Membership as Ranked Scarcity
 
 The numbered sacred bread, "22" and its siblings, was finite. Each loaf was personally distributed by the godhead. Possession of one was the proof that a member had been recognized by the divine in person, and the number on the loaf encoded a member's order of arrival.
@@ -113,6 +148,19 @@ The two empires that built policy around Larry's pronouncements did not become L
 
 When a movement captures a state, the question of voluntary membership stops being meaningful in the territory it controls. Children are born into it as a civic condition. Public servants are required to participate as a condition of their post. Skeptics are positioned as not merely heterodox but seditious. This is the form of religious totalitarianism the [[Bureau of Religious Oversight]] is structured to identify, and the form against which it is empowered to act. Whether the Bureau's response is itself a form of unaccountable power is a separate question, treated in [[X-Seven]] and adjacent material.
 
+> [!tip] Patterns worth watching outside the canon
+> The shape Larrism shows on a small scale recurs in political movements that have not yet captured a state, and in ones that have:
+>
+> - A living figure as the gravitational center of a coalition. Policy is whatever the figure most recently said.
+> - Membership tokens (a hat, a color, a phrase) that mark recognition rather than encode policy.
+> - The fusion of national identity with religious or cultural identity. Members become the "real" citizens; dissenters become foreigners at home.
+> - Symbolic exile of lawful residents who disagree, with legal and social apparatus reinforcing each other.
+> - Tolerance, inside the movement, for behavior that would be disqualifying in anyone else, reframed as authenticity or as fight.
+> - Legal accountability for the figure framed as persecution of the faithful.
+> - Capture of the institutions whose job is to constrain power: courts, agencies, legislatures, independent press.
+>
+> These patterns are not specific to a country, a party, or a decade. They appear on the political left and on the political right, and tend to form when a population that has felt unheard for a long time finds a figure who promises to speak for them. The grievances are usually real. The mechanism the promise sets up, once it has the apparatus of a state behind it, is what this article is about.
+
 ### 6. The Question of the Complicit
 
 Larrism's followers were not a homogeneous group. Isaac Acentino was a true believer who actively participated in the assault on Princess Salem. Exoticus Exo was the same. Kevinus Exo, Louis Lime, and Zack Arn were present at the ceremony, but the case filing treated them as junior adherents whose direct participation in the violence had not been established. [[Amlooi Alvaldi]] was inducted into the faith in his late life by a community that had taken him in when no other had, and his Diary records his time among them as the most genuinely comfortable stretch of a life that had not previously offered him one. He concealed his prior service to a descendant of the Forge in order to remain. He participated in the rites. He received bread "22."
@@ -126,25 +174,6 @@ The post-Veil treatment of Larrist communities by Sovarre is the part of the rec
 These were not adherents being prosecuted. There was no trial. There was no due process. There were members of a faith, some of them complicit in the cult's worst acts and some of them not, being collectively killed by a paramilitary actor who had decided that the simplest answer to the question of what to do with a cult was to remove its remaining substrate from existence. Whether this should be called justice, vengeance, or atrocity is one of the open questions of the late epoch. The bodies were marked with the same carved "S" the cult's leadership had received. The signal was clear: belonging to the wrong thing was, for Sovarre's purposes, sufficient grounds.
 
 This part of the record is included here, on the article about Larrism rather than only in the article on [[Sovarre]], because the question of what is done to the people inside a collapsing movement is part of the question of cult abuse. The members did not stop being people when their godhead died. Many of them had been people who had been damaged into joining in the first place. Most of them did not survive long enough to begin the work of leaving.
-
----
-
-## In Hindsight
-
-The dynamics described above are not unique to Larrism. They appear, in recognizable form, in high-control religious movements throughout the historical record. The signs that a movement is becoming one of them are listed here plainly so that someone encountering them in a community they are part of, or that someone they love is part of, has a better chance of recognizing what they are seeing.
-
-- A single living figure as the only authority. No scripture older than the figure, no clergy with standing to dissent, no internal mechanism by which the figure can be wrong.
-- The bundling of intimate decisions (marriage, family, employment, geography) with the act of religious membership, so that any one of them cannot be exited without exiting all of them.
-- Membership tokens that are scarce, ranked, and personally distributed by the central figure, so that walking away costs the member the proof that they were chosen.
-- Hostility toward members' prior faiths, traditions, or families, often framed as protection of the new community against the old.
-- Active discouragement of outside relationships and outside information, often framed as protection of the member from corruption rather than as control.
-- Escalation of demands over time, with the next demand always presented as a small step from where the member already is.
-- Treatment of departure as a moral or spiritual failure rather than as a choice the member has the standing to make.
-- Treatment of critics, including former members, as enemies rather than as people who reached a different conclusion.
-
-If you recognize any of these in a group you are part of, please consider talking to someone outside the group about what you have noticed. If you recognize them in a group someone you love is part of, please consider naming what you have seen to them without dressing it up, without giving them an ultimatum, and without withdrawing from them. Cult exit is overwhelmingly the work of people who were kept connected to lives outside the group, and the most useful thing anyone outside a group can do is to remain reachable.
-
-If you are recently out: organizations that specifically support cult survivors exist in most countries and are worth seeking out. The work of leaving is real work, and it is not done in a week. You are not alone with it.
 
 ---
 
@@ -164,4 +193,5 @@ Whether any Larrist communities survived the explosions that followed the Night 
 - [[Criminal Code Act (1-LCC)]] (the statutory basis for the charges)
 - [[Lilaris Department of Justice Act]] (the procedural framework under which the case was filed)
 - [[Amlooi's Diary]] (initiate's first-person account, recovered after his death)
+- [[The Great Teachings of Larry]] (anonymous adherent tract; the only surviving devotional text from inside the movement)
 - [[Annexation of Whitefall]] (Idesian Larrist extremism cited as cause of secession)
