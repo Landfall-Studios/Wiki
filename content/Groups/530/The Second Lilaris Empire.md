@@ -1,7 +1,10 @@
 ---
+title: The Second Lilaris Empire
+description: The dominant power of mid-to-late Landfall-530, founded by the merger of the Ehrengard remnants with Saludo, governed by Kara A. Ehrveil and Nordvik Alvaldi under the Twin Crowns, and eventually converted into the United Provinces of Lilaris.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
 
 ## Overview
 
@@ -43,7 +46,7 @@ The Empire was composed of the territories of its two founding states plus duchi
 
 ### The Huge Larry Crisis
 
-The most destabilizing internal crisis of the imperial era was the rise of [[Larrism]]. The cult, centered on the figure of Huge Larry, captured the political leadership of [[New Ides]] under King [[Isaac Acentino]] (who was also Kara's father) and the ExoVinian Empire to the south. The crisis touched Lilaris directly when Lilaris Princess Salem Alvaldi was assaulted during a Larry Cult ritual on unclaimed land, an incident the Empire prosecuted as the central charge in [[Case Filing - The People v. Huge Larry|Case No. 593-LIR-NT]] before the New Terranova Imperial Court. The trial collapsed mid-proceeding, and every defendant including Isaac was killed in [[The People v. Huge Larry and the Night of the Veil|the Night of the Veil]].
+The most destabilizing internal crisis of the imperial era was the rise of [[Larrism]]. The cult, centered on the figure of Huge Larry, captured the political leadership of [[New Ides]] under King [[Isaac Acentino]] (who was also Kara's father) and the ExoVinian Empire to the south. The crisis touched Lilaris directly when Lilaris Princess Salem Alvaldi was assaulted during a Larry Cult ritual on unclaimed land, an incident the Empire prosecuted as the central charge in [[Case Filing - The People v. Huge Larry|Case No. 593-LIR-NT]] before the New Terranova Imperial Court. The trial collapsed mid-proceeding, and every defendant including Isaac was killed in [[The Night of the Veil]].
 
 ### The Annexation of Whitefall
 

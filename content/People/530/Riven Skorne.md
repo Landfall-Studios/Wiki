@@ -1,7 +1,10 @@
 ---
+title: Riven Skorne
+description: Duchess of New Ides, Imperial Consort to Empress Kara A. Ehrveil, and the figure who steered New Ides out of its Larrist period after the death of Isaac Acentino.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
 
 ## Overview
 
@@ -13,7 +16,7 @@ Riven Skorne was Duchess of [[New Ides]] by right of blood, Imperial Consort of 
 
 ### Inheritance of New Ides
 
-Riven assumed leadership of New Ides in the immediate aftermath of the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]], the coordinated strike that killed Isaac Acentino alongside the rest of the Larry Cult's leadership. Her claim rested on the ducal bloodline of New Ides and was uncontested. She inherited a state whose institutions had been bent toward [[Larrism]] under its previous sovereign, and whose international standing had collapsed in the wake of the Princess Salem Incident and the [[The Annexation of Whitefall|Whitefall secession]].
+Riven assumed leadership of New Ides in the immediate aftermath of [[The Night of the Veil]], the coordinated strike that killed Isaac Acentino alongside the rest of the Larry Cult's leadership. Her claim rested on the ducal bloodline of New Ides and was uncontested. She inherited a state whose institutions had been bent toward [[Larrism]] under its previous sovereign, and whose international standing had collapsed in the wake of the Princess Salem Incident and the [[The Annexation of Whitefall|Whitefall secession]].
 
 ### Renouncing Larrism
 

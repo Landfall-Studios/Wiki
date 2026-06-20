@@ -1,8 +1,11 @@
 ---
+title: Amlooi's Diary
+description: First-person account by Amlooi Alvaldi of his late life among the Larrists, recovered after his assassination at the hands of Seraphine du Roscarte and eventually delivered to his brother Nordvik.
 dg-publish: true
 tags:
   - L530
 ---
+
 Throughout his troubled life, Amlooi Alvaldi maintained a diary of his travels and troubles. After his assassination at the hands of [[Seraphine du Roscarte]], Amlooi's Diary eventually reached his brother, [[Nordvik Alvaldi]].
 
 ---
@@ -72,7 +75,7 @@ I was initiated into their HUGE religion. I was able to receive a few gifts of o
 
 **It has been a while...**
 My honorable lords and god were taken to court. I was not able to attend...
-One of my great lords was actually killed, alongside the winemaker and a few other friends. I'll never forget the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]].
+One of my great lords was actually killed, alongside the winemaker and a few other friends. I'll never forget the [[The Night of the Veil|Night of the Veil]].
 
 I noticed the brother of my great lord—the one who had accepted me—was going through some kind of psychotic episode, whispering words of the quartz lady, known for her powerful ideas...
 

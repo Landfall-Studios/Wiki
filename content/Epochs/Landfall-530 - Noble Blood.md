@@ -1,7 +1,10 @@
 ---
+title: Landfall-530 - Noble Blood
+description: The Noble Blood epoch of the Landfall SMP, set fifteen centuries after Landfall-230, defined by old bloodlines, divine intervention, and the rediscovery of ancient technology.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530 
 
 ![[530-full.png]]
 ## Overview
@@ -104,12 +107,14 @@ Fifteen centuries after the collapse of [[Epochs/Landfall-230 - The Great Domini
 >   - The township peacefully secedes from [[New Ides]] and integrates into [[The Second Lilaris Empire]] under the [[Annexation of Whitefall|Annexation Agreement]]
 >   - Merlot is renamed **Whitefall**; Ashling is elevated from Mayor to Viscountess of Whitefall
 >   - The Idesian Empire does not recognize the secession, but no open military reprisal follows
-> - **[[The People v. Huge Larry and the Night of the Veil]]**
+> - **[[The People v. Huge Larry]]**
 >   - A landmark court case is brought against Huge Larry and his followers
 >   - [[Isaac Acentino]] acts as defense counsel while drunk, causing chaos in the Imperial Court
 >   - The trial descends into disorder and is suspended
->   - **The Night of the Veil:** Before the trial can resume, all six defendants—including Isaac Acentino—are assassinated in a coordinated strike by [[Sovarre]]
->   - Each body is marked with a carved "S" for Seraphine and people speculate that Seraphine may secretly feel protective of Kara and/or spiteful towards Isaac. Others suspect collusion.
+> - **[[The Night of the Veil]]**
+>   - Before the trial can resume, all six defendants, including Isaac Acentino, are assassinated in a coordinated strike by [[Sovarre]] alongside two senior Larrist figures whose names appear in no case file
+>   - Each body is marked with a carved "S" for Seraphine; speculation at the time ranges from Seraphine acting protectively of Kara, to spite toward Isaac, to direct collusion
+>   - The strike is followed within seventy-two hours by the systematic destruction of Larrist chapels and settlements; lay membership effectively ends within a week
 
 > [!era]+ Aftermath of the Night of the Veil
 > - **Imperial Mourning**
@@ -226,7 +231,7 @@ Fifteen centuries after the collapse of [[Epochs/Landfall-230 - The Great Domini
 
 ### Political Leaders
 - **[[Nordvik Alvaldi]]**: Distinguished statesman and leader of [[Saludo]]. Co-founder of [[The Second Lilaris Empire]] alongside [[Kara A. Ehrveil]]. Known for commitment to ecological balance and animist traditions.
-- **[[Isaac Acentino]]**: Former king of [[New Ides]] and founder of [[Nouveaux Ides]] winery. Father of [[Kara A. Ehrveil]]. Descended into extremism before being assassinated during [[The People v. Huge Larry and the Night of the Veil|the Night of the Veil]].
+- **[[Isaac Acentino]]**: Former king of [[New Ides]] and founder of [[Nouveaux Ides]] winery. Father of [[Kara A. Ehrveil]]. Descended into extremism before being assassinated during [[The Night of the Veil]].
 - **[[Dominikana]]**: Founder and former leader of the [[Zatrian National Republic]], advocate for national independence before the ZNR's absorption into [[Ehrengard Empire|Ehrengard]].
 
 ### Military and Nobility

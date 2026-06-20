@@ -1,7 +1,11 @@
 ---
+title: Amlooi Alvaldi
+description: Itinerant Alvaldi knight, master of Vetis Veltol, senior Larrist initiate, and author of the diary that became the most complete first-person record of the faith's interior life. Killed by Seraphine du Roscarte in the closing stretch of the epoch.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
+
 ## Overview
 
 Amlooi Alvaldi was the brother of [[Nordvik Alvaldi]]. He spent the bulk of his life as an itinerant knight, having been disowned by his bloodline in his earliest years and serving instead under a succession of chosen lords. He is best remembered as the master who trained [[Vetis Veltol]] in the sword, as a longstanding figure in the inner circle of [[Huge Larry]]'s kingdom in its final years, and as the author of [[Amlooi's Diary]], the document through which most of his interior life is known. He was killed by [[Seraphine du Roscarte]] in the closing stretch of the epoch.
@@ -50,7 +54,7 @@ He was inducted into [[Larrism]], received the religious bread "22" and the bles
 
 ### The Night of the Veil and After
 
-The events of [[The People v. Huge Larry and the Night of the Veil|the Night of the Veil]] killed one of the kingdom's two emperors alongside the winemaker [[Isaac Acentino]] and several of Amlooi's other close friends. Amlooi himself was not in attendance and survived the immediate strike.
+The events of [[The Night of the Veil]] killed one of the kingdom's two emperors alongside the winemaker [[Isaac Acentino]] and several of Amlooi's other close friends. Amlooi himself was not in attendance and survived the immediate strike.
 
 In the weeks that followed he watched the surviving emperor's brother, a man who had been part of the inner circle that had accepted him, lose himself to a worsening psychotic episode. The Diary records the brother whispering of "the quartz lady" and her powerful ideas, and unraveling further each time Amlooi returned from short trips away. Eventually the brother acted: a series of explosions destroyed the mansion Amlooi had helped build, the wine cellar of his late friend, and the chapel in which he had received his blessed bread. The surviving emperor was killed in the same event.
 

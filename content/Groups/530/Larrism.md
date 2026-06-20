@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-Larrism, known colloquially as the **Larry Cult** and to its adherents simply as the *HUGE religion*, was a religious and political movement that took hold in the late middle period of [[Landfall-530 - Noble Blood]] around a single figure called only "Huge Larry." Treated by some as a dangerous lunatic and by others as a living god, Larry attracted a small but influential network of true believers, including the sitting leadership of [[New Ides]] and the ExoVinian Empire. The movement reshaped policy in two nations, triggered the secession of [[The Annexation of Whitefall|Whitefall from the Idesian Empire]], and ended in a coordinated mass assassination of its leadership in the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]].
+Larrism, known colloquially as the **Larry Cult** and to its adherents simply as the *HUGE religion*, was a religious and political movement that took hold in the late middle period of [[Landfall-530 - Noble Blood]] around a single figure called only "Huge Larry." Treated by some as a dangerous lunatic and by others as a living god, Larry attracted a small but influential network of true believers, including the sitting leadership of [[New Ides]] and the ExoVinian Empire. The movement reshaped policy in two nations, triggered the secession of [[The Annexation of Whitefall|Whitefall from the Idesian Empire]], and ended in a coordinated mass assassination of its leadership in [[The Night of the Veil]].
 
 Larrism is the most consequential religious movement of the late epoch outside the established faiths. Unlike the [[Conclave of the Silent Forge]] or the [[Umbral Communion]], it emerged from no recognized theological tradition and centered entirely on the person and pronouncements of its living godhead. Larry himself produced no scripture. The only devotional text known to have circulated within the faith, [[The Great Teachings of Larry]], is an anonymous adherent compilation recovered from a chapel ruin after the cult's collapse.
 
@@ -92,13 +92,13 @@ In the immediate aftermath of the Princess Salem Incident, Empress [[Kara A. Ehr
 
 The trial proper became infamous less for its substance than for its conduct. Isaac Acentino, a co-defendant, served as defense counsel and was openly drunk in the courtroom. After a recess to assess his sobriety, the trial was suspended.
 
-For the legal substance of the case, see [[The People v. Huge Larry and the Night of the Veil]].
+For the legal substance of the case, see [[The People v. Huge Larry]]. For the assassinations that ended it, see [[The Night of the Veil]].
 
 ### The Night of the Veil and Aftermath
 
-Before the trial could resume, all six defendants (Huge Larry, Exoticus Exo, Isaac Acentino, Kevinus Exo, Louis Lime, and Zack Arn) were assassinated in a single coordinated strike, alongside Amlooi Alvaldi and one other figure. The killings bore the signature of [[Seraphine du Roscarte]] and her terror faction [[Sovarre]], with each body marked by a crudely carved "S."
+Before the trial could resume, all six defendants (Huge Larry, Exoticus Exo, Isaac Acentino, Kevinus Exo, Louis Lime, and Zack Arn) were assassinated in a single coordinated strike, alongside two senior Larrist figures whose names appear in no case file. The killings bore the signature of [[Seraphine du Roscarte]] and her terror faction [[Sovarre]], with each body marked by a carved "S." [[Amlooi Alvaldi]], the senior initiate whose diary is the only surviving first-person record of the faith's interior life, was traveling on the night of the strike and survived it.
 
-In the days that followed, explosions tore through former Larrist settlements. Homes, chapels, and communities built by the movement were destroyed. Witnesses reported psychotic episodes among survivors and whispered references to Seraphine du Roscarte. With its godhead dead, its leadership in the New Ides cabinet wiped out, and its physical infrastructure burned, organized Larrism effectively ended within a week.
+In the seventy-two hours that followed, the explosions began. Larrist settlements, chapels, and homes across the former Idesian and ExoVinian territories were destroyed in a coordinated sweep that targeted gatherings rather than absences. Memorial services, baptisms, and weddings were destroyed with the congregations inside them. The full scope of what was done to the lay membership during that week is covered in [[The Night of the Veil]]. With its godhead dead, its leadership in the New Ides cabinet wiped out, its lay communities killed in their chapels, and its physical infrastructure burned, organized Larrism effectively ended within a week. Amlooi was killed in a later wave, by Seraphine personally.
 
 Riven Skorne assumed leadership of [[New Ides]] and moved promptly to distance the duchy from Larrist ideology. By the time [[New Ides]] was reaffirmed within the Empire through the [[The Idesian Accord|Idesian Accord]], the faith retained no formal political standing anywhere.
 
@@ -185,7 +185,7 @@ Whether any Larrist communities survived the explosions that followed the Night 
 
 ## Role in Epochs
 
-- **[[Landfall-530 - Noble Blood]]**: Emerges in the late middle period as a movement around Huge Larry, captures the political leadership of [[New Ides]] and the ExoVinian Empire, drives the [[The Annexation of Whitefall|Whitefall secession]], triggers [[The People v. Huge Larry and the Night of the Veil|the Huge Larry case]] and the Night of the Veil, and is functionally destroyed in the assassinations and explosions that follow.
+- **[[Landfall-530 - Noble Blood]]**: Emerges in the late middle period as a movement around Huge Larry, captures the political leadership of [[New Ides]] and the ExoVinian Empire, drives the [[The Annexation of Whitefall|Whitefall secession]], triggers [[The People v. Huge Larry|the Huge Larry case]] and [[The Night of the Veil]], and is functionally destroyed in the assassinations and explosions that follow.
 
 ## Sources
 

@@ -1,7 +1,10 @@
 ---
+title: The Roscarte Coup
+description: The brutal dismantling of the Ehrengard Empire by Seraphine du Roscarte; the killing of Porter Ehrveil, the forced abdication of Avery R. Ehrveil, and the birth of Sovarre as the regime that took the Empire's place.
 dg-publish: true
+tags:
+  - L530
 ---
-#L530
 
 ## Overview
 
@@ -74,6 +77,27 @@ Seraphine convened what came to be called the **Blood Court**, an internal tribu
 
 ![[roscarte-coup-2.png]]
 
+### A Celebration
+
+Shortly after the erasure of Ehrengard and the formal founding of [[Sovarre]], Seraphine released a video edit through the captured state broadcast apparatus. The edit was a single rolling reel of cuts between Seraphine herself and the sites that had carried [[Ehrengard Empire|Ehrengard]]'s authority, framed in the official broadcast as a celebration of the new dominion's victory.
+
+The framing was not the point.
+
+The footage moved Seraphine through the captured capital and through the places that had mattered to the administration she had unmade. Gambling at Red Diamond Casino with the old empire's coin stacked carelessly in front of her. Flying low and recklessly through a district [[Avery R. Ehrveil|Avery]] had personally rebuilt earlier in her reign. Standing on Avery's old throne while flames consumed it beneath her, arms out, unhurried. Laying on the floor of a state hall, surrounded by spilled liquor, looking up at the camera and laughing. The edit cut between sites and acts on a beat, each piece staged for the public eye as the new regime's confidence and its unscripted swagger.
+
+The private register was the point. Every site was a site Avery had cared about. Every act was the inversion of a discipline Avery had personally held to. Avery did not gamble. Avery did not fly recklessly. Avery had sat on that throne with her back straight every day of her reign. Avery did not drink to excess, and certainly not to vomiting. The edit was a catalog of the freedoms Avery had never permitted herself, taken now by the woman who had taken her world, performed in the spaces those freedoms had been denied.
+
+The intended audience was the dominion. The actual audience was one person.
+
+> [!note]
+> The following video is carefully time-synced and will appear out of time when watched on wireless headsets.
+
+![[seraphine-propaganda.mov]]
+
+This is the framing the household at [[New Ides]] later reported when asked about Avery's first viewing. Isaac, in the account he eventually gave [[Kara A. Ehrveil|Kara]], said Avery was composed through the first watching and not after. She did not discuss it. She made no public statement in response. She did not request that it be taken down. The next time she spoke of it, in the surviving correspondence, she described it as the only language Seraphine had left.
+
+The edit is treated by historians of the period as the cleanest example of how completely the personal and the political collapsed into a single act in the years after the coup. Every desecration in the cut was a state crime and a love letter at once. There was no version of the broadcast that was only one of those things. By the time it went out, Seraphine had not retained the capacity to make one.
+
 ## The Cost
 
 ### To Avery
@@ -84,7 +108,7 @@ She was killed by a bomb during her victory speech in the retaken palace, before
 
 ### To Seraphine
 
-Seraphine got everything she said she wanted. She held the throne and ruled through fear. She had outlasted the woman who refused her. None of it appears, from the available records, to have made her well. The years that followed are punctuated by reports of increasingly erratic behavior, of conversations conducted with people who were not in the room, of moments when courtiers heard her speaking to Avery as though Avery were still present. After [[The People v. Huge Larry and the Night of the Veil|the Night of the Veil]], during which Seraphine personally executed the operation that killed [[Isaac Acentino]] (Avery's father,) witnesses reported what one Imperial intelligence officer mentioned "psychotic episodes" and "whispers of Seraphine du Roscarte" associated with the brutal destruction of former [[Larrism|Larrist]] settlements.
+Seraphine got everything she said she wanted. She held the throne and ruled through fear. She had outlasted the woman who refused her. None of it appears, from the available records, to have made her well. The years that followed are punctuated by reports of increasingly erratic behavior, of conversations conducted with people who were not in the room, of moments when courtiers heard her speaking to Avery as though Avery were still present. After [[The Night of the Veil]], during which Seraphine personally directed the operation that killed [[Isaac Acentino]] (Kara's father, and the man Avery had chosen), witnesses reported what one Imperial intelligence officer recorded as "psychotic episodes" and "whispers of Seraphine du Roscarte" associated with the destruction of former [[Larrism|Larrist]] settlements.
 
 The Blood Court continued to operate. So did Seraphine. Whether the woman who had served as Avery's right hand still existed inside the sovereign of Sovarre, or had been replaced years earlier by what was left after the choice, is the question that survives her.
 

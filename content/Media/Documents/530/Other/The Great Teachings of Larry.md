@@ -9,7 +9,7 @@ tags:
 > [!note] On this text
 > *The Great Teachings of Larry* is the only surviving piece of devotional text known to have circulated within the [[Larrism|Larry Cult]] during its active period. The document is anonymous, written in the third person about [[Huge Larry]], and was almost certainly assembled by an adherent rather than by the godhead himself. Larry produced no first-person scripture, and no surviving witness to the faith has claimed authorship of this text.
 >
-> A single copy was recovered from the ruins of a Larrist chapel in the days after the [[The People v. Huge Larry and the Night of the Veil|Night of the Veil]] and the [[Sovarre]] explosions that followed it. It was logged into evidence by the [[Bureau of Religious Oversight]] before the [[The Blaze|Blaze]] forced the Bureau into hiding, and is reproduced here from that archive.
+> A single copy was recovered from the ruins of a Larrist chapel in the days after [[The Night of the Veil]] and the [[Sovarre]] explosions that followed it. It was logged into evidence by the [[Bureau of Religious Oversight]] before the [[The Blaze|Blaze]] forced the Bureau into hiding, and is reproduced here from that archive.
 >
 > The text is reproduced in full and without correction. The missing portion of Chapter II is preserved as it was recovered; the chapter itself was incomplete or damaged before the surviving copy was made. Several of the text's claims (the cosmological claim that Larry created the gods of the [[Conclave of the Silent Forge]], the [[Umbral Communion]], and the [[Weavers of the Verdant Thread]]; the narrative in which Larry "brought justice" to dissenting Caldorans) are theological assertions of the movement and not historical record. For the full doctrinal and structural treatment of the faith, see [[Larrism]].
 
@@ -69,4 +69,5 @@ tags:
 - [[Huge Larry]] (the godhead)
 - [[Amlooi's Diary]] (the only first-person initiate account, recovered after [[Amlooi Alvaldi]]'s death)
 - [[Case Filing - The People v. Huge Larry]] (the consolidated criminal case against the cult's leadership)
-- [[The People v. Huge Larry and the Night of the Veil]] (the trial, the assassinations, and the destruction of the chapels in which copies of this text were kept)
+- [[The People v. Huge Larry]] (the trial that ran while the faith was still active)
+- [[The Night of the Veil]] (the assassinations and the destruction of the chapels in which copies of this text were kept)
