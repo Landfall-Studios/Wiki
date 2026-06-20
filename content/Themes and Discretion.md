@@ -30,6 +30,11 @@ The covert paramilitary unit [[Kara A. Ehrveil|Kara]] embedded in the founding t
 
 The fall of the Ehrengard Empire to [[Seraphine du Roscarte]], framed in the public record as a political correction and in private as the inversion of a devotion Seraphine had carried for years and that [[Avery R. Ehrveil|Avery]] had never returned. The article's *Philosophical Aftermath* section is one of the wiki's most direct ethical treatments: whether love of that kind is meaningfully distinct from the destruction it produced, whether the noble class that swore fealty under duress bore any moral weight for what followed, and whether Avery, who had known and not spoken, carried any responsibility for what her silence triggered.
 
+### [[What Marsh Did]]
+*Contains: political assassination by the founder of a polity against its own cofounders, intimate partnership as the vehicle of a political conclusion, sustained falsification of public records, the categorical question of whether the end determines the moral character of the method.*
+
+The killings of [[Fuhai]] cofounders Nova, Luna, and Octavia on the order of President Marsh Horton in the second decade of the settlement, after Camina Gravacs assembled documentary evidence that the three retained undisclosed ties to [[Echo Sprawl]] and were on track to make the rail company they had built the operational center of Fuhai. The article works through five angles: the gap between the cofounders' provable arrangement and their unprovable intent, the Accumulation Doctrine as the structural condition under which Marsh's informal authority had grown to a size that allowed her to act around her own legal architecture, the question of Camina's responsibility for a framework she built without ordering the conclusion, the falsified public record that has not been re-attributed, and the categorical question of whether a method the corporate executives of [[Citadel Corporation]] and the others would have recognized retains its character when it is used by someone defending the polity that was built against them. The article does not converge with [[X-Seven]] or [[Roscarte Coup|The Roscarte Coup]]. It was written to sit alongside them.
+
 ---
 
 ## Belief and Coercion
