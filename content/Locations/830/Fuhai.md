@@ -125,4 +125,4 @@ The events by which President Marsh Horton, in the second decade of Fuhai's exis
 
 ## Fuhai Rises
 
-After an attack on the Fuhai mountain, President Marsh held a press conference to discuss the future of the nation, its defense strategy, and its space program. A synopsis of the event can be read at [[What Marsh Did]].
+After an attack on the Fuhai mountain, President Marsh held a press conference to discuss the future of the nation, its defense strategy, and its space program. A synopsis of the event can be read at [[Fuhai Rises]].
