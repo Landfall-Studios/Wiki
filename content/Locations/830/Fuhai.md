@@ -122,3 +122,7 @@ A number of smaller polities established themselves elsewhere on the continent a
 ## What Marsh Did
 
 The events by which President Marsh Horton, in the second decade of Fuhai's existence, ordered the assassinations of cofounders Nova, Luna, and Octavia and arranged for their deaths to be entered into the public record under causes that did not name the presidency, are treated in their own article at [[What Marsh Did]]. The summary that page begins with: the evidence Camina Gravacs assembled on the three cofounders' undisclosed ties to Echo Sprawl was real; the conclusion Marsh drew from it was the conclusion the framing produced; and the order Marsh gave was given outside the legal architecture she had built. The settlement that emerged from the killings was a more centralized Fuhai than the one that had entered them.
+
+## Fuhai Rises
+
+After an attack on the Fuhai mountain, President Marsh held a press conference to discuss the future of the nation, its defense strategy, and its space program. A synopsis of the event can be read at [[Fuhai Rises]].
